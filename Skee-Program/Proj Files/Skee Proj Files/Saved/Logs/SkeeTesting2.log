@@ -1,0 +1,1194 @@
+﻿Log file open, 10/29/18 10:49:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SkeeTesting2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1673038032) SRandInit(-1673038032).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198836
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UE4Duino
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Binaries/Win64/UE4Editor-SkeeTesting2.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/UE4Duino_2.2.1_4.18/UE4Duino/Binaries/Win64/UE4Editor-UE4Duino.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.29-17.49.19:405][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.29-17.49.19:405][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.29-17.49.19:544][  0]LogInit: Computer: DESKTOP-FRNA35L
+[2018.10.29-17.49.19:544][  0]LogInit: User: Skeeball
+[2018.10.29-17.49.19:544][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.29-17.49.19:544][  0]LogInit: High frequency timer resolution =3.312799 MHz
+[2018.10.29-17.49.19:545][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.10.29-17.49.19:545][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.29-17.49.19:545][  0]LogMemory: Process Physical Memory: 277.37 MB used, 277.37 MB peak
+[2018.10.29-17.49.19:545][  0]LogMemory: Process Virtual Memory: 269.91 MB used, 269.91 MB peak
+[2018.10.29-17.49.19:545][  0]LogMemory: Physical Memory: 2023.86 MB used,  6154.58 MB free, 8178.44 MB total
+[2018.10.29-17.49.19:545][  0]LogMemory: Virtual Memory: 641.27 MB used,  6154.58 MB free, 134217728.00 MB total
+[2018.10.29-17.49.20:046][  0]LogInit: Using OS detected language (en-US).
+[2018.10.29-17.49.20:046][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.29-17.49.20:152][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.29-17.49.20:805][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.29-17.49.23:152][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.29-17.49.23:184][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
+[2018.10.29-17.49.23:184][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.10.29-17.49.23:185][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.29-17.49.23:186][  0]LogD3D11RHI:       0/0/4089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.29-17.49.23:186][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.29-17.49.23:190][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.29-17.49.23:190][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.29-17.49.23:190][  0]LogWindows: EnumDisplayDevices:
+[2018.10.29-17.49.23:191][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
+[2018.10.29-17.49.23:191][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.10.29-17.49.23:191][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.10.29-17.49.23:192][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.10.29-17.49.23:192][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.29-17.49.23:192][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
+[2018.10.29-17.49.23:192][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2018.10.29-17.49.23:192][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2018.10.29-17.49.23:192][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2018.10.29-17.49.23:218][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.10.29-17.49.23:224][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.29-17.49.23:236][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.29-17.49.23:236][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Intermediate/Shaders/WorkingDirectory/3220/).
+[2018.10.29-17.49.23:237][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Skeeball/AppData/Local/Temp/UnrealShaderWorkingDir/B3214B0049900C943C8EE3872CFC1669/'.
+[2018.10.29-17.49.23:237][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.29-17.49.28:796][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.29-17.49.28:850][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.29-17.49.28:903][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.29-17.49.28:956][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.29-17.49.29:024][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.29-17.49.29:079][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.29-17.49.29:133][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.29-17.49.29:187][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.29-17.49.29:234][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.29-17.49.29:287][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.29-17.49.29:339][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.29-17.49.29:391][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.29-17.49.29:444][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.29-17.49.29:497][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.29-17.49.29:601][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.29-17.49.29:601][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.29-17.49.29:671][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-17.49.29:711][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.29-17.49.29:812][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.29-17.49.29:842][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.29-17.49.29:893][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.29-17.49.29:945][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.29-17.49.29:996][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.29-17.49.30:051][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.29-17.49.30:051][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.29-17.49.30:649][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.29-17.49.31:329][  0]LogDerivedDataCache: Loaded boot cache 0.68s 74MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.29-17.49.31:329][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.10.29-17.49.31:330][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.29-17.49.31:330][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.29-17.49.31:330][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.29-17.49.31:330][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.29-17.49.31:381][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.29-17.49.31:393][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Skeeball/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.29-17.49.31:404][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.29-17.49.31:405][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.29-17.49.31:431][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.29-17.49.31:431][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.29-17.49.33:999][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.29-17.49.34:704][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.29-17.49.34:744][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.29-17.49.34:744][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.29-17.49.34:744][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.29-17.49.34:744][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.29-17.49.34:744][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.29-17.49.34:789][  0]LogNetVersion: SkeeTesting2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3365423841)
+[2018.10.29-17.49.35:149][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.10.29-17.49.36:110][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.074210 seconds
+[2018.10.29-17.49.36:115][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.10.29-17.49.36:115][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.10.29-17.49.36:115][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.29-17.49.36:174][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.10.29-17.49.56:862][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.29-17.49.56:906][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.29-17.49.57:412][  0]UE4DuinoLog: Warning: UE4Duino: Log Started
+[2018.10.29-17.49.57:984][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.10.29-17.49.58:549][  0]SourceControl: Source control is disabled
+[2018.10.29-17.49.58:549][  0]SourceControl: Source control is disabled
+[2018.10.29-17.49.58:604][  0]SourceControl: Source control is disabled
+[2018.10.29-17.49.58:657][  0]SourceControl: Source control is disabled
+[2018.10.29-17.49.59:589][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.29-17.49.59:863][  0]LogOcInput: OculusInput pre-init called
+[2018.10.29-17.50.00:235][  0]LogEngine: Initializing Engine...
+[2018.10.29-17.50.00:237][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.29-17.50.00:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.29-17.50.00:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.29-17.50.00:769][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.29-17.50.00:775][  0]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-17.50.00:949][  0]LogInit: FAudioDevice initialized.
+[2018.10.29-17.50.01:140][  0]LogDerivedDataCache: Saved boot cache 0.19s 74MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.29-17.50.01:161][  0]LogInit: Texture streaming: Enabled
+[2018.10.29-17.50.01:277][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.29-17.50.01:414][  0]LogInit: Transaction tracking system initialized
+[2018.10.29-17.50.01:738][  0]BlueprintLog: New page: Editor Load
+[2018.10.29-17.50.02:664][  0]LocalizationService: Localization service is disabled
+[2018.10.29-17.50.03:567][  0]LogConsoleResponse: Display: 
+[2018.10.29-17.50.04:711][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.29-17.50.04:711][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.29-17.50.04:711][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.29-17.50.06:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/' took 0.02s
+[2018.10.29-17.50.06:335][  0]SourceControl: Source control is disabled
+[2018.10.29-17.50.06:335][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.29-17.50.06:336][  0]LightingResults: New page: Lighting Build
+[2018.10.29-17.50.06:379][  0]MapCheck: New page: Map Check
+[2018.10.29-17.50.06:379][  0]LightingResults: New page: Lighting Build
+[2018.10.29-17.50.15:419][  0]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-17.50.15:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.29-17.50.15:524][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.29-17.50.15:583][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.697ms to complete.
+[2018.10.29-17.50.15:583][  0]LogFileHelpers: Loading map 'SkeeballMap' took 9.248
+[2018.10.29-17.50.15:836][  0]LogCollectionManager: Loaded 0 collections in 0.002163 seconds
+[2018.10.29-17.50.15:916][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Collections/' took 0.01s
+[2018.10.29-17.50.15:916][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Developers/Skeeball/Collections/' took 0.01s
+[2018.10.29-17.50.15:916][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Collections/' took 0.01s
+[2018.10.29-17.50.15:916][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.29-17.50.15:925][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2365 classes and 524 folders.
+[2018.10.29-17.50.15:994][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.29-17.50.17:052][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.10.29-17.50.17:115][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.10.29-17.50.17:161][  0]LogSlate: Took 0.003884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.50.17:166][  0]LogSlate: Took 0.003373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.50.17:176][  0]LogSlate: Took 0.004023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.50.17:386][  0]LogRenderer: Reallocating scene render targets to support 1048x428 Format 9 NumSamples 1 (Frame:1).
+[2018.10.29-17.50.17:520][  0]LogSlate: Took 0.012621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.50.17:695][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.10.29-17.50.17:695][  0]LogLoad: (Engine Initialization) Total time: 65.08 seconds
+[2018.10.29-17.50.17:695][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.29-17.50.17:695][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.10.29-17.50.17:761][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.10.29-17.50.17:874][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/' took 0.13s
+[2018.10.29-17.50.17:884][  1]LogAssetRegistry: Asset discovery search completed in 42.7573 seconds
+[2018.10.29-17.50.17:886][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.29-17.50.17:886][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.10.29-17.51.08:702][243]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-17.51.08:889][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.51.08:889][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-17.51.08:890][243]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 3:51:08 AM)
+[2018.10.29-17.51.08:891][243]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-17.51.08:911][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020484s)
+[2018.10.29-17.51.08:912][243]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-17.51.08:912][243]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2018.10.29-17.51.08:912][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.021673s)
+[2018.10.29-17.51.08:929][243]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-17.51.08:935][243]LogInit: FAudioDevice initialized.
+[2018.10.29-17.51.08:986][243]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-17.51.08:988][243]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-10.51.08
+[2018.10.29-17.51.08:989][243]LogWorld: Bringing up level for play took: 0.001423
+[2018.10.29-17.51.09:035][243]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.10.29-17.51.09:038][243]LogScript: Warning: Accessed None trying to read property ArduinoPort
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:00BB
+[2018.10.29-17.51.09:038][243]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property ArduinoPort from function: 'ExecuteUbergraph_Arduino_Com' from node: Print in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property ArduinoPort
+[2018.10.29-17.51.09:038][243]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-17.51.09:042][243]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 1.074
+[2018.10.29-17.51.09:043][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.51.09:101][243]LogRenderer: Reallocating scene render targets to support 1200x700 Format 9 NumSamples 1 (Frame:1).
+[2018.10.29-17.51.26:466][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.51.26:545][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.51.49:735][ 86]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.51.50:363][ 86]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.10.29-17.51.51:594][ 86]LogSlate: Took 0.018924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.29-17.51.51:736][ 87]LogSlate: Took 0.013560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.29-17.52.30:294][966]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.54.39:741][153]BlueprintLog: New page: Compile Arduino_Com
+[2018.10.29-17.54.40:635][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Arduino_Com" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset" SILENT=true
+[2018.10.29-17.54.40:715][161]LogSavePackage: Save=29.96ms
+[2018.10.29-17.54.40:715][161]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Arduino_ComF4F802B544AEAA042D0C6089484E7FFD.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset'
+[2018.10.29-17.54.40:718][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset
+[2018.10.29-17.54.41:561][176]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-17.54.41:596][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.54.41:597][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-17.54.41:597][176]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 3:54:41 AM)
+[2018.10.29-17.54.41:597][176]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-17.54.41:610][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012741s)
+[2018.10.29-17.54.41:610][176]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-17.54.41:610][176]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.10.29-17.54.41:611][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013811s)
+[2018.10.29-17.54.41:629][176]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-17.54.41:635][176]LogInit: FAudioDevice initialized.
+[2018.10.29-17.54.41:672][176]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-17.54.41:675][176]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-10.54.41
+[2018.10.29-17.54.41:675][176]LogWorld: Bringing up level for play took: 0.001611
+[2018.10.29-17.54.41:678][176]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-17.54.41:683][176]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap -0.285
+[2018.10.29-17.54.41:683][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.54.44:071][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.54.44:173][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.55.01:573][621]BlueprintLog: New page: Compile Arduino_Com
+[2018.10.29-17.55.02:688][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Arduino_Com" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset" SILENT=true
+[2018.10.29-17.55.02:749][633]LogSavePackage: Save=32.31ms
+[2018.10.29-17.55.02:749][633]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Arduino_ComD89F85D4427128F9F2A85AB5DB005437.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset'
+[2018.10.29-17.55.02:752][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset
+[2018.10.29-17.55.10:751][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Arduino_Com" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset" SILENT=true
+[2018.10.29-17.55.10:834][806]LogSavePackage: Save=40.32ms
+[2018.10.29-17.55.10:834][806]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Arduino_Com2C4D03B147AF179D2297209DCA0431E5.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset'
+[2018.10.29-17.55.10:837][806]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset
+[2018.10.29-17.55.33:039][195]BlueprintLog: New page: Compile Arduino_Com
+[2018.10.29-17.55.33:969][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Arduino_Com" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset" SILENT=true
+[2018.10.29-17.55.34:075][204]LogSavePackage: Save=52.04ms
+[2018.10.29-17.55.34:075][204]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Arduino_ComC4CC9EF54417FB681455F5B31D815344.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset'
+[2018.10.29-17.55.34:077][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset
+[2018.10.29-17.55.46:920][483]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-17.55.46:954][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.55.46:954][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-17.55.46:954][483]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 3:55:46 AM)
+[2018.10.29-17.55.46:954][483]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-17.55.46:966][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012314s)
+[2018.10.29-17.55.46:967][483]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-17.55.46:967][483]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.10.29-17.55.46:967][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013299s)
+[2018.10.29-17.55.46:988][483]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-17.55.46:995][483]LogInit: FAudioDevice initialized.
+[2018.10.29-17.55.47:028][483]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-17.55.47:030][483]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-10.55.47
+[2018.10.29-17.55.47:030][483]LogWorld: Bringing up level for play took: 0.001589
+[2018.10.29-17.55.47:034][483]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-17.55.47:037][483]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 1.069
+[2018.10.29-17.55.47:037][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.56.03:425][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.56.03:512][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.56.34:157][ 55]LogEditorViewport: Clicking on Actor (LMB): SpotLight (4. SpotLight)
+[2018.10.29-17.56.38:691][150]LogEditorViewport: Clicking Background
+[2018.10.29-17.56.39:736][172]LogEditorViewport: Clicking on Actor (LMB): Scrolling_Background_C (Scrolling_Background)
+[2018.10.29-17.56.41:126][199]LogEditorViewport: Clicking Background
+[2018.10.29-17.56.42:670][232]LogEditorViewport: Clicking on Actor (LMB): CameraActor (2. Camera)
+[2018.10.29-17.56.45:416][274]LogEditorViewport: Clicking Background
+[2018.10.29-17.56.46:458][295]LogEditorViewport: Clicking on Actor (LMB): Scrolling_Background_C (Scrolling_Background)
+[2018.10.29-17.56.47:606][317]LogEditorViewport: Clicking Background
+[2018.10.29-17.56.56:821][521]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-17.56.56:858][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.56.56:858][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-17.56.56:858][521]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 3:56:56 AM)
+[2018.10.29-17.56.56:858][521]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-17.56.56:871][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012610s)
+[2018.10.29-17.56.56:872][521]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-17.56.56:872][521]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.10.29-17.56.56:872][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013781s)
+[2018.10.29-17.56.56:892][521]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-17.56.56:898][521]LogInit: FAudioDevice initialized.
+[2018.10.29-17.56.56:934][521]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-17.56.56:936][521]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-10.56.56
+[2018.10.29-17.56.56:937][521]LogWorld: Bringing up level for play took: 0.001426
+[2018.10.29-17.56.56:940][521]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-17.56.56:944][521]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.976
+[2018.10.29-17.56.56:944][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.57.30:406][146]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.30:414][146]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.30:425][146]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.30:428][146]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.31:904][172]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.31:912][172]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.31:922][172]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.31:926][172]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.35:678][239]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.35:686][239]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.35:696][239]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.35:699][239]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.39:184][300]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.39:192][300]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.39:203][300]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.39:206][300]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.42:896][365]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.42:904][365]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.42:915][365]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.42:918][365]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.46:559][429]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.46:567][429]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.46:578][429]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.46:581][429]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.50:049][490]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.50:057][490]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.50:066][490]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.50:068][490]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.53:317][547]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.53:325][547]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.53:336][547]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.53:337][547]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.56:600][604]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.56:608][604]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.57.56:619][604]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.57.56:622][604]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.57.59:988][663]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.57.59:996][663]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.58.00:007][663]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.58.00:011][663]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.58.03:267][720]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.58.03:275][720]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.58.03:286][720]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.58.03:289][720]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.58.07:047][786]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.58.07:055][786]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.58.07:065][786]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.58.07:069][786]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.58.10:715][850]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-17.58.10:723][850]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-17.58.10:734][850]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-17.58.10:736][850]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-17.58.14:539][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.58.14:629][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.58.17:103][973]LogSlate: Took 0.020131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.10.29-17.58.24:458][183]LogEditorViewport: Clicking on Actor (LMB): 3D_Mode_Revolve_C (3D_Mode_Revolve)
+[2018.10.29-17.58.35:118][404]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (1. Player Start)
+[2018.10.29-17.58.39:507][501]LogEditorViewport: Clicking on Actor (LMB): SpotLight (4. SpotLight)
+[2018.10.29-17.59.00:774][170]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-17.59.00:795][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.59.00:796][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-17.59.00:796][170]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 3:59:00 AM)
+[2018.10.29-17.59.00:796][170]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-17.59.00:808][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012560s)
+[2018.10.29-17.59.00:809][170]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-17.59.00:809][170]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2018.10.29-17.59.00:809][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013646s)
+[2018.10.29-17.59.00:829][170]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-17.59.00:836][170]LogInit: FAudioDevice initialized.
+[2018.10.29-17.59.00:876][170]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-17.59.00:879][170]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-10.59.00
+[2018.10.29-17.59.00:879][170]LogWorld: Bringing up level for play took: 0.001327
+[2018.10.29-17.59.00:882][170]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-17.59.00:886][170]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.918
+[2018.10.29-17.59.00:886][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.59.10:644][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.59.10:731][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-17.59.40:310][555]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.29-18.00.36:037][462]LogEditorViewport: Clicking Background
+[2018.10.29-18.00.37:932][502]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-18.00.37:958][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.00.37:959][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-18.00.37:959][502]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 4:00:37 AM)
+[2018.10.29-18.00.37:959][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-18.00.37:972][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012725s)
+[2018.10.29-18.00.37:972][502]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-18.00.37:973][502]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.10.29-18.00.37:973][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013821s)
+[2018.10.29-18.00.37:994][502]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-18.00.37:999][502]LogInit: FAudioDevice initialized.
+[2018.10.29-18.00.38:034][502]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-18.00.38:036][502]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-11.00.38
+[2018.10.29-18.00.38:037][502]LogWorld: Bringing up level for play took: 0.001459
+[2018.10.29-18.00.38:040][502]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-18.00.38:044][502]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.076
+[2018.10.29-18.00.38:044][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.00.41:109][556]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.00.41:118][556]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.00.41:127][556]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.00.41:129][556]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.00.43:180][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.00.43:265][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.00.45:562][646]LogEditorViewport: Clicking on Actor (LMB): PointLight (3. PointLight)
+[2018.10.29-18.01.39:156][871]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-18.01.39:179][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.01.39:179][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-18.01.39:179][871]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 4:01:39 AM)
+[2018.10.29-18.01.39:179][871]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-18.01.39:192][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012506s)
+[2018.10.29-18.01.39:192][871]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-18.01.39:192][871]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.10.29-18.01.39:193][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013567s)
+[2018.10.29-18.01.39:212][871]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-18.01.39:217][871]LogInit: FAudioDevice initialized.
+[2018.10.29-18.01.39:258][871]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-18.01.39:260][871]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-11.01.39
+[2018.10.29-18.01.39:261][871]LogWorld: Bringing up level for play took: 0.001395
+[2018.10.29-18.01.39:264][871]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-18.01.39:268][871]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap -0.7
+[2018.10.29-18.01.39:268][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.01.50:439][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.01.50:521][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.01.52:758][125]LogEditorViewport: Clicking on Actor (LMB): Spinning_MP_C (mp_FX)
+[2018.10.29-18.01.55:408][180]LogEditorViewport: Clicking Background
+[2018.10.29-18.01.57:105][214]LogEditorViewport: Clicking on Actor (LMB): CameraActor (2. Camera)
+[2018.10.29-18.03.02:947][312]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-18.03.02:969][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.03.02:969][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-18.03.02:969][312]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 4:03:02 AM)
+[2018.10.29-18.03.02:969][312]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-18.03.02:982][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012529s)
+[2018.10.29-18.03.02:982][312]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-18.03.02:983][312]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.10.29-18.03.02:983][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013577s)
+[2018.10.29-18.03.03:035][312]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-18.03.03:040][312]LogInit: FAudioDevice initialized.
+[2018.10.29-18.03.03:076][312]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-18.03.03:078][312]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-11.03.03
+[2018.10.29-18.03.03:079][312]LogWorld: Bringing up level for play took: 0.001432
+[2018.10.29-18.03.03:083][312]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-18.03.03:087][312]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap -0.881
+[2018.10.29-18.03.03:087][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.03.11:440][465]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.03.11:449][465]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.03.11:457][465]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.03.11:459][465]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.03.26:426][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.03.26:508][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.03.53:728][276]LogEditorViewport: Clicking on Actor (LMB): PointLight (3. PointLight)
+[2018.10.29-18.03.54:780][296]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.29-18.04.22:547][843]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.04.31:542][870]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.04.32:624][870]LogSavePackage: Save=973.84ms
+[2018.10.29-18.04.32:624][870]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/SkeeballMap_Auto1244FB17A49AB3E4040609795EEE1368A.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto1.umap'
+[2018.10.29-18.04.32:625][870]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto1.umap
+[2018.10.29-18.04.32:627][870]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.04.32:628][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkeeballMap' took 1.037
+[2018.10.29-18.04.32:628][870]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.037
+[2018.10.29-18.05.22:986][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkeeballMap" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.29-18.05.23:902][553]LogSavePackage: Save=873.28ms
+[2018.10.29-18.05.23:902][553]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/SkeeballMap35CA772F4DE7B8BE01F3AEB5EA31DC2B.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.10.29-18.05.23:905][553]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.10.29-18.05.23:956][553]LogFileHelpers: Saving map 'SkeeballMap' took 1.034
+[2018.10.29-18.05.40:012][495]LogEditorViewport: Clicking on Actor (LMB): CameraActor (2. Camera)
+[2018.10.29-18.06.02:007][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkeeballMap" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.29-18.06.02:926][570]LogSavePackage: Save=872.25ms
+[2018.10.29-18.06.02:926][570]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/SkeeballMap4A1680E7463E4A8A1F4CA3A8CFCF1597.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.10.29-18.06.02:955][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.10.29-18.06.02:995][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkeeballMap_BuiltData" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap_BuiltData.uasset" SILENT=true
+[2018.10.29-18.06.03:031][570]LogSavePackage: Save=5.30ms
+[2018.10.29-18.06.03:031][570]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/SkeeballMap_BuiltDataA9BE52304642D8BFD55F219E09566DDB.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap_BuiltData.uasset'
+[2018.10.29-18.06.03:032][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/SkeeballMap_BuiltData.uasset
+[2018.10.29-18.06.04:072][594]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.29-18.06.04:100][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.06.04:101][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-18.06.04:101][594]PIE: New page: PIE session: SkeeballMap (Oct 29, 2018, 4:06:04 AM)
+[2018.10.29-18.06.04:101][594]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.10.29-18.06.04:113][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012243s)
+[2018.10.29-18.06.04:114][594]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.10.29-18.06.04:114][594]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.10.29-18.06.04:114][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013258s)
+[2018.10.29-18.06.04:135][594]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.29-18.06.04:141][594]LogInit: FAudioDevice initialized.
+[2018.10.29-18.06.04:177][594]LogLoad: Game class is 'GameModeBase'
+[2018.10.29-18.06.04:179][594]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.10.29-11.06.04
+[2018.10.29-18.06.04:180][594]LogWorld: Bringing up level for play took: 0.001464
+[2018.10.29-18.06.04:183][594]LogTemp: Error: Failed to setup port COM3. Error: 00000006
+[2018.10.29-18.06.04:187][594]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.219
+[2018.10.29-18.06.04:187][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.06.25:104][980]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.25:111][980]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.25:122][980]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.25:125][980]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.27:797][ 27]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.27:804][ 27]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.27:815][ 27]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.27:818][ 27]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.33:844][139]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.33:851][139]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.33:862][139]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.33:865][139]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.35:672][171]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.35:679][171]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.35:690][171]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.35:693][171]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.37:122][196]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.37:131][196]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.37:139][196]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.37:141][196]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.38:804][225]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.38:813][225]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.38:824][225]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.38:827][225]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.40:710][258]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.40:717][258]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.40:728][258]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.40:731][258]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.50:266][435]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.06.50:274][435]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.06.50:285][435]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.06.50:288][435]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.06.51:731][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.06.51:813][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.10.29-18.07.14:228][709]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.07.14:694][709]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.29-18.07.15:115][710]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.29-18.07.49:616][642]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.08.22:702][420]LogSlate: Took 0.017000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.29-18.17.21:852][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Classic" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset" SILENT=true
+[2018.10.29-18.17.24:138][503]LogSavePackage: Save=2215.69ms
+[2018.10.29-18.17.24:138][503]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/ClassicCB8D53FF496346C04182BC90160E4F85.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset'
+[2018.10.29-18.17.24:161][503]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset
+[2018.10.29-18.17.24:162][503]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.27.51:958][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Classic" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset" SILENT=true
+[2018.10.29-18.27.54:214][748]LogSavePackage: Save=2220.59ms
+[2018.10.29-18.27.54:214][748]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/ClassicE498BF4F4F25849A4608B3ACB6069683.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset'
+[2018.10.29-18.27.54:218][748]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset
+[2018.10.29-18.28.43:153][687]BlueprintLog: New page: Compile Classic
+[2018.10.29-18.28.44:463][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Classic" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset" SILENT=true
+[2018.10.29-18.28.46:692][687]LogSavePackage: Save=2203.92ms
+[2018.10.29-18.28.46:692][687]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/ClassicFA5590174FFF5AA3ACEA01B100648356.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset'
+[2018.10.29-18.28.46:695][687]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset
+[2018.10.29-18.28.47:497][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Classic" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset" SILENT=true
+[2018.10.29-18.28.49:734][701]LogSavePackage: Save=2210.71ms
+[2018.10.29-18.28.49:734][701]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Classic142A437F48F0C5308991408708F7227C.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset'
+[2018.10.29-18.28.49:737][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Classic.uasset
+[2018.10.29-18.29.41:179][911]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-18.29.41:182][911]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.29-18.29.41:186][911]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-18.29.41:197][911]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-18.29.41:201][911]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.29.41:212][911]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.29.42:723][937]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.29-18.30.33:104][404]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.29-18.32.06:500][832]BlueprintLog: New page: Compile Solenoid_Test
+[2018.10.29-18.32.07:279][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.10.29-18.32.07:396][845]LogSavePackage: Save=59.52ms
+[2018.10.29-18.32.07:397][845]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Solenoid_TestB2A21ED94E0859BEA38B4E8AD6F81992.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.10.29-18.32.07:400][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.10.29-18.32.44:509][667]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkeeballMap' took 0.021
+[2018.10.29-18.32.44:511][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Solenoid_Test] ([1] browsable assets)...
+[2018.10.29-18.32.44:511][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Solenoid_Test]
+[2018.10.29-18.32.44:594][667]LogSavePackage: Save=57.56ms
+[2018.10.29-18.32.44:594][667]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Solenoid_Test_Auto253D4EBEB432E46840B429299C526E421.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Autosaves/Game/Blueprints/Solenoid_Test_Auto2.uasset'
+[2018.10.29-18.32.44:596][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Autosaves/Game/Blueprints/Solenoid_Test_Auto2.uasset
+[2018.10.29-18.32.44:596][667]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.10.29-18.34.19:455][147]BlueprintLog: New page: Compile Solenoid_Test
+[2018.10.29-18.34.20:023][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.10.29-18.34.20:144][156]LogSavePackage: Save=66.55ms
+[2018.10.29-18.34.20:144][156]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Solenoid_TestDC1A8D664CA31A7891D011A768F777F3.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.10.29-18.34.20:147][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.10.29-18.35.54:204][913]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.29-18.36.01:236][108]BlueprintLog: New page: Compile Target
+[2018.10.29-18.36.02:083][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset" SILENT=true
+[2018.10.29-18.36.02:918][117]LogSavePackage: Save=799.02ms
+[2018.10.29-18.36.02:918][117]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/TargetE9DA97EE4D093CF3565FAE8139E9DFE6.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset'
+[2018.10.29-18.36.02:921][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset
+[2018.10.29-18.36.32:479][ 49]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.29-18.36.43:946][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset" SILENT=true
+[2018.10.29-18.36.44:765][430]LogSavePackage: Save=793.38ms
+[2018.10.29-18.36.44:765][430]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/TargetD9BA6CC844CC22A72CEB049A118011CB.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset'
+[2018.10.29-18.36.44:768][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset
+[2018.10.29-18.38.48:688][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset" SILENT=true
+[2018.10.29-18.38.49:536][122]LogSavePackage: Save=803.66ms
+[2018.10.29-18.38.49:536][122]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Target467E94484CD8145718035D871E8F31F3.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset'
+[2018.10.29-18.38.49:539][122]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset
+[2018.10.29-18.39.07:742][629]BlueprintLog: New page: Compile Target
+[2018.10.29-18.39.08:567][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target" FILE="../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset" SILENT=true
+[2018.10.29-18.39.09:452][637]LogSavePackage: Save=824.27ms
+[2018.10.29-18.39.09:452][637]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/TargetC4C8E5B147A3893C146A938917AE78DE.tmp' to '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset'
+[2018.10.29-18.39.09:453][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Blueprints/Target.uasset
+[2018.10.29-18.44.31:348][109]LogWindows: LaunchFileInExternalEditor C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.h 
+[2018.10.29-18.44.31:460][109]LogWindows: Launch application code for C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.h : 42
+[2018.10.29-18.44.31:460][109]LogWindows: LaunchFileInExternalEditor C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.cpp 
+[2018.10.29-18.44.31:580][109]LogWindows: Launch application code for C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.cpp : 42
+[2018.10.29-18.44.31:580][109]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.10.29-18.44.31:583][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:583][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:583][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:583][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:583][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:584][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:585][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-18.44.31:599][109]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.14.55:127][768]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.01:527][463]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.01:633][464]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.01:966][465]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.02:300][466]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.02:633][467]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.02:966][468]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.03:300][469]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.03:634][470]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.03:967][471]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.10.29-19.19.52:970][618]LogWindows: LaunchFileInExternalEditor C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.h 
+[2018.10.29-19.19.53:065][618]LogWindows: Launch application code for C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.h : 42
+[2018.10.29-19.19.53:065][618]LogWindows: LaunchFileInExternalEditor C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.cpp 
+[2018.10.29-19.19.53:128][618]LogWindows: Launch application code for C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Source/SkeeTesting2/FileIO.cpp : 42
+[2018.10.29-19.19.53:129][618]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.10.29-19.19.53:131][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:132][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:133][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:134][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.19.53:142][618]LogVSAccessor: Warning: Couldn't access module table
+[2018.10.29-19.33.49:478][175]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.10.29-19.33.49:546][175]Candidate modules for hot reload:
+[2018.10.29-19.33.49:546][175]  SkeeTesting2
+[2018.10.29-19.33.49:547][175]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SkeeTesting2 -ModuleWithSuffix SkeeTesting2 636 Win64 Development -editorrecompile -canskiplink "C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/SkeeTesting2.uproject" ]
+[2018.10.29-19.33.49:549][175]Warning: Starting HotReload took  0.1s.
+[2018.10.29-19.36.00:239][ 17]CompilerResultsLog: New page: Compilation - Oct 29, 2018, 5:36:00 AM
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: Creating makefile for hot reloading SkeeTesting2 (game project files are newer)
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: Compiling game modules for hot reload
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: Parsing headers for SkeeTesting2Editor
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\SkeeTesting2.uproject" "C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2Editor\Development\SkeeTesting2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: Reflection code generated for SkeeTesting2Editor in 8.9378715 seconds
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: Performing 7 actions (4 in parallel)
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: FileIO.gen.cpp
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: FileIO.cpp
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: SkeeTesting2.cpp
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: boardValues.cpp
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\winnt.h(536): warning C4005: 'TEXT': macro redefinition
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: Error: c:\program files\epic games\ue_4.18\engine\source\runtime\core\public\HAL/Platform.h(848) : note: see previous definition of 'TEXT'
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: SkeeTesting2.init.gen.cpp
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\winnt.h(17005): warning C4668: '_APISET_RTLSUPPORT_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\interlockedapi.h(73): warning C4668: '_APISET_INTERLOCKED_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\processthreadsapi.h(1170): warning C4668: '_WIN32_WINNT_WINTHRESHOLD' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.10.29-19.36.00:243][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\securitybaseapi.h(357): warning C4668: '_APISET_SECURITYBASE_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\securitybaseapi.h(472): warning C4668: '_APISET_SECURITYBASE_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\securitybaseapi.h(1302): warning C4668: '_APISET_SECURITYBASE_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\winbase.h(8618): warning C4668: 'NTDDI_WIN7SP1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: [6/7] Link UE4Editor-SkeeTesting2-636.dll
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: [7/7] Link UE4Editor-SkeeTesting2-636.lib
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog:    Creating library C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-636.lib and object C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-636.exp
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog:    Creating library C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-636.suppressed.lib and object C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-636.suppressed.exp
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: Failed to write dependency cache: Could not find a part of the path 'E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2Editor'.
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: Failed to write FlatCPPIncludeDependencyCache: Could not find a part of the path 'E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2Editor'.
+[2018.10.29-19.36.00:244][ 17]CompilerResultsLog: Total build time: 130.47 seconds (Local executor: 80.48 seconds)
+[2018.10.29-19.36.00:244][ 17]LogMainFrame: MainFrame: Module compiling took 130.766 seconds
+[2018.10.29-19.36.00:483][ 17]LogClass: Could not find existing class FileIO in package /Script/SkeeTesting2 for HotReload, assuming new class
+[2018.10.29-19.36.00:483][ 17]LogClass: Function CopyFileTo is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function CreateDirectory is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function DeleteFile is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function DoesDirectoryExist is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function DoesFileExist is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function FileLoadString is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function FileSaveString is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function GetBatteryStatus is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function RandIntInRangeNoRepeat is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function SetMonitorPower is new.
+[2018.10.29-19.36.00:484][ 17]LogClass: Function ShutdownPC is new.
+[2018.10.29-19.36.00:570][ 17]LogHotReload: Re-instancing FileIO after hot-reload.
+[2018.10.29-19.36.00:961][ 17]LogContentBrowser: Native class hierarchy updated for 'SkeeTesting2' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.10.29-19.36.00:966][ 17]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.10.29-19.36.01:591][ 17]LogContentBrowser: Native class hierarchy populated in 0.0410 seconds. Added 2367 classes and 528 folders.
+[2018.10.29-19.36.01:663][ 17]Display: HotReload took 132.2s.
+[2018.10.29-19.37.22:679][592]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.29-19.37.22:976][593]Cmd: QUIT_EDITOR
+[2018.10.29-19.37.23:285][593]LogExit: Preparing to exit.
+[2018.10.29-19.37.24:571][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/' was aborted.
+[2018.10.29-19.37.24:705][593]LogExit: Editor shut down
+[2018.10.29-19.37.24:728][593]LogExit: Transaction tracking system shut down
+[2018.10.29-19.37.24:947][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.10.29-19.37.24:947][593]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/' was aborted.
+[2018.10.29-19.37.24:947][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.10.29-19.37.24:947][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.10.29-19.37.24:947][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.10.29-19.37.24:948][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.10.29-19.37.24:948][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.10.29-19.37.25:241][593]LogExit: Object subsystem successfully closed.
+[2018.10.29-19.37.25:270][593]LogD3D11RHI: Shutdown
+[2018.10.29-19.37.25:270][593]LogD3D11RHI: CleanupD3DDevice
+[2018.10.29-19.37.25:276][593]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.29-19.37.25:294][593]LogModuleManager: Shutting down and abandoning module SkeeTesting2 (559)
+[2018.10.29-19.37.25:295][593]LogModuleManager: Shutting down and abandoning module SequencerWidgets (558)
+[2018.10.29-19.37.25:295][593]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.10.29-19.37.25:295][593]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.10.29-19.37.25:295][593]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.10.29-19.37.25:295][593]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.10.29-19.37.25:295][593]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.10.29-19.37.25:295][593]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.10.29-19.37.25:295][593]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.10.29-19.37.25:346][593]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.10.29-19.37.25:346][593]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.10.29-19.37.25:346][593]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.10.29-19.37.25:346][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Collections/' was aborted.
+[2018.10.29-19.37.25:346][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Content/Developers/Skeeball/Collections/' was aborted.
+[2018.10.29-19.37.25:346][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Saved/Collections/' was aborted.
+[2018.10.29-19.37.25:346][593]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.10.29-19.37.25:346][593]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.10.29-19.37.25:346][593]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.10.29-19.37.25:347][593]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.10.29-19.37.25:348][593]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.10.29-19.37.25:348][593]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.10.29-19.37.25:348][593]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.10.29-19.37.25:348][593]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.10.29-19.37.25:348][593]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.10.29-19.37.25:348][593]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.10.29-19.37.25:770][593]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.10.29-19.37.25:771][593]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.10.29-19.37.25:771][593]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.10.29-19.37.25:771][593]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.10.29-19.37.25:771][593]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.10.29-19.37.25:771][593]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.10.29-19.37.25:772][593]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.10.29-19.37.25:772][593]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.10.29-19.37.25:772][593]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.10.29-19.37.25:772][593]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.10.29-19.37.25:772][593]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.10.29-19.37.25:772][593]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.10.29-19.37.25:772][593]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.10.29-19.37.25:825][593]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.10.29-19.37.25:825][593]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.10.29-19.37.25:825][593]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.10.29-19.37.25:825][593]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.10.29-19.37.25:825][593]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.10.29-19.37.25:825][593]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.10.29-19.37.25:826][593]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.10.29-19.37.25:826][593]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.10.29-19.37.25:826][593]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.10.29-19.37.25:826][593]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.10.29-19.37.25:888][593]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.10.29-19.37.25:890][593]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.10.29-19.37.25:890][593]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.10.29-19.37.25:890][593]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.10.29-19.37.25:890][593]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.10.29-19.37.25:890][593]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.10.29-19.37.25:890][593]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.10.29-19.37.25:891][593]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.10.29-19.37.26:108][593]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.10.29-19.37.26:109][593]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.10.29-19.37.26:110][593]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.10.29-19.37.26:114][593]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.10.29-19.37.26:114][593]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.10.29-19.37.26:114][593]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.10.29-19.37.26:114][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Proj Files/Skee Proj Files/Binaries/Win64' was aborted.
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module UE4Duino (270)
+[2018.10.29-19.37.26:115][593]UE4DuinoLog: Warning: UE4Duino: Log Ended
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.10.29-19.37.26:115][593]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.10.29-19.37.26:216][593]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.10.29-19.37.26:316][593]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.10.29-19.37.26:316][593]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.10.29-19.37.26:316][593]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.10.29-19.37.26:316][593]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.10.29-19.37.26:316][593]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.10.29-19.37.26:316][593]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.10.29-19.37.26:319][593]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.10.29-19.37.26:319][593]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.10.29-19.37.26:319][593]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.10.29-19.37.26:319][593]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.10.29-19.37.26:319][593]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.10.29-19.37.26:319][593]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.10.29-19.37.26:320][593]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.10.29-19.37.26:320][593]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.10.29-19.37.26:320][593]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.10.29-19.37.26:320][593]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.10.29-19.37.26:327][593]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.10.29-19.37.26:327][593]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.10.29-19.37.26:327][593]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.10.29-19.37.26:327][593]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.10.29-19.37.26:327][593]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.10.29-19.37.26:327][593]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.10.29-19.37.26:328][593]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.10.29-19.37.26:335][593]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.10.29-19.37.26:350][593]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.10.29-19.37.26:350][593]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.10.29-19.37.26:350][593]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.10.29-19.37.26:350][593]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.10.29-19.37.26:351][593]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.10.29-19.37.26:351][593]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.10.29-19.37.26:351][593]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.10.29-19.37.26:351][593]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.10.29-19.37.26:351][593]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.10.29-19.37.26:441][593]LogDerivedDataCache: Shutdown
+[2018.10.29-19.37.26:441][593]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.10.29-19.37.26:441][593]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.10.29-19.37.26:441][593]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.10.29-19.37.26:441][593]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.10.29-19.37.26:441][593]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.10.29-19.37.26:441][593]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.10.29-19.37.26:442][593]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.10.29-19.37.26:443][593]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.10.29-19.37.26:444][593]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.10.29-19.37.26:445][593]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.10.29-19.37.26:445][593]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.10.29-19.37.26:445][593]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.10.29-19.37.26:445][593]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.10.29-19.37.26:445][593]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.29-19.37.26:445][593]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B297DF093-4833-86D7-5FA3-7E8C813ACDCE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=d1c7cfef4edaebcaa6f81295526d57ae%7C152590f763034d899c4c09f626823630%7C628643c5-6e25-4160-a9c0-d7b31b0b9151&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.29-19.37.26:463][593]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.10.29-19.37.26:466][593]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.29-19.37.26:466][593]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.29-19.37.26:466][593]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.29-19.37.26:466][593]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.29-19.37.26:467][593]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.29-19.37.26:467][593]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.29-19.37.26:467][593]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.29-19.37.26:478][593]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.29-19.37.26:479][593]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.29-19.37.26:479][593]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.29-19.37.26:479][593]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.29-19.37.26:484][593]LogExit: Exiting.
+[2018.10.29-19.37.26:515][593]Log file closed, 10/29/18 12:37:26

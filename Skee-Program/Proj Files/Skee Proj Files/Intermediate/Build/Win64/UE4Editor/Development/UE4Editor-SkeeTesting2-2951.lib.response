@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SkeeTesting2-2951.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal 4.18.3\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\boardValues.cpp.obj"
+"E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\FileIO.cpp.obj"
+"E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\SkeeTesting2.cpp.obj"
+"E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\FileIO.gen.cpp.obj"
+"E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\SkeeTesting2.init.gen.cpp.obj"
+"E:\Unreal 4.18.3\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\PCLaunch.rc.res"
+"E:\Unreal 4.18.3\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Archives\Projects Archive\Moraine Park Skeeball Machine\Program\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-2951.lib"

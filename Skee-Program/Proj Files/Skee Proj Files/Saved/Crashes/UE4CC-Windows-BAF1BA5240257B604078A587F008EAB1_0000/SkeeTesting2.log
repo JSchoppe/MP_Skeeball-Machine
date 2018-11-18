@@ -1,0 +1,696 @@
+﻿Log file open, 06/24/18 07:42:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SkeeTesting2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1638690980) SRandInit(-1638690980).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173115
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Binaries/Win64/UE4Editor-SkeeTesting2-5965.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.24-14.42.36:408][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.24-14.42.36:408][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.24-14.42.36:459][  0]LogInit: Computer: DESKTOP-FRNA35L
+[2018.06.24-14.42.36:459][  0]LogInit: User: Skeeball
+[2018.06.24-14.42.36:459][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.24-14.42.36:459][  0]LogInit: High frequency timer resolution =3.312802 MHz
+[2018.06.24-14.42.36:460][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.06.24-14.42.36:460][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.24-14.42.36:460][  0]LogMemory: Process Physical Memory: 271.63 MB used, 271.63 MB peak
+[2018.06.24-14.42.36:460][  0]LogMemory: Process Virtual Memory: 273.90 MB used, 273.90 MB peak
+[2018.06.24-14.42.36:460][  0]LogMemory: Physical Memory: 2539.13 MB used,  5639.31 MB free, 8178.44 MB total
+[2018.06.24-14.42.36:460][  0]LogMemory: Virtual Memory: 645.27 MB used,  5639.31 MB free, 134217728.00 MB total
+[2018.06.24-14.42.36:618][  0]LogInit: Using OS detected language (en-US).
+[2018.06.24-14.42.36:618][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.24-14.42.36:621][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.24-14.42.36:985][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.24-14.42.37:209][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.24-14.42.37:216][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
+[2018.06.24-14.42.37:216][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.06.24-14.42.37:218][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.24-14.42.37:218][  0]LogD3D11RHI:       0/0/4089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.24-14.42.37:218][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.24-14.42.37:220][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.24-14.42.37:220][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.24-14.42.37:220][  0]LogWindows: EnumDisplayDevices:
+[2018.06.24-14.42.37:220][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
+[2018.06.24-14.42.37:220][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.24-14.42.37:220][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.24-14.42.37:220][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.24-14.42.37:221][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.06.24-14.42.37:221][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
+[2018.06.24-14.42.37:221][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2018.06.24-14.42.37:221][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2018.06.24-14.42.37:221][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2018.06.24-14.42.37:235][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.06.24-14.42.37:240][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.24-14.42.37:252][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.06.24-14.42.37:253][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Intermediate/Shaders/WorkingDirectory/1040/).
+[2018.06.24-14.42.37:253][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Skeeball/AppData/Local/Temp/UnrealShaderWorkingDir/CDE945004BFC60EF85FAC1B488C03B10/'.
+[2018.06.24-14.42.37:253][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.24-14.42.38:230][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.24-14.42.38:288][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.24-14.42.38:340][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.24-14.42.38:392][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.24-14.42.38:446][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.24-14.42.38:498][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.24-14.42.38:550][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.24-14.42.38:602][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.24-14.42.38:646][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.24-14.42.38:697][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.24-14.42.38:747][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.24-14.42.38:797][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.24-14.42.38:846][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.24-14.42.38:897][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.24-14.42.38:999][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.24-14.42.38:999][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.24-14.42.39:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.24-14.42.39:088][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.24-14.42.39:179][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.24-14.42.39:208][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.24-14.42.39:258][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.24-14.42.39:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.24-14.42.39:361][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.24-14.42.39:412][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.24-14.42.39:412][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.24-14.42.39:879][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.24-14.42.39:959][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.24-14.42.39:959][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.24-14.42.39:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.24-14.42.39:959][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.24-14.42.39:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.24-14.42.39:959][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.24-14.42.39:975][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.24-14.42.39:987][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Skeeball/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.24-14.42.39:997][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.24-14.42.39:998][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.24-14.42.39:998][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.24-14.42.39:998][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.24-14.42.40:402][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.24-14.42.40:731][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.24-14.42.40:771][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.24-14.42.40:771][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.24-14.42.40:771][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.24-14.42.40:771][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.24-14.42.40:771][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.24-14.42.40:796][  0]LogNetVersion: SkeeTesting2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3365423841)
+[2018.06.24-14.42.40:956][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.06.24-14.42.41:498][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.091700 seconds
+[2018.06.24-14.42.41:503][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.24-14.42.41:503][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.06.24-14.42.41:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.24-14.42.41:559][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.24-14.42.44:145][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.24-14.42.44:187][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.24-14.42.44:957][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.24-14.42.45:387][  0]SourceControl: Source control is disabled
+[2018.06.24-14.42.45:387][  0]SourceControl: Source control is disabled
+[2018.06.24-14.42.45:441][  0]SourceControl: Source control is disabled
+[2018.06.24-14.42.45:492][  0]SourceControl: Source control is disabled
+[2018.06.24-14.42.46:302][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.24-14.42.46:566][  0]LogOcInput: OculusInput pre-init called
+[2018.06.24-14.42.46:843][  0]LogEngine: Initializing Engine...
+[2018.06.24-14.42.46:845][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.24-14.42.47:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.24-14.42.47:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.24-14.42.47:191][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.24-14.42.47:196][  0]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.24-14.42.47:208][  0]LogInit: FAudioDevice initialized.
+[2018.06.24-14.42.47:383][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.24-14.42.47:400][  0]LogInit: Texture streaming: Enabled
+[2018.06.24-14.42.47:515][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.24-14.42.47:643][  0]LogInit: Transaction tracking system initialized
+[2018.06.24-14.42.47:954][  0]BlueprintLog: New page: Editor Load
+[2018.06.24-14.42.48:841][  0]LocalizationService: Localization service is disabled
+[2018.06.24-14.42.49:583][  0]LogConsoleResponse: Display: 
+[2018.06.24-14.42.49:805][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.24-14.42.49:805][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.24-14.42.49:805][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.24-14.42.50:043][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/' took 0.02s
+[2018.06.24-14.42.50:985][  0]SourceControl: Source control is disabled
+[2018.06.24-14.42.50:986][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Skee_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.24-14.42.50:986][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Skee_Scene.umap'
+[2018.06.24-14.42.50:986][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.24-14.42.51:031][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.949ms to complete.
+[2018.06.24-14.42.51:031][  0]LogFileHelpers: Loading map 'Skee_Scene' took 0.045
+[2018.06.24-14.42.51:584][  0]LogCollectionManager: Loaded 0 collections in 0.002190 seconds
+[2018.06.24-14.42.51:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Saved/Collections/' took 0.01s
+[2018.06.24-14.42.51:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/Developers/Skeeball/Collections/' took 0.01s
+[2018.06.24-14.42.51:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/Collections/' took 0.01s
+[2018.06.24-14.42.51:869][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.24-14.42.51:893][  0]LogContentBrowser: Native class hierarchy populated in 0.0213 seconds. Added 2364 classes and 521 folders.
+[2018.06.24-14.42.52:025][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.24-14.42.53:515][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.06.24-14.42.53:645][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.06.24-14.42.54:088][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.24-14.42.54:099][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.24-14.42.54:168][  0]LogSlate: Took 0.019441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.24-14.42.54:581][  0]LogRenderer: Reallocating scene render targets to support 828x376 Format 9 NumSamples 1 (Frame:1).
+[2018.06.24-14.42.54:994][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.06.24-14.42.54:994][  0]LogLoad: (Engine Initialization) Total time: 22.05 seconds
+[2018.06.24-14.42.54:995][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.24-14.42.54:995][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.06.24-14.42.55:046][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.06.24-14.42.55:124][  0]LogSlate: Took 0.021641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.24-14.42.55:209][  1]LogAssetRegistry: Asset discovery search completed in 14.2762 seconds
+[2018.06.24-14.42.55:211][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.24-14.42.55:211][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.06.24-14.43.55:044][259]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.43.55:044][259]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.43.55:044][259]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 0)
+[2018.06.24-14.45.55:075][894]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.45.55:075][894]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.45.55:075][894]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 1)
+[2018.06.24-14.47.55:123][529]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.47.55:123][529]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.47.55:123][529]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 2)
+[2018.06.24-14.49.55:151][162]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.49.55:151][162]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.49.55:151][162]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 3)
+[2018.06.24-14.51.55:197][797]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.51.55:197][797]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.51.55:197][797]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 4)
+[2018.06.24-14.53.55:234][441]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.53.55:234][441]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.53.55:234][441]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 5)
+[2018.06.24-14.55.55:265][ 75]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.55.55:265][ 75]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.55.55:265][ 75]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 6)
+[2018.06.24-14.57.55:297][706]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.57.55:297][706]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.57.55:297][706]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 7)
+[2018.06.24-14.59.55:321][340]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-14.59.55:321][340]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-14.59.55:321][340]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 8)
+[2018.06.24-15.01.55:358][974]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.01.55:358][974]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.01.55:358][974]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 9)
+[2018.06.24-15.03.55:377][609]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.03.55:377][609]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.03.55:377][609]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 10)
+[2018.06.24-15.05.55:417][248]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.05.55:417][248]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.05.55:417][248]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 11)
+[2018.06.24-15.07.55:454][880]LogHttp: Warning: 0000000ED1BC7880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.07.55:454][880]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.07.55:454][880]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 1 (Closing connection 12)
+[2018.06.24-15.09.55:483][516]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.09.55:483][516]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.09.55:483][516]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 13)
+[2018.06.24-15.11.55:517][151]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.11.55:517][151]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.11.55:517][151]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 14)
+[2018.06.24-15.13.55:541][787]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.13.55:541][787]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.13.55:541][787]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 15)
+[2018.06.24-15.15.55:570][423]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.15.55:570][423]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.15.55:570][423]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 16)
+[2018.06.24-15.17.55:615][ 61]LogHttp: Warning: 0000000ED1BC7880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.17.55:615][ 61]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.17.55:615][ 61]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 1 (Closing connection 17)
+[2018.06.24-15.19.55:668][698]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.19.55:668][698]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.19.55:668][698]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 18)
+[2018.06.24-15.21.55:704][331]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.21.55:704][331]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.21.55:704][331]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 19)
+[2018.06.24-15.23.55:754][968]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.23.55:754][968]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.23.55:754][968]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 20)
+[2018.06.24-15.25.55:800][607]LogHttp: Warning: 0000000ED1BC7A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.25.55:800][607]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.25.55:800][607]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 1 (Closing connection 21)
+[2018.06.24-15.27.55:849][247]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.27.55:850][247]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.27.55:850][247]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 22)
+[2018.06.24-15.29.55:887][882]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.29.55:887][882]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.29.55:887][882]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 23)
+[2018.06.24-15.31.55:917][518]LogHttp: Warning: 0000000ED1BC7880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.31.55:917][518]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.31.55:917][518]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 1 (Closing connection 24)
+[2018.06.24-15.33.55:942][151]LogHttp: Warning: 0000000ED1BC6680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.33.55:942][151]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.33.55:943][151]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 1 (Closing connection 25)
+[2018.06.24-15.35.55:991][787]LogHttp: Warning: 0000000ED1BC7280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.35.55:991][787]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.35.55:991][787]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 1 (Closing connection 26)
+[2018.06.24-15.37.56:015][423]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.37.56:016][423]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.37.56:016][423]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 27)
+[2018.06.24-15.39.56:053][ 60]LogHttp: Warning: 0000000ED1BC6E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.39.56:053][ 60]LogHttp: Warning: 0000000ED1BC6E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.39.56:053][ 60]LogHttp: Warning: 0000000ED1BC6E00: libcurl info message cache 1 (Closing connection 28)
+[2018.06.24-15.41.56:076][696]LogHttp: Warning: 0000000ED1BC7280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.41.56:076][696]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.41.56:076][696]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 1 (Closing connection 29)
+[2018.06.24-15.43.56:125][336]LogHttp: Warning: 0000000ED1BC7880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.43.56:125][336]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.43.56:125][336]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 1 (Closing connection 30)
+[2018.06.24-15.45.56:161][970]LogHttp: Warning: 0000000ED1BC7880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.45.56:161][970]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.45.56:161][970]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 1 (Closing connection 31)
+[2018.06.24-15.47.56:194][600]LogHttp: Warning: 0000000ED1BC6680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.47.56:194][600]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.47.56:194][600]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 1 (Closing connection 32)
+[2018.06.24-15.49.56:230][237]LogHttp: Warning: 0000000ED1BC7A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.49.56:230][237]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.49.56:230][237]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 1 (Closing connection 33)
+[2018.06.24-15.51.56:268][876]LogHttp: Warning: 0000000ED1BC7A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.51.56:268][876]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.51.56:268][876]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 1 (Closing connection 34)
+[2018.06.24-15.53.56:312][513]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.53.56:312][513]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.53.56:312][513]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 35)
+[2018.06.24-15.55.56:344][151]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.55.56:344][151]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.55.56:344][151]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 36)
+[2018.06.24-15.57.56:386][788]LogHttp: Warning: 0000000ED1BC7880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.57.56:386][788]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.57.56:386][788]LogHttp: Warning: 0000000ED1BC7880: libcurl info message cache 1 (Closing connection 37)
+[2018.06.24-15.59.56:428][427]LogHttp: Warning: 0000000ED1BC6F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-15.59.56:428][427]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-15.59.56:428][427]LogHttp: Warning: 0000000ED1BC6F80: libcurl info message cache 1 (Closing connection 38)
+[2018.06.24-16.01.56:463][ 63]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.01.56:463][ 63]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.01.56:463][ 63]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 39)
+[2018.06.24-16.03.56:516][701]LogHttp: Warning: 0000000ED1BC7A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.03.56:516][701]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.03.56:516][701]LogHttp: Warning: 0000000ED1BC7A00: libcurl info message cache 1 (Closing connection 40)
+[2018.06.24-16.05.56:567][341]LogHttp: Warning: 0000000ED1BC7280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.05.56:567][341]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.05.56:567][341]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 1 (Closing connection 41)
+[2018.06.24-16.07.56:591][977]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.07.56:591][977]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.07.56:591][977]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 42)
+[2018.06.24-16.09.56:637][615]LogHttp: Warning: 0000000ED1BC6E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.09.56:637][615]LogHttp: Warning: 0000000ED1BC6E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.09.56:637][615]LogHttp: Warning: 0000000ED1BC6E00: libcurl info message cache 1 (Closing connection 43)
+[2018.06.24-16.11.56:685][248]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.11.56:686][248]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.11.56:686][248]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 44)
+[2018.06.24-16.13.56:736][885]LogHttp: Warning: 0000000ED1BC7700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.13.56:736][885]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.13.56:736][885]LogHttp: Warning: 0000000ED1BC7700: libcurl info message cache 1 (Closing connection 45)
+[2018.06.24-16.15.56:761][521]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.15.56:761][521]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.15.56:761][521]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 46)
+[2018.06.24-16.17.56:807][156]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.17.56:807][156]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.17.56:807][156]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 47)
+[2018.06.24-16.19.56:840][794]LogHttp: Warning: 0000000ED1BC6C80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.19.56:840][794]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.19.56:840][794]LogHttp: Warning: 0000000ED1BC6C80: libcurl info message cache 1 (Closing connection 48)
+[2018.06.24-16.21.56:870][425]LogHttp: Warning: 0000000ED1BC6680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.21.56:870][425]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.21.56:870][425]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 1 (Closing connection 49)
+[2018.06.24-16.23.56:896][ 64]LogHttp: Warning: 0000000ED1BC6680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.23.56:896][ 64]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.23.56:896][ 64]LogHttp: Warning: 0000000ED1BC6680: libcurl info message cache 1 (Closing connection 50)
+[2018.06.24-16.25.56:951][697]LogHttp: Warning: 0000000ED1BC7100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.25.56:951][697]LogHttp: Warning: 0000000ED1BC7100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.25.56:951][697]LogHttp: Warning: 0000000ED1BC7100: libcurl info message cache 1 (Closing connection 51)
+[2018.06.24-16.27.56:981][334]LogHttp: Warning: 0000000ED1BC5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.27.56:981][334]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.27.56:981][334]LogHttp: Warning: 0000000ED1BC5A80: libcurl info message cache 1 (Closing connection 52)
+[2018.06.24-16.29.57:009][972]LogHttp: Warning: 0000000ED1BC7280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.29.57:009][972]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.29.57:010][972]LogHttp: Warning: 0000000ED1BC7280: libcurl info message cache 1 (Closing connection 53)
+[2018.06.24-16.30.15:834][638]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.24-16.30.16:198][638]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:Initiate.Board ID'. Unknown structure.
+[2018.06.24-16.30.16:198][638]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background.K2Node_CustomEvent_Board_ID'. Unknown structure.
+[2018.06.24-16.30.16:508][638]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Dev_Menu.Dev_Menu_C:Board ID'. Unknown structure.
+[2018.06.24-16.30.16:543][638]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Input_Test.Input_Test_C:Board ID'. Unknown structure.
+[2018.06.24-16.30.16:870][638]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.24-16.30.17:108][638]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag STRUCT_REINST_Board_Data_74 != prop FallbackStruct) in package:  ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Input_Test.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.24-16.30.17:122][638]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag STRUCT_REINST_Board_Data_74 != prop FallbackStruct) in package:  ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.24-16.30.19:027][638]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag FallbackStruct != prop Board_Data) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.24-16.30.19:027][638]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag FallbackStruct != prop Board_Data) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.24-16.30.21:420][638]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.06.24-16.30.21:492][638]Cmd: MAP LOAD FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/SkeeballMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.24-16.30.21:493][638]LightingResults: New page: Lighting Build
+[2018.06.24-16.30.21:535][638]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 5 classes and 0 folders.
+[2018.06.24-16.30.21:536][638]LoadErrors: New page: Loading map: SkeeballMap.umap
+[2018.06.24-16.30.21:536][638]MapCheck: New page: Map Check
+[2018.06.24-16.30.21:536][638]LightingResults: New page: Lighting Build
+[2018.06.24-16.30.21:557][638]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.24-16.30.21:595][638]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.24-16.30.21:654][638]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.615ms to complete.
+[2018.06.24-16.30.21:655][638]LogFileHelpers: Loading map 'SkeeballMap' took 0.163
+[2018.06.24-16.30.29:917][179]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.06.24-16.30.30:813][179]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.24-16.30.30:819][179]LogSlate: Took 0.006363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.24-16.30.32:962][256]LogSlate: Took 0.003505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.24-16.31.57:032][199]LogHttp: Warning: 0000000EE9202080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.31.57:032][199]LogHttp: Warning: 0000000EE9202080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.31.57:032][199]LogHttp: Warning: 0000000EE9202080: libcurl info message cache 1 (Closing connection 54)
+[2018.06.24-16.32.10:304][890]BlueprintLog: New page: Compile Name_Mode
+[2018.06.24-16.32.11:034][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Name_Mode" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Name_Mode.uasset" SILENT=true
+[2018.06.24-16.32.11:672][907]LogSavePackage: Save=585.86ms
+[2018.06.24-16.32.11:672][907]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Name_Mode050DA3574610EF4FE2A58B9CBDFAC3A9.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Name_Mode.uasset'
+[2018.06.24-16.32.11:674][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Name_Mode.uasset
+[2018.06.24-16.32.43:870][487]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.24-16.32.44:011][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.24-16.32.44:011][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.24-16.32.44:011][487]PIE: New page: PIE session: SkeeballMap (Jun 24, 2018, 2:32:44 AM)
+[2018.06.24-16.32.44:012][487]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.06.24-16.32.44:022][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009990s)
+[2018.06.24-16.32.44:023][487]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.06.24-16.32.44:023][487]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.06.24-16.32.44:023][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.011465s)
+[2018.06.24-16.32.44:042][487]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.24-16.32.44:049][487]LogInit: FAudioDevice initialized.
+[2018.06.24-16.32.44:108][487]LogLoad: Game class is 'GameModeBase'
+[2018.06.24-16.32.44:110][487]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.06.24-09.32.44
+[2018.06.24-16.32.44:110][487]LogWorld: Bringing up level for play took: 0.001507
+[2018.06.24-16.32.44:154][487]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.06.24-16.32.44:167][487]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.386
+[2018.06.24-16.32.44:168][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.24-16.32.44:251][487]LogRenderer: Reallocating scene render targets to support 1200x700 Format 9 NumSamples 1 (Frame:1).
+[2018.06.24-16.32.49:021][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.24-16.32.49:106][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.24-16.33.39:027][783]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.33.39:826][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.33.40:656][797]LogSavePackage: Save=797.12ms
+[2018.06.24-16.33.40:656][797]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardB38026054F8F5BCEBA806E8D13B4BCBE.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.33.40:659][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.33.57:082][639]LogHttp: Warning: 0000000EE78A7280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.33.57:082][639]LogHttp: Warning: 0000000EE78A7280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.33.57:082][639]LogHttp: Warning: 0000000EE78A7280: libcurl info message cache 1 (Closing connection 55)
+[2018.06.24-16.34.00:402][797]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.34.01:171][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.34.01:945][812]LogSavePackage: Save=748.63ms
+[2018.06.24-16.34.01:945][812]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard1F750BCC43951E44AFF1A88D89293328.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.34.01:948][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.34.33:311][702]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.34.34:095][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.34.34:878][718]LogSavePackage: Save=755.27ms
+[2018.06.24-16.34.34:878][718]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard533C47B049E80E80D746E08674F056EA.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.34.34:881][718]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.34.53:445][925]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.34.54:107][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.34.54:950][936]LogSavePackage: Save=818.19ms
+[2018.06.24-16.34.54:950][936]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardD2D19E64443EF375E90FCBAD340CC8AD.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.34.54:953][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.35.25:096][475]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.35.25:898][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.35.26:679][492]LogSavePackage: Save=754.53ms
+[2018.06.24-16.35.26:679][492]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardB62E52694DF2997B59997997B1F467EF.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.35.26:682][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.35.57:119][121]LogHttp: Warning: 0000000F0D73A500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.35.57:119][121]LogHttp: Warning: 0000000F0D73A500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.35.57:119][121]LogHttp: Warning: 0000000F0D73A500: libcurl info message cache 1 (Closing connection 56)
+[2018.06.24-16.36.37:992][532]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.36.38:612][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.36.39:398][543]LogSavePackage: Save=761.39ms
+[2018.06.24-16.36.39:398][543]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardA82EAF9141BFAD2DFB6C7FA64442AB7D.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.36.39:402][543]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.37.22:687][818]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.37.23:488][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.37.24:272][836]LogSavePackage: Save=758.63ms
+[2018.06.24-16.37.24:272][836]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard2A8C333D444AC4FAC27B19ACC0785EBB.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.37.24:276][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.37.57:153][212]LogHttp: Warning: 0000000F057EE800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.37.57:153][212]LogHttp: Warning: 0000000F057EE800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.37.57:153][212]LogHttp: Warning: 0000000F057EE800: libcurl info message cache 1 (Closing connection 57)
+[2018.06.24-16.38.16:735][985]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.38.17:584][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.38.18:374][  3]LogSavePackage: Save=760.91ms
+[2018.06.24-16.38.18:374][  3]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard5AEFC3244E0F56CCA804B8863D167F84.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.38.18:375][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.38.46:911][667]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.38.48:159][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.38.48:956][706]LogSavePackage: Save=764.95ms
+[2018.06.24-16.38.48:956][706]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard5E9011164E52AC274BEDB888FB1C4E99.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.38.48:960][706]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.39.21:330][352]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.39.22:050][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.39.22:836][365]LogSavePackage: Save=757.24ms
+[2018.06.24-16.39.22:836][365]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardC83328424303B4147847AB82099BFEDB.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.39.22:839][365]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.39.57:210][726]LogHttp: Warning: 0000000F0C6D4D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.39.57:210][726]LogHttp: Warning: 0000000F0C6D4D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.39.57:210][726]LogHttp: Warning: 0000000F0C6D4D00: libcurl info message cache 1 (Closing connection 58)
+[2018.06.24-16.41.48:298][290]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.41.48:960][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.41.49:746][301]LogSavePackage: Save=760.67ms
+[2018.06.24-16.41.49:746][301]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard7F58CD084AE67B1988DD8AB3160CDC76.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.41.49:749][301]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.41.57:261][700]LogHttp: Warning: 0000000F076A1180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.41.57:261][700]LogHttp: Warning: 0000000F076A1180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.41.57:261][700]LogHttp: Warning: 0000000F076A1180: libcurl info message cache 1 (Closing connection 59)
+[2018.06.24-16.42.38:547][919]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.42.39:371][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.42.40:160][935]LogSavePackage: Save=763.99ms
+[2018.06.24-16.42.40:160][935]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard730699314A03F5B855C4BAA08B1A60CC.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.42.40:163][935]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.42.45:242][244]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.42.45:966][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.42.46:752][259]LogSavePackage: Save=760.74ms
+[2018.06.24-16.42.46:752][259]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardC7E554064B01198AFA09C9978B22BAA5.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.42.46:756][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.43.14:058][535]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.43.14:743][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.43.15:536][548]LogSavePackage: Save=766.54ms
+[2018.06.24-16.43.15:536][548]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard2F6B9C5F43447B50B5A8FCACFFA6F6A4.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.43.15:540][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.43.57:322][392]LogHttp: Warning: 0000000F0953D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.43.57:322][392]LogHttp: Warning: 0000000F0953D900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.43.57:322][392]LogHttp: Warning: 0000000F0953D900: libcurl info message cache 1 (Closing connection 60)
+[2018.06.24-16.44.04:527][725]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.44.05:291][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.44.06:117][741]LogSavePackage: Save=771.66ms
+[2018.06.24-16.44.06:117][741]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard1FEC198248F5683A685EF493B0A218D0.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.44.06:120][741]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.45.04:600][852]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.45.05:324][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.45.06:120][866]LogSavePackage: Save=770.43ms
+[2018.06.24-16.45.06:120][866]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardD994B1BB40E8090C84CCF982820DA5CA.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.45.06:123][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.45.40:294][374]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.45.41:098][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.45.41:888][391]LogSavePackage: Save=766.22ms
+[2018.06.24-16.45.41:888][391]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard5B5438584AC720B75E33E1931EF09FD3.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.45.41:892][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.45.57:355][402]LogHttp: Warning: 0000000F07A7E500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.24-16.45.57:355][402]LogHttp: Warning: 0000000F07A7E500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.24-16.45.57:355][402]LogHttp: Warning: 0000000F07A7E500: libcurl info message cache 1 (Closing connection 61)
+[2018.06.24-16.46.02:694][741]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.46.03:491][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.46.04:293][757]LogSavePackage: Save=774.52ms
+[2018.06.24-16.46.04:293][757]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard5DEEA4344B1C8EE5CD82AA996898359A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.46.04:297][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.46.48:832][506]LogSlate: Took 0.004676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.24-16.47.05:855][775]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.47.06:624][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.47.07:431][790]LogSavePackage: Save=779.17ms
+[2018.06.24-16.47.07:431][790]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/LeaderboardC74B296C4B0137159155F4B1239A5BC5.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.47.07:434][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.47.15:914][143]BlueprintLog: New page: Compile Leaderboard
+[2018.06.24-16.47.16:625][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Leaderboard" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset" SILENT=true
+[2018.06.24-16.47.17:423][156]LogSavePackage: Save=769.94ms
+[2018.06.24-16.47.17:423][156]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Leaderboard458712F34C6DC3716D2DF881AF9802C7.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset'
+[2018.06.24-16.47.17:426][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset
+[2018.06.24-16.47.30:662][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.31:161][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.31:662][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.32:162][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.32:661][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.33:162][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.33:662][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.34:162][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.34:662][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.06.24-16.47.34:698][940]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:134 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.06.24-16.47.34:698][940]LogWindows: Windows GetLastError: The operation completed successfully. (0)

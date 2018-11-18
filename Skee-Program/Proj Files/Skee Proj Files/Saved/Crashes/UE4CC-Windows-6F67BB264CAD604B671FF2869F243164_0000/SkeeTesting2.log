@@ -1,0 +1,869 @@
+﻿Log file open, 04/19/18 08:53:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SkeeTesting2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1979130865) SRandInit(1979130865).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275230
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Binaries/Win64/UE4Editor-SkeeTesting2.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: D:/Unreal Engine/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.19-13.53.27:772][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-13.53.27:772][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.19-13.53.27:818][  0]LogInit: Computer: LB1230W1128212
+[2018.04.19-13.53.27:819][  0]LogInit: User: jschoppenhorst
+[2018.04.19-13.53.27:819][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.19-13.53.27:819][  0]LogInit: High frequency timer resolution =3.410077 MHz
+[2018.04.19-13.53.27:819][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.19-13.53.27:819][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.19-13.53.27:819][  0]LogMemory: Process Physical Memory: 272.13 MB used, 272.13 MB peak
+[2018.04.19-13.53.27:819][  0]LogMemory: Process Virtual Memory: 269.94 MB used, 269.94 MB peak
+[2018.04.19-13.53.27:819][  0]LogMemory: Physical Memory: 4527.72 MB used,  11778.68 MB free, 16306.40 MB total
+[2018.04.19-13.53.27:819][  0]LogMemory: Virtual Memory: 644.23 MB used,  11778.68 MB free, 134217728.00 MB total
+[2018.04.19-13.53.28:803][  0]LogInit: Using OS detected language (en-US).
+[2018.04.19-13.53.28:803][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.19-13.53.28:810][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.19-13.53.29:194][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.19-13.53.29:947][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.19-13.53.29:973][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2200' (Feature Level 11_0)
+[2018.04.19-13.53.29:973][  0]LogD3D11RHI:       4034/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.19-13.53.29:975][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.19-13.53.29:975][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.19-13.53.29:975][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.19-13.53.29:979][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.19-13.53.29:979][  0]LogD3D11RHI:     GPU DeviceId: 0x13ba (for the marketing name, search the web for "GPU Device Id")
+[2018.04.19-13.53.29:979][  0]LogWindows: EnumDisplayDevices:
+[2018.04.19-13.53.29:979][  0]LogWindows:    0. 'NVIDIA Quadro K2200' (P:1 D:1)
+[2018.04.19-13.53.29:979][  0]LogWindows:    1. 'NVIDIA Quadro K2200' (P:0 D:1)
+[2018.04.19-13.53.29:979][  0]LogWindows:    2. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2018.04.19-13.53.29:979][  0]LogWindows:    3. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2018.04.19-13.53.29:979][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.04.19-13.53.29:979][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2200
+[2018.04.19-13.53.29:980][  0]LogD3D11RHI:   Driver Version: 361.91 (internal:10.18.13.6191, unified:361.91)
+[2018.04.19-13.53.29:980][  0]LogD3D11RHI:      Driver Date: 2-8-2016
+[2018.04.19-13.53.29:980][  0]LogRHI: Texture pool is 2824 MB (70% of 4034 MB)
+[2018.04.19-13.53.30:042][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.04.19-13.53.30:042][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.19-13.53.30:057][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.19-13.53.30:060][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Intermediate/Shaders/WorkingDirectory/9040/).
+[2018.04.19-13.53.30:060][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jschoppenhorst/AppData/Local/Temp/UnrealShaderWorkingDir/26BC57A641987739226F49AFDBBEC6A4/'.
+[2018.04.19-13.53.30:060][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.19-13.53.31:630][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.19-13.53.31:913][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.19-13.53.32:195][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.19-13.53.32:484][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.19-13.53.32:767][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.19-13.53.33:050][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.19-13.53.33:341][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.19-13.53.33:631][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.19-13.53.33:909][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.19-13.53.34:206][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.19-13.53.34:504][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.19-13.53.34:791][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.19-13.53.35:080][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.19-13.53.35:371][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.19-13.53.35:949][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.19-13.53.35:949][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.19-13.53.36:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.19-13.53.36:517][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.19-13.53.36:951][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.19-13.53.37:083][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.19-13.53.37:372][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.19-13.53.37:661][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.19-13.53.37:950][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.19-13.53.38:236][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.19-13.53.38:236][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.19-13.53.41:196][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.19-13.53.41:264][  0]LogDerivedDataCache: Loaded boot cache 0.07s 69MB C:/Users/jschoppenhorst/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.19-13.53.41:264][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jschoppenhorst/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.19-13.53.41:264][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.19-13.53.41:264][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.19-13.53.41:264][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.19-13.53.41:264][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.19-13.53.41:283][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.19-13.53.41:295][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jschoppenhorst/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.19-13.53.41:305][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.19-13.53.41:305][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.19-13.53.41:306][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-13.53.41:306][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-13.53.41:843][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-13.53.43:385][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.19-13.53.43:665][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.19-13.53.43:665][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.19-13.53.43:665][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.19-13.53.43:665][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.19-13.53.43:665][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.19-13.53.43:706][  0]LogNetVersion: SkeeTesting2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3365423841)
+[2018.04.19-13.53.44:116][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.04.19-13.53.45:483][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.380865 seconds
+[2018.04.19-13.53.45:489][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.19-13.53.45:489][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.19-13.53.45:489][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.19-13.53.45:887][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.19-13.53.57:454][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.19-13.53.57:647][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.19-13.54.01:179][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.19-13.54.03:298][  0]SourceControl: Source control is disabled
+[2018.04.19-13.54.03:298][  0]SourceControl: Source control is disabled
+[2018.04.19-13.54.03:599][  0]SourceControl: Source control is disabled
+[2018.04.19-13.54.03:893][  0]SourceControl: Source control is disabled
+[2018.04.19-13.54.08:344][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.19-13.54.09:831][  0]LogOcInput: OculusInput pre-init called
+[2018.04.19-13.54.11:172][  0]LogEngine: Initializing Engine...
+[2018.04.19-13.54.11:174][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.19-13.54.11:186][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.04.19-13.54.11:901][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.04.19-13.54.12:133][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.04.19-13.54.12:946][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.04.19-13.54.13:959][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.04.19-13.54.14:258][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.04.19-13.54.14:409][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.04.19-13.54.14:442][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.04.19-13.54.14:471][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.04.19-13.54.14:501][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.04.19-13.54.14:529][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.04.19-13.54.14:557][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.04.19-13.54.14:570][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.04.19-13.54.14:604][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.04.19-13.54.14:672][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.04.19-13.54.14:700][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.04.19-13.54.14:739][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.04.19-13.54.14:761][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.04.19-13.54.14:786][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.04.19-13.54.14:946][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.04.19-13.54.14:971][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.04.19-13.54.15:007][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.04.19-13.54.15:031][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.04.19-13.54.15:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.19-13.54.15:177][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.19-13.54.16:457][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.19-13.54.16:467][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-13.54.16:600][  0]LogInit: FAudioDevice initialized.
+[2018.04.19-13.54.16:683][  0]LogDerivedDataCache: Saved boot cache 0.08s 72MB C:/Users/jschoppenhorst/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.19-13.54.16:699][  0]LogInit: Texture streaming: Enabled
+[2018.04.19-13.54.17:710][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.19-13.54.19:005][  0]LogInit: Transaction tracking system initialized
+[2018.04.19-13.54.22:354][  0]BlueprintLog: New page: Editor Load
+[2018.04.19-13.54.31:523][  0]LocalizationService: Localization service is disabled
+[2018.04.19-13.54.38:728][  0]LogConsoleResponse: Display: 
+[2018.04.19-13.54.39:235][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.19-13.54.39:235][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.19-13.54.39:235][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.19-13.54.39:741][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/' took 0.01s
+[2018.04.19-13.54.50:136][  0]SourceControl: Source control is disabled
+[2018.04.19-13.54.50:136][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Skee_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-13.54.50:137][  0]LightingResults: New page: Lighting Build
+[2018.04.19-13.54.50:568][  0]MapCheck: New page: Map Check
+[2018.04.19-13.54.50:568][  0]LightingResults: New page: Lighting Build
+[2018.04.19-13.54.51:773][  0]LogTexture: Display: Building textures: MP_Blue_With_Noise (BC5, 512X512)
+[2018.04.19-13.54.51:773][  0]LogTexture: Display: Building textures: TargetMode (AutoDXT, 1024X1024)
+[2018.04.19-13.54.51:774][  0]LogStaticMesh: Building static mesh ButtonBase...
+[2018.04.19-13.54.51:789][  0]LogTexture: Display: Building textures: ReverseArrow (AutoDXT, 1024X1024)
+[2018.04.19-13.54.51:789][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/ButtonBase.ButtonBase
+[2018.04.19-13.54.51:836][  0]LogTexture: Display: Building textures: Jstick_Texture (AutoDXT, 1024X1024)
+[2018.04.19-13.54.51:836][  0]LogTexture: Display: Building textures: MP_Texture (AutoDXT, 512X512)
+[2018.04.19-13.54.51:836][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.04.19-13.54.51:836][  0]LogTexture: Display: Building textures: MP_Green_With_Noise (AutoDXT, 512X512)
+[2018.04.19-13.54.52:297][  0]LogTexture: Display: Building textures: ForwardArrow (AutoDXT, 1024X1024)
+[2018.04.19-13.54.52:297][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.04.19-13.54.52:297][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2018.04.19-13.54.52:297][  0]LogTexture: Display: Building textures: LenBlur (AutoDXT, 512X512)
+[2018.04.19-13.54.52:297][  0]LogTexture: Display: Building textures: Panoramic (AutoDXT, 1024X1024)
+[2018.04.19-13.54.52:300][  0]LogMaterial: Missing cached shader map for material MP_Green_With_Noise_Mat, compiling. 
+[2018.04.19-13.54.52:337][  0]LogMaterial: Missing cached shader map for material MP_Blue_With_Noise_Mat, compiling. 
+[2018.04.19-13.54.52:374][  0]LogMaterial: Missing cached shader map for material Reverse_Arrow_Mat, compiling. 
+[2018.04.19-13.54.52:422][  0]LogStaticMesh: Building static mesh ReverseArrow...
+[2018.04.19-13.54.52:427][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/ReverseArrow.ReverseArrow
+[2018.04.19-13.54.52:594][  0]LogMaterial: Missing cached shader map for material ForwardArrow_Mat, compiling. 
+[2018.04.19-13.54.52:628][  0]LogStaticMesh: Building static mesh ForwardArrow...
+[2018.04.19-13.54.52:632][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/ForwardArrow.ForwardArrow
+[2018.04.19-13.54.52:635][  0]LogMaterial: Missing cached shader map for material Jstick_Mat, compiling. 
+[2018.04.19-13.54.52:782][  0]LogStaticMesh: Building static mesh JStickBase...
+[2018.04.19-13.54.52:786][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/JStickBase.JStickBase
+[2018.04.19-13.54.52:787][  0]LogStaticMesh: Building static mesh JStick...
+[2018.04.19-13.54.52:802][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/JStick.JStick
+[2018.04.19-13.54.52:962][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave clock-ticking-2...
+[2018.04.19-13.54.53:136][  0]LogStaticMesh: Building static mesh mp...
+[2018.04.19-13.54.53:165][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/mp.mp
+[2018.04.19-13.54.53:173][  0]LogStaticMesh: Building static mesh ClassicMode...
+[2018.04.19-13.54.53:192][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/ClassicMode.ClassicMode
+[2018.04.19-13.54.53:197][  0]LogMaterial: Missing cached shader map for material MP_Mat, compiling. 
+[2018.04.19-13.54.53:237][  0]LogMaterial: Missing cached shader map for material LenBlur_Mat, compiling. 
+[2018.04.19-13.54.53:341][  0]LogMaterial: Missing cached shader map for material Panoramic_Mat, compiling. 
+[2018.04.19-13.54.53:379][  0]LogMaterial: Missing cached shader map for material TargetMode_Mat, compiling. 
+[2018.04.19-13.54.53:427][  0]LogStaticMesh: Building static mesh Panoramic...
+[2018.04.19-13.54.53:428][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Panoramic.Panoramic
+[2018.04.19-13.54.53:429][  0]LogStaticMesh: Building static mesh TargetMode...
+[2018.04.19-13.54.53:445][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/TargetMode.TargetMode
+[2018.04.19-13.54.53:447][  0]LogStaticMesh: Building static mesh Button...
+[2018.04.19-13.54.53:453][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Button.Button
+[2018.04.19-13.54.53:933][  0]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-13.54.54:116][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-13.54.54:141][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-13.54.54:310][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 169.054ms to complete.
+[2018.04.19-13.54.54:310][  0]LogFileHelpers: Loading map 'Skee_Scene' took 4.174
+[2018.04.19-13.54.54:765][  0]LogCollectionManager: Loaded 0 collections in 0.003076 seconds
+[2018.04.19-13.54.55:289][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Collections/' took 0.01s
+[2018.04.19-13.54.55:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Developers/jschoppenhorst/Collections/' took 0.01s
+[2018.04.19-13.54.55:290][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Collections/' took 0.01s
+[2018.04.19-13.54.55:290][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.19-13.54.55:310][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2363 classes and 519 folders.
+[2018.04.19-13.54.55:995][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2018.04.19-13.54.56:652][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2018.04.19-13.54.57:111][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2018.04.19-13.54.57:458][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.54.57:461][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.54.57:480][  0]LogSlate: Took 0.008371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.54.57:601][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.04.19-13.54.57:714][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-13.54.57:835][  0]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.54.58:458][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2018.04.19-13.54.58:458][  0]LogLoad: (Engine Initialization) Total time: 98.52 seconds
+[2018.04.19-13.54.58:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.19-13.54.58:459][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.19-13.54.58:924][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.19-13.54.59:154][  1]LogAssetRegistry: Asset discovery search completed in 75.0590 seconds
+[2018.04.19-13.54.59:157][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.19-13.54.59:157][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.04.19-13.55.32:145][100]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.41:823][891]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.19-13.57.41:944][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.57.41:945][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-13.57.41:948][891]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 3:57:41 AM)
+[2018.04.19-13.57.41:949][891]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-13.57.41:957][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007908s)
+[2018.04.19-13.57.41:957][891]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-13.57.41:958][891]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.04.19-13.57.41:958][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.008832s)
+[2018.04.19-13.57.41:970][891]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-13.57.41:981][891]LogInit: FAudioDevice initialized.
+[2018.04.19-13.57.42:028][891]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-13.57.42:040][891]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-08.57.42
+[2018.04.19-13.57.42:042][891]LogWorld: Bringing up level for play took: 0.002757
+[2018.04.19-13.57.42:334][891]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.04.19-13.57.42:353][891]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene 0.124
+[2018.04.19-13.57.42:353][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.57.44:582][137]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.44:585][137]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.44:589][137]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.44:590][137]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.45:483][242]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.45:486][242]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.45:490][242]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.45:491][242]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.48:684][623]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.48:687][623]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.48:691][623]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.48:692][623]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.49:288][693]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.49:291][693]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.49:295][693]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.49:296][693]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.49:693][739]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.49:695][739]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.49:700][739]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.49:701][739]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.50:174][794]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.50:176][794]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.50:181][794]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.50:182][794]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.50:846][872]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.50:849][872]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.50:854][872]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.50:855][872]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.51:251][918]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.57.51:254][918]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.57.51:259][918]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.57.51:260][918]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.57.51:501][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.57.51:538][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.57.56:935][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.57.56:935][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-13.57.56:935][514]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 3:57:56 AM)
+[2018.04.19-13.57.56:935][514]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-13.57.56:939][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004125s)
+[2018.04.19-13.57.56:940][514]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-13.57.56:940][514]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2018.04.19-13.57.56:940][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.005035s)
+[2018.04.19-13.57.56:951][514]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-13.57.56:962][514]LogInit: FAudioDevice initialized.
+[2018.04.19-13.57.57:003][514]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-13.57.57:005][514]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-08.57.57
+[2018.04.19-13.57.57:005][514]LogWorld: Bringing up level for play took: 0.001620
+[2018.04.19-13.57.57:016][514]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene 0.787
+[2018.04.19-13.57.57:017][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.57.57:047][514]LogRenderer: Reallocating scene render targets to support 1376x804 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-13.57.57:858][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.57.57:931][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.58.41:767][816]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.58.42:362][816]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 116 classes and 0 folders.
+[2018.04.19-13.58.43:026][816]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.04.19-13.58.43:049][816]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.58.43:070][816]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.04.19-13.58.43:211][816]LogSlate: Took 0.005710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-13.58.43:776][817]LogSlate: Took 0.005220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-13.59.14:383][886]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-13.59.14:433][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.59.14:433][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-13.59.14:433][886]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 3:59:14 AM)
+[2018.04.19-13.59.14:433][886]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-13.59.14:437][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003928s)
+[2018.04.19-13.59.14:438][886]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-13.59.14:438][886]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2018.04.19-13.59.14:438][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.004853s)
+[2018.04.19-13.59.14:458][886]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-13.59.14:468][886]LogInit: FAudioDevice initialized.
+[2018.04.19-13.59.14:517][886]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-13.59.14:518][886]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-08.59.14
+[2018.04.19-13.59.14:518][886]LogWorld: Bringing up level for play took: 0.001003
+[2018.04.19-13.59.14:534][886]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene 0.302
+[2018.04.19-13.59.14:534][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.59.15:855][ 15]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.59.15:858][ 15]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.59.15:862][ 15]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.59.15:863][ 15]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.59.16:152][ 38]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.59.16:155][ 38]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.59.16:159][ 38]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.59.16:160][ 38]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.59.16:366][ 51]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.59.16:369][ 51]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.59.16:373][ 51]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.59.16:374][ 51]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.59.16:753][ 83]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.59.16:755][ 83]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.59.16:760][ 83]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.59.16:761][ 83]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.59.17:912][200]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.59.17:915][200]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.59.17:919][200]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.59.17:920][200]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.59.18:295][234]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.59.18:298][234]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.59.18:302][234]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.59.18:303][234]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.59.19:005][304]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-13.59.19:008][304]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-13.59.19:012][304]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-13.59.19:013][304]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-13.59.22:540][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-13.59.22:625][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.00.39:226][  8]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.00.39:245][  8]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.01.43:146][513]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.01.43:649][513]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.01.43:688][514]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.01.43:691][514]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.01.43:694][514]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.01.43:698][514]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.01.43:700][514]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.01.43:705][514]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.01.47:636][764]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.02.40:180][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TargetMode)
+[2018.04.19-14.02.51:904][ 20]LogEditorViewport: Clicking Background
+[2018.04.19-14.03.00:746][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TargetMode)
+[2018.04.19-14.03.13:712][711]LogStaticMesh: Building static mesh ClassicMode...
+[2018.04.19-14.03.13:716][711]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.03.13:730][711]LogStaticMesh: Built static mesh [0.02s] /Game/ClassicMode.ClassicMode
+[2018.04.19-14.04.14:725][273]LogRenderer: Reallocating scene render targets to support 1376x900 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-14.04.57:846][245]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.05.06:476][810]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.05.37:879][794]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.05.52:027][788]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.19-14.08.40:103][859]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.10.26:794][390]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.19-14.10.29:422][552]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.11.16:341][458]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.19-14.11.20:357][704]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.11.22:222][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Mode_Revolve" FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset" SILENT=true
+[2018.04.19-14.11.22:912][814]LogSavePackage: Save=667.86ms
+[2018.04.19-14.11.22:912][814]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/3D_Mode_RevolveB91488CD4D3350C3ED4665B72CD27927.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset'
+[2018.04.19-14.11.22:973][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset
+[2018.04.19-14.11.47:062][410]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.11.47:128][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.11.47:128][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.11.47:128][410]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:11:47 AM)
+[2018.04.19-14.11.47:128][410]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.11.47:133][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004374s)
+[2018.04.19-14.11.47:133][410]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.11.47:133][410]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.04.19-14.11.47:133][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.005300s)
+[2018.04.19-14.11.47:154][410]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.11.47:166][410]LogInit: FAudioDevice initialized.
+[2018.04.19-14.11.47:206][410]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.11.47:208][410]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.11.47
+[2018.04.19-14.11.47:208][410]LogWorld: Bringing up level for play took: 0.001006
+[2018.04.19-14.11.47:220][410]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene 0.978
+[2018.04.19-14.11.47:220][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.11.48:398][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.11.48:482][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.12.02:184][110]LogEditorViewport: Clicking on Actor (LMB): 3D_Mode_Revolve_C (3D_Mode_Revolve)
+[2018.04.19-14.12.18:595][ 19]LogEditorViewport: Clicking Background
+[2018.04.19-14.12.19:259][ 74]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.12.19:293][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.12.19:293][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.12.19:293][ 74]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:12:19 AM)
+[2018.04.19-14.12.19:293][ 74]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.12.19:297][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004126s)
+[2018.04.19-14.12.19:298][ 74]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.12.19:298][ 74]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.04.19-14.12.19:298][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.004933s)
+[2018.04.19-14.12.19:317][ 74]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.12.19:326][ 74]LogInit: FAudioDevice initialized.
+[2018.04.19-14.12.19:370][ 74]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.12.19:372][ 74]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.12.19
+[2018.04.19-14.12.19:372][ 74]LogWorld: Bringing up level for play took: 0.001039
+[2018.04.19-14.12.19:384][ 74]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene -0.858
+[2018.04.19-14.12.19:384][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.12.20:196][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.12.20:254][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.12.21:591][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TargetMode)
+[2018.04.19-14.12.24:287][577]Cmd: DELETE
+[2018.04.19-14.12.24:287][577]Cmd: ACTOR DELETE
+[2018.04.19-14.12.24:297][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.19-14.12.24:317][577]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.04.19-14.12.24:915][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ClassicMode)
+[2018.04.19-14.12.25:014][631]Cmd: DELETE
+[2018.04.19-14.12.25:014][631]Cmd: ACTOR DELETE
+[2018.04.19-14.12.25:016][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.19-14.12.25:034][631]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.04.19-14.12.43:022][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skee_Scene" FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Skee_Scene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.19-14.12.44:280][186]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.12.52:126][186]LogSavePackage: Save=9000.08ms
+[2018.04.19-14.12.52:126][186]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Skee_SceneD872A9354A20989F1E30BBAAB003FFF3.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Skee_Scene.umap'
+[2018.04.19-14.12.52:175][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Skee_Scene.umap
+[2018.04.19-14.12.52:279][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skee_Scene_BuiltData" FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Skee_Scene_BuiltData.uasset" SILENT=true
+[2018.04.19-14.12.52:376][186]LogSavePackage: Save=43.56ms
+[2018.04.19-14.12.52:376][186]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Skee_Scene_BuiltData4199CD65459B9A1A0EFD648AA5609605.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Skee_Scene_BuiltData.uasset'
+[2018.04.19-14.12.52:398][186]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/Skee_Scene_BuiltData.uasset
+[2018.04.19-14.14.13:575][666]LogSlate: Took 0.006123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.19-14.15.54:455][548]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.15.55:155][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Mode_Revolve" FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset" SILENT=true
+[2018.04.19-14.15.56:449][575]LogSavePackage: Save=1237.25ms
+[2018.04.19-14.15.56:449][575]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/3D_Mode_RevolveECB8B2D549C5E5C1FAE4388A1B0CFA84.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset'
+[2018.04.19-14.15.56:497][575]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset
+[2018.04.19-14.15.58:834][822]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.15.58:873][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.15.58:873][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.15.58:873][822]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:15:58 AM)
+[2018.04.19-14.15.58:873][822]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.15.58:877][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004155s)
+[2018.04.19-14.15.58:878][822]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.15.58:878][822]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.04.19-14.15.58:878][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.005027s)
+[2018.04.19-14.15.58:898][822]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.15.58:908][822]LogInit: FAudioDevice initialized.
+[2018.04.19-14.15.58:952][822]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.15.58:953][822]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.15.58
+[2018.04.19-14.15.58:953][822]LogWorld: Bringing up level for play took: 0.001001
+[2018.04.19-14.15.58:966][822]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene 0.725
+[2018.04.19-14.15.58:966][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.16.02:327][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.16.02:387][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.16.11:841][966]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.16.12:547][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D_Mode_Revolve" FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset" SILENT=true
+[2018.04.19-14.16.13:677][991]LogSavePackage: Save=1096.65ms
+[2018.04.19-14.16.13:678][991]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/3D_Mode_Revolve62E379EA41F4D072037EB9989C6D978D.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset'
+[2018.04.19-14.16.13:726][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/3D_Mode_Revolve.uasset
+[2018.04.19-14.16.15:756][201]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.16.15:793][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.16.15:794][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.16.15:794][201]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:16:15 AM)
+[2018.04.19-14.16.15:794][201]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.16.15:798][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004033s)
+[2018.04.19-14.16.15:798][201]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.16.15:798][201]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2018.04.19-14.16.15:799][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.004865s)
+[2018.04.19-14.16.15:818][201]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.16.15:827][201]LogInit: FAudioDevice initialized.
+[2018.04.19-14.16.15:870][201]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.16.15:871][201]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.16.15
+[2018.04.19-14.16.15:872][201]LogWorld: Bringing up level for play took: 0.000954
+[2018.04.19-14.16.15:884][201]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene -0.357
+[2018.04.19-14.16.15:884][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.16.32:094][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.16.32:159][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.22.41:209][205]BlueprintLog: New page: Compile 3D_Mode_Revolve
+[2018.04.19-14.23.12:064][320]LogSavePackage: Save=9010.87ms
+[2018.04.19-14.23.12:064][320]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Skee_Scene_Auto1B0690A354B50C6513B58E4ACF833F462.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/Skee_Scene_Auto1.umap'
+[2018.04.19-14.23.12:074][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/Skee_Scene_Auto1.umap
+[2018.04.19-14.23.12:096][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Skee_Scene' took 9.152
+[2018.04.19-14.23.12:096][320]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 9.152
+[2018.04.19-14.23.12:130][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GUIs_Rulesets/Mode_Select] ([1] browsable assets)...
+[2018.04.19-14.23.12:130][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUIs_Rulesets/Mode_Select]
+[2018.04.19-14.23.23:124][320]LogSavePackage: Save=10924.95ms
+[2018.04.19-14.23.23:124][320]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Mode_Select_Auto194FF04B44EBAA890727EA3A658D34D12.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/GUIs_Rulesets/Mode_Select_Auto1.uasset'
+[2018.04.19-14.23.23:134][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/GUIs_Rulesets/Mode_Select_Auto1.uasset
+[2018.04.19-14.23.23:136][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D_Mode_Revolve] ([1] browsable assets)...
+[2018.04.19-14.23.23:163][320]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/3D_Mode_Revolve.3D_Mode_Revolve]
+[2018.04.19-14.23.23:163][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Mode_Revolve]
+[2018.04.19-14.23.24:601][320]LogSavePackage: Save=1382.79ms
+[2018.04.19-14.23.24:601][320]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/3D_Mode_Revolve_Auto176DE766F4C158B891A4CFFB1B169FEA8.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/3D_Mode_Revolve_Auto1.uasset'
+[2018.04.19-14.23.24:610][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/3D_Mode_Revolve_Auto1.uasset
+[2018.04.19-14.23.24:610][320]LogFileHelpers: Auto-saving content packages took 12.512
+[2018.04.19-14.24.43:439][885]BlueprintLog: New page: Compile Number_Of_Players
+[2018.04.19-14.24.44:214][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUIs_Rulesets/Number_Of_Players" FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/GUIs_Rulesets/Number_Of_Players.uasset" SILENT=true
+[2018.04.19-14.25.11:154][907]LogSavePackage: Save=26883.19ms
+[2018.04.19-14.25.11:154][907]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Number_Of_Players169B27AB478DD2DB86A2E086C6E9D1E6.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/GUIs_Rulesets/Number_Of_Players.uasset'
+[2018.04.19-14.25.11:202][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/GUIs_Rulesets/Number_Of_Players.uasset
+[2018.04.19-14.27.21:038][452]BlueprintLog: New page: Compile Number_Of_Players
+[2018.04.19-14.28.31:742][115]BlueprintLog: New page: Compile Number_Of_Players
+[2018.04.19-14.34.59:516][479]BlueprintLog: New page: Compile Number_Of_Players
+[2018.04.19-14.35.00:052][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUIs_Rulesets/Number_Of_Players" FILE="../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/GUIs_Rulesets/Number_Of_Players.uasset" SILENT=true
+[2018.04.19-14.35.28:368][489]LogSavePackage: Save=28255.34ms
+[2018.04.19-14.35.28:368][489]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Number_Of_Players7FEBA00E414C500B86B3E39DE8A78E1D.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/GUIs_Rulesets/Number_Of_Players.uasset'
+[2018.04.19-14.35.28:416][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Content/GUIs_Rulesets/Number_Of_Players.uasset
+[2018.04.19-14.35.37:455][490]LogSavePackage: Save=8851.25ms
+[2018.04.19-14.35.37:455][490]LogSavePackage: Moving '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Skee_Scene_Auto2AB04F1C444C88549A2EFBCAB4B8394F1.tmp' to '../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/Skee_Scene_Auto2.umap'
+[2018.04.19-14.35.37:466][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal Projects/SkeeTesting2 4.18 - 3 4.18 - 2 4.18/Saved/Autosaves/Game/Skee_Scene_Auto2.umap
+[2018.04.19-14.35.37:488][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Skee_Scene' took 8.966
+[2018.04.19-14.35.37:488][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.966
+[2018.04.19-14.35.56:430][242]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.35.56:494][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.35.56:494][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.35.56:495][242]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:35:56 AM)
+[2018.04.19-14.35.56:495][242]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.35.56:499][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004279s)
+[2018.04.19-14.35.56:500][242]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.35.56:500][242]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.04.19-14.35.56:500][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.005495s)
+[2018.04.19-14.35.56:523][242]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.35.56:534][242]LogInit: FAudioDevice initialized.
+[2018.04.19-14.35.56:575][242]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.35.56:576][242]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.35.56
+[2018.04.19-14.35.56:576][242]LogWorld: Bringing up level for play took: 0.001051
+[2018.04.19-14.35.56:589][242]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene 0.344
+[2018.04.19-14.35.56:589][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.01:146][530]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.36.01:151][530]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.36.01:155][530]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.36.01:157][530]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.36.01:162][530]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.36.01:168][530]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.36.04:036][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.04:103][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.25:704][129]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.36.25:740][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.25:740][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.36.25:740][129]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:36:25 AM)
+[2018.04.19-14.36.25:740][129]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.36.25:745][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004073s)
+[2018.04.19-14.36.25:745][129]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.36.25:745][129]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2018.04.19-14.36.25:746][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.005101s)
+[2018.04.19-14.36.25:766][129]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.36.25:775][129]LogInit: FAudioDevice initialized.
+[2018.04.19-14.36.25:816][129]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.36.25:818][129]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.36.25
+[2018.04.19-14.36.25:818][129]LogWorld: Bringing up level for play took: 0.001010
+[2018.04.19-14.36.25:830][129]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene -0.416
+[2018.04.19-14.36.25:830][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.30:908][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.30:969][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.35:131][672]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.36.41:949][995]BlueprintLog: New page: Compile Number_Of_Players
+[2018.04.19-14.36.44:320][ 86]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.36.44:355][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.44:355][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.36.44:355][ 86]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:36:44 AM)
+[2018.04.19-14.36.44:355][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.36.44:359][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003856s)
+[2018.04.19-14.36.44:359][ 86]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.36.44:360][ 86]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2018.04.19-14.36.44:360][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.004817s)
+[2018.04.19-14.36.44:380][ 86]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.36.44:389][ 86]LogInit: FAudioDevice initialized.
+[2018.04.19-14.36.44:447][ 86]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.36.44:448][ 86]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.36.44
+[2018.04.19-14.36.44:448][ 86]LogWorld: Bringing up level for play took: 0.000963
+[2018.04.19-14.36.44:469][ 86]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene 0.223
+[2018.04.19-14.36.44:470][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.46:815][151]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.36.46:822][151]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.36.46:827][151]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.36.46:828][151]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.36.46:834][151]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.36.46:844][151]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.36.46:845][151]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.36.48:369][193]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.36.48:376][193]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.36.48:381][193]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.36.48:382][193]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.36.48:388][193]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.36.48:397][193]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.36.48:398][193]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.36.51:053][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.51:116][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.55:298][376]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.19-14.36.55:332][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.36.55:333][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.19-14.36.55:333][376]PIE: New page: PIE session: Skee_Scene (Apr 19, 2018, 4:36:55 AM)
+[2018.04.19-14.36.55:333][376]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Skee_Scene
+[2018.04.19-14.36.55:337][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003970s)
+[2018.04.19-14.36.55:337][376]LogAIModule: Creating AISystem for world Skee_Scene
+[2018.04.19-14.36.55:338][376]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2018.04.19-14.36.55:338][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Skee_Scene.Skee_Scene to /Game/UEDPIE_0_Skee_Scene.Skee_Scene (0.004995s)
+[2018.04.19-14.36.55:359][376]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-14.36.55:368][376]LogInit: FAudioDevice initialized.
+[2018.04.19-14.36.55:423][376]LogLoad: Game class is 'GameModeBase'
+[2018.04.19-14.36.55:424][376]LogWorld: Bringing World /Game/UEDPIE_0_Skee_Scene.Skee_Scene up for play (max tick rate 0) at 2018.04.19-09.36.55
+[2018.04.19-14.36.55:424][376]LogWorld: Bringing up level for play took: 0.000945
+[2018.04.19-14.36.55:445][376]PIE: Play in editor start time for /Game/UEDPIE_0_Skee_Scene -0.802
+[2018.04.19-14.36.55:445][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.37.04:035][621]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.37.04:042][621]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.37.04:047][621]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.37.04:048][621]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.04:054][621]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.04:063][621]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.37.04:064][621]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.37.05:877][671]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.37.05:884][671]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.37.05:888][671]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.37.05:890][671]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.05:895][671]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.05:905][671]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.37.05:906][671]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.37.11:134][820]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.37.11:141][820]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.37.11:146][820]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.37.11:148][820]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.11:154][820]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.11:163][820]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.37.11:164][820]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.37.12:766][864]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-14.37.12:774][864]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-14.37.12:778][864]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-14.37.12:779][864]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.12:785][864]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-14.37.12:795][864]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.19-14.37.12:796][864]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-14.37.15:794][950]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.37.15:855][950]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Skee_Scene.Skee_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene' with GeneratedClass '/Game/Skee_Scene.Skee_Scene_C' with ClassGeneratedBy '/Game/Skee_Scene.Skee_Scene:PersistentLevel.Skee_Scene'
+[2018.04.19-14.37.25:676][305]LogUObjectArray: Warning: Other object in slot
+[2018.04.19-14.37.29:318][305]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.642 s
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: 
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: Stack: 
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000004C12786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000049B123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000049CB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000FB0E33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000FFAF03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F8963EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F87F74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F87FABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F8928225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000000F07397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000000F0CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000001149913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000000F63484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000000F3B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000000F2D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x000000002093E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000020931A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000209403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x000000002092D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000488A1C24 USER32.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000488A156C USER32.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000020941516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F86450C8 UE4Editor.exe!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F8655430 UE4Editor.exe!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F86554AA UE4Editor.exe!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F8662379 UE4Editor.exe!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x00000000F8663D57 UE4Editor.exe!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x0000000048748364 KERNEL32.DLL!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: [Callstack] 0x000000004AF17091 ntdll.dll!UnknownFunction []
+[2018.04.19-14.37.29:318][305]LogOutputDevice: Error: 
+[2018.04.19-14.37.29:325][305]LogStats:                SubmitErrorReport -  0.000 s

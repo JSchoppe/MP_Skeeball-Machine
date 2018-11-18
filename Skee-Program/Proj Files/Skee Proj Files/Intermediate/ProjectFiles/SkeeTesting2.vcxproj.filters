@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SkeeTesting2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{110BFB89-8D02-4917-90FB-035397163F72}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SkeeTesting2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SkeeTesting2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{BEB5E869-A50A-4AB2-B06C-2CABE2CB5EBE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SkeeTesting2">
+			<UniqueIdentifier>{996AEF0F-14A7-43F1-9306-D43568304F4B}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\SkeeTesting2\boardValues.cpp">
+			<Filter>Source\SkeeTesting2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SkeeTesting2\boardValues.h">
+			<Filter>Source\SkeeTesting2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SkeeTesting2\FileIO.cpp">
+			<Filter>Source\SkeeTesting2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SkeeTesting2\FileIO.h">
+			<Filter>Source\SkeeTesting2</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\SkeeTesting2\SkeeTesting2.Build.cs">
+			<Filter>Source\SkeeTesting2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SkeeTesting2\SkeeTesting2.cpp">
+			<Filter>Source\SkeeTesting2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SkeeTesting2\SkeeTesting2.h">
+			<Filter>Source\SkeeTesting2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

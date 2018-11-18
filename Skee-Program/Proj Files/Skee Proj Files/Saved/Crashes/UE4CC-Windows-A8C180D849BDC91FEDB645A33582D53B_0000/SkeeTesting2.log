@@ -1,0 +1,854 @@
+﻿Log file open, 06/26/18 09:13:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SkeeTesting2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(474288637) SRandInit(474288637).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173874
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Binaries/Win64/UE4Editor-SkeeTesting2.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.26-16.13.22:151][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.26-16.13.22:151][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.26-16.13.22:190][  0]LogInit: Computer: DESKTOP-FRNA35L
+[2018.06.26-16.13.22:190][  0]LogInit: User: Skeeball
+[2018.06.26-16.13.22:190][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.26-16.13.22:190][  0]LogInit: High frequency timer resolution =3.312802 MHz
+[2018.06.26-16.13.22:191][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.06.26-16.13.22:191][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.26-16.13.22:191][  0]LogMemory: Process Physical Memory: 271.10 MB used, 271.10 MB peak
+[2018.06.26-16.13.22:191][  0]LogMemory: Process Virtual Memory: 269.94 MB used, 269.94 MB peak
+[2018.06.26-16.13.22:191][  0]LogMemory: Physical Memory: 2112.82 MB used,  6065.63 MB free, 8178.44 MB total
+[2018.06.26-16.13.22:191][  0]LogMemory: Virtual Memory: 641.27 MB used,  6065.63 MB free, 134217728.00 MB total
+[2018.06.26-16.13.22:353][  0]LogInit: Using OS detected language (en-US).
+[2018.06.26-16.13.22:353][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.26-16.13.22:356][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.26-16.13.22:717][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.26-16.13.22:969][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.26-16.13.22:976][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
+[2018.06.26-16.13.22:976][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.06.26-16.13.22:977][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.26-16.13.22:977][  0]LogD3D11RHI:       0/0/4089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.26-16.13.22:977][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.26-16.13.22:979][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.26-16.13.22:980][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.26-16.13.22:980][  0]LogWindows: EnumDisplayDevices:
+[2018.06.26-16.13.22:980][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
+[2018.06.26-16.13.22:980][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.26-16.13.22:980][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.26-16.13.22:980][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.06.26-16.13.22:980][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.06.26-16.13.22:980][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
+[2018.06.26-16.13.22:980][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2018.06.26-16.13.22:980][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2018.06.26-16.13.22:980][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2018.06.26-16.13.22:993][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.06.26-16.13.22:998][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.26-16.13.23:010][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.06.26-16.13.23:011][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Intermediate/Shaders/WorkingDirectory/6188/).
+[2018.06.26-16.13.23:011][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Skeeball/AppData/Local/Temp/UnrealShaderWorkingDir/C54191C64AA18D6A0239DB9034446E02/'.
+[2018.06.26-16.13.23:011][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.26-16.13.23:917][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.26-16.13.23:973][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.26-16.13.24:029][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.26-16.13.24:084][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.26-16.13.24:145][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.26-16.13.24:200][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.26-16.13.24:255][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.26-16.13.24:311][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.26-16.13.24:358][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.26-16.13.24:411][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.26-16.13.24:462][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.26-16.13.24:513][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.26-16.13.24:564][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.26-16.13.24:615][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.26-16.13.24:716][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.26-16.13.24:716][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.26-16.13.24:768][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.26-16.13.24:806][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.26-16.13.24:897][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.26-16.13.24:925][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.26-16.13.24:976][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.26-16.13.25:027][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.26-16.13.25:077][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.26-16.13.25:126][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.26-16.13.25:126][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.26-16.13.25:591][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.26-16.13.25:663][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.26-16.13.25:663][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.26-16.13.25:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.26-16.13.25:663][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.26-16.13.25:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.26-16.13.25:663][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.26-16.13.25:679][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.26-16.13.25:692][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Skeeball/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.26-16.13.25:702][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.26-16.13.25:703][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.26-16.13.25:703][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.26-16.13.25:703][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.26-16.13.26:092][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.26-16.13.26:419][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.26-16.13.26:459][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.26-16.13.26:459][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.26-16.13.26:459][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.26-16.13.26:459][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.26-16.13.26:459][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.26-16.13.26:485][  0]LogNetVersion: SkeeTesting2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3365423841)
+[2018.06.26-16.13.26:645][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.06.26-16.13.27:147][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.059885 seconds
+[2018.06.26-16.13.27:152][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.26-16.13.27:152][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.06.26-16.13.27:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.26-16.13.27:209][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.26-16.13.29:799][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.26-16.13.29:841][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.26-16.13.30:594][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.26-16.13.31:018][  0]SourceControl: Source control is disabled
+[2018.06.26-16.13.31:019][  0]SourceControl: Source control is disabled
+[2018.06.26-16.13.31:072][  0]SourceControl: Source control is disabled
+[2018.06.26-16.13.31:123][  0]SourceControl: Source control is disabled
+[2018.06.26-16.13.31:929][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.26-16.13.32:192][  0]LogOcInput: OculusInput pre-init called
+[2018.06.26-16.13.32:457][  0]LogEngine: Initializing Engine...
+[2018.06.26-16.13.32:459][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.26-16.13.32:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.26-16.13.32:696][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.26-16.13.32:841][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.26-16.13.32:846][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.26-16.13.32:863][  0]LogInit: FAudioDevice initialized.
+[2018.06.26-16.13.33:064][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.26-16.13.33:085][  0]LogInit: Texture streaming: Enabled
+[2018.06.26-16.13.33:199][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.26-16.13.33:326][  0]LogInit: Transaction tracking system initialized
+[2018.06.26-16.13.33:639][  0]BlueprintLog: New page: Editor Load
+[2018.06.26-16.13.34:525][  0]LocalizationService: Localization service is disabled
+[2018.06.26-16.13.35:271][  0]LogConsoleResponse: Display: 
+[2018.06.26-16.13.35:459][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.26-16.13.35:459][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.26-16.13.35:459][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.26-16.13.36:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/' took 0.02s
+[2018.06.26-16.13.36:646][  0]SourceControl: Source control is disabled
+[2018.06.26-16.13.36:646][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Skee_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.26-16.13.36:646][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Skee_Scene.umap'
+[2018.06.26-16.13.36:646][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.26-16.13.36:690][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.18ms to complete.
+[2018.06.26-16.13.36:690][  0]LogFileHelpers: Loading map 'Skee_Scene' took 0.045
+[2018.06.26-16.13.37:012][  0]LogCollectionManager: Loaded 0 collections in 0.002199 seconds
+[2018.06.26-16.13.37:091][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Saved/Collections/' took 0.01s
+[2018.06.26-16.13.37:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/Developers/Skeeball/Collections/' took 0.01s
+[2018.06.26-16.13.37:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/Collections/' took 0.01s
+[2018.06.26-16.13.37:092][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.26-16.13.37:101][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2364 classes and 521 folders.
+[2018.06.26-16.13.37:167][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.26-16.13.37:989][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.06.26-16.13.38:046][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.26-16.13.38:085][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.26-16.13.38:087][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.26-16.13.38:097][  0]LogSlate: Took 0.004376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.26-16.13.38:410][  0]LogRenderer: Reallocating scene render targets to support 828x376 Format 9 NumSamples 1 (Frame:1).
+[2018.06.26-16.13.38:593][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.06.26-16.13.38:593][  0]LogLoad: (Engine Initialization) Total time: 19.35 seconds
+[2018.06.26-16.13.38:593][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.26-16.13.38:593][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.06.26-16.13.38:622][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.06.26-16.13.38:676][  0]LogSlate: Took 0.003536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.13.38:706][  1]LogAssetRegistry: Asset discovery search completed in 12.0834 seconds
+[2018.06.26-16.13.38:708][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.26-16.13.38:708][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.06.26-16.13.46:132][452]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.13.46:410][452]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:Initiate.Board ID'. Unknown structure.
+[2018.06.26-16.13.46:410][452]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background.K2Node_CustomEvent_Board_ID'. Unknown structure.
+[2018.06.26-16.13.46:669][452]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Creators.Creators_C:Board ID'. Unknown structure.
+[2018.06.26-16.13.46:697][452]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Dev_Menu.Dev_Menu_C:Board ID'. Unknown structure.
+[2018.06.26-16.13.46:730][452]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Input_Test.Input_Test_C:Board ID'. Unknown structure.
+[2018.06.26-16.13.46:833][452]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Leaderboard.Leaderboard_C:Board ID'. Unknown structure.
+[2018.06.26-16.13.46:951][452]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Number_Of_Players.Number_Of_Players_C:Board ID'. Unknown structure.
+[2018.06.26-16.13.47:137][452]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.26-16.13.47:144][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag STRUCT_REINST_Board_Data_32 != prop FallbackStruct) in package:  ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Number_Of_Players.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.47:190][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag STRUCT_REINST_Board_Data_32 != prop FallbackStruct) in package:  ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Leaderboard.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.47:211][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag STRUCT_REINST_Board_Data_32 != prop FallbackStruct) in package:  ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Input_Test.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.47:225][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag STRUCT_REINST_Board_Data_32 != prop FallbackStruct) in package:  ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.47:229][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag STRUCT_REINST_Board_Data_32 != prop FallbackStruct) in package:  ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Creators.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.49:070][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag FallbackStruct != prop Board_Data) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.49:071][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag FallbackStruct != prop Board_Data) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.49:071][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag FallbackStruct != prop Board_Data) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.49:071][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag FallbackStruct != prop Board_Data) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.49:071][452]LogClass: Warning: Property Board ID of Board ID has a struct type mismatch (tag FallbackStruct != prop Board_Data) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.06.26-16.13.51:547][452]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.06.26-16.13.51:620][452]Cmd: MAP LOAD FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/SkeeballMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.26-16.13.51:620][452]LightingResults: New page: Lighting Build
+[2018.06.26-16.13.51:663][452]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2018.06.26-16.13.51:664][452]LoadErrors: New page: Loading map: SkeeballMap.umap
+[2018.06.26-16.13.51:664][452]MapCheck: New page: Map Check
+[2018.06.26-16.13.51:664][452]LightingResults: New page: Lighting Build
+[2018.06.26-16.13.51:685][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.26-16.13.51:724][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.26-16.13.51:779][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.498ms to complete.
+[2018.06.26-16.13.51:780][452]LogFileHelpers: Loading map 'SkeeballMap' took 0.161
+[2018.06.26-16.13.55:943][731]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.26-16.13.56:047][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.13.56:047][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.26-16.13.56:047][731]PIE: New page: PIE session: SkeeballMap (Jun 26, 2018, 2:13:56 AM)
+[2018.06.26-16.13.56:047][731]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.06.26-16.13.56:057][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009104s)
+[2018.06.26-16.13.56:057][731]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.06.26-16.13.56:057][731]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2018.06.26-16.13.56:057][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.009906s)
+[2018.06.26-16.13.56:069][731]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.26-16.13.56:074][731]LogInit: FAudioDevice initialized.
+[2018.06.26-16.13.56:124][731]LogLoad: Game class is 'GameModeBase'
+[2018.06.26-16.13.56:126][731]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.06.26-09.13.56
+[2018.06.26-16.13.56:127][731]LogWorld: Bringing up level for play took: 0.001408
+[2018.06.26-16.13.56:170][731]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.06.26-16.13.56:175][731]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 1.097
+[2018.06.26-16.13.56:176][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.13.56:203][731]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 16.666859 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.06.26-16.13.56:239][731]LogRenderer: Reallocating scene render targets to support 1200x700 Format 9 NumSamples 1 (Frame:1).
+[2018.06.26-16.14.38:711][639]LogHttp: Warning: 0000008ADAAC2080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.14.38:711][639]LogHttp: Warning: 0000008ADAAC2080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.14.38:711][639]LogHttp: Warning: 0000008ADAAC2080: libcurl info message cache 1 (Closing connection 0)
+[2018.06.26-16.14.44:669][762]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.26-16.14.44:676][762]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.26-16.14.44:687][762]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.26-16.14.44:690][762]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.14.50:672][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.14.50:749][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.16.38:752][357]LogHttp: Warning: 0000008AC0F46380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.16.38:753][357]LogHttp: Warning: 0000008AC0F46380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.16.38:753][357]LogHttp: Warning: 0000008AC0F46380: libcurl info message cache 1 (Closing connection 1)
+[2018.06.26-16.18.24:015][898]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.26-16.18.24:031][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.18.24:031][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.26-16.18.24:031][898]PIE: New page: PIE session: SkeeballMap (Jun 26, 2018, 2:18:24 AM)
+[2018.06.26-16.18.24:032][898]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.06.26-16.18.24:042][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010856s)
+[2018.06.26-16.18.24:043][898]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.06.26-16.18.24:043][898]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2018.06.26-16.18.24:043][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.011887s)
+[2018.06.26-16.18.24:056][898]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.26-16.18.24:063][898]LogInit: FAudioDevice initialized.
+[2018.06.26-16.18.24:100][898]LogLoad: Game class is 'GameModeBase'
+[2018.06.26-16.18.24:102][898]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.06.26-09.18.24
+[2018.06.26-16.18.24:103][898]LogWorld: Bringing up level for play took: 0.001425
+[2018.06.26-16.18.24:106][898]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 1.028
+[2018.06.26-16.18.24:107][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.18.24:135][898]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 16.666859 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.06.26-16.18.26:712][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.18.26:790][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.18.32:354][232]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.18.32:826][232]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.06.26-16.18.33:685][232]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.18.33:689][232]LogSlate: Took 0.003662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.26-16.18.38:802][436]LogHttp: Warning: 0000008AF4FAB280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.18.38:802][436]LogHttp: Warning: 0000008AF4FAB280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.18.38:802][436]LogHttp: Warning: 0000008AF4FAB280: libcurl info message cache 1 (Closing connection 2)
+[2018.06.26-16.18.55:138][ 89]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.18.55:621][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.18.55:674][106]LogSavePackage: Save=18.86ms
+[2018.06.26-16.18.55:674][106]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test0232DB3E4850E447A5547FACE0542320.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.18.55:676][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.19.47:492][291]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.19.48:257][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.19.48:300][319]LogSavePackage: Save=20.28ms
+[2018.06.26-16.19.48:300][319]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestDC08F53E4167CD18B7C7F486F35BE348.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.19.48:306][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.19.55:891][621]LogUObjectHash: Warning: Ambiguous search, could be ScaleBox /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72 or ScaleBox /Game/Blueprints/Input_Test.SKEL_Input_Test_C:WidgetTree.ScaleBox_72
+[2018.06.26-16.19.55:891][621]LogUObjectHash: Warning: Ambiguous search, could be ScaleBox /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72 or ScaleBox /Engine/Transient.World_1:Solenoid_Test_C_2.WidgetTree_25.ScaleBox_72
+[2018.06.26-16.19.55:891][621]LogUObjectHash: Warning: Ambiguous search, could be ScaleBox /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72 or ScaleBox /Engine/Transient.World_1:Solenoid_Test_C_1.WidgetTree_27.ScaleBox_72
+[2018.06.26-16.19.55:891][621]LogUObjectHash: Warning: Ambiguous search, could be ScaleBox /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72 or ScaleBox /Game/Blueprints/Solenoid_Test.Solenoid_Test:WidgetTree.ScaleBox_72
+[2018.06.26-16.19.55:891][621]LogUObjectHash: Warning: Ambiguous search, could be ScaleBox /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72 or ScaleBox /Game/Blueprints/Input_Test.Input_Test_C:WidgetTree.ScaleBox_72
+[2018.06.26-16.19.55:891][621]LogUObjectHash: Warning: Ambiguous search, could be ScaleBox /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72 or ScaleBox /Engine/Transient.REINST_Solenoid_Test_C_15:WidgetTree.ScaleBox_72
+[2018.06.26-16.19.55:891][621]LogUObjectHash: Warning: Ambiguous search, could be ScaleBox /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72 or ScaleBox /Game/Blueprints/Solenoid_Test.Solenoid_Test_C:WidgetTree.ScaleBox_72
+[2018.06.26-16.19.55:891][621]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ScaleBoxSlot /Game/Blueprints/Input_Test.Input_Test:WidgetTree.ScaleBox_72.ScaleBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_62).  Import failed...
+[2018.06.26-16.19.55:891][621]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'ScaleBoxSlot'"ScaleBox_72.ScaleBoxSlot_0"''
+[2018.06.26-16.20.38:839][347]LogHttp: Warning: 0000008AF5CDF700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.20.38:839][347]LogHttp: Warning: 0000008AF5CDF700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.20.38:839][347]LogHttp: Warning: 0000008AF5CDF700: libcurl info message cache 1 (Closing connection 3)
+[2018.06.26-16.21.09:785][564]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.21.10:304][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.21.10:352][582]LogSavePackage: Save=23.19ms
+[2018.06.26-16.21.10:352][582]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test5318462142FE3ABB2F48FDABBBC8B224.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.21.10:355][582]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.22.38:877][115]LogHttp: Warning: 0000008AF5EFAE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.22.38:877][115]LogHttp: Warning: 0000008AF5EFAE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.22.38:877][115]LogHttp: Warning: 0000008AF5EFAE00: libcurl info message cache 1 (Closing connection 4)
+[2018.06.26-16.24.38:943][865]LogHttp: Warning: 0000008AF5B0CE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.24.38:943][865]LogHttp: Warning: 0000008AF5B0CE80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.24.38:943][865]LogHttp: Warning: 0000008AF5B0CE80: libcurl info message cache 1 (Closing connection 5)
+[2018.06.26-16.24.40:585][928]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.24.41:324][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.24.41:376][955]LogSavePackage: Save=23.09ms
+[2018.06.26-16.24.41:376][955]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestFF6369094001CA81EF1CCF95EECCF167.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.24.41:379][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.24.58:811][673]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.24.59:368][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.24.59:416][693]LogSavePackage: Save=23.34ms
+[2018.06.26-16.24.59:416][693]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test4D84D2E8428AEB1593959ABCF6B7EDAF.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.24.59:419][693]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.25.41:040][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.25.41:083][340]LogSavePackage: Save=20.50ms
+[2018.06.26-16.25.41:083][340]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test98A003054087192B9A2B9080F7810EAE.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.25.41:084][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.25.42:616][397]LogSlate: Took 0.003611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.26-16.25.50:193][877]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.25.50:688][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.25.50:734][895]LogSavePackage: Save=22.53ms
+[2018.06.26-16.25.50:734][895]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test530EA2C2444BD38DD3BB5B8028708F79.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.25.50:736][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.25.56:053][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.25.56:099][206]LogSavePackage: Save=21.52ms
+[2018.06.26-16.25.56:099][206]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test31352F5B4836CFF054FF97BF22304809.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.25.56:102][206]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.26.38:956][214]LogHttp: Warning: 0000008B09AC6200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.26.38:956][214]LogHttp: Warning: 0000008B09AC6200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.26.38:956][214]LogHttp: Warning: 0000008B09AC6200: libcurl info message cache 1 (Closing connection 6)
+[2018.06.26-16.26.41:250][324]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.26.41:780][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.26.41:843][343]LogSavePackage: Save=38.69ms
+[2018.06.26-16.26.41:843][343]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test0DF38ACE4D6692B8AA59FA9794C40026.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.26.41:846][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.27.13:684][130]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.27.14:265][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.27.14:320][152]LogSavePackage: Save=32.41ms
+[2018.06.26-16.27.14:320][152]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestA7C2A3A940F379673231639F0443AA40.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.27.14:323][152]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.27.26:196][780]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.27.26:882][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.27.26:936][807]LogSavePackage: Save=31.86ms
+[2018.06.26-16.27.26:937][807]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestA730E09747C8A52852B610BEEC351383.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.27.26:940][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.28.38:994][691]LogHttp: Warning: 0000008B088FAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.28.38:994][691]LogHttp: Warning: 0000008B088FAB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.28.38:994][691]LogHttp: Warning: 0000008B088FAB00: libcurl info message cache 1 (Closing connection 7)
+[2018.06.26-16.29.13:019][146]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.29.13:565][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.29.13:627][166]LogSavePackage: Save=35.58ms
+[2018.06.26-16.29.13:627][166]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test3079226C4F97720249A779A1894FC73B.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.29.13:630][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.29.26:359][748]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.29.26:845][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.29.26:900][766]LogSavePackage: Save=32.68ms
+[2018.06.26-16.29.26:900][766]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test55521903471EC31EC3C3B7A60EB527FB.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.29.26:902][766]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.29.44:368][975]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.29.44:890][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.29.44:955][994]LogSavePackage: Save=35.47ms
+[2018.06.26-16.29.44:955][994]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestC9F6699C4E5221BF54414DB1253691A6.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.29.44:959][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.30.39:042][760]LogHttp: Warning: 0000008B074CA380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.30.39:042][760]LogHttp: Warning: 0000008B074CA380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.30.39:042][760]LogHttp: Warning: 0000008B074CA380: libcurl info message cache 1 (Closing connection 8)
+[2018.06.26-16.31.01:760][ 91]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.31.02:269][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.31.02:337][110]LogSavePackage: Save=42.02ms
+[2018.06.26-16.31.02:337][110]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test317B117843BBB0C6623575A2FF72EA8D.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.31.02:341][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.31.14:334][803]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.31.14:766][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.31.14:832][819]LogSavePackage: Save=42.55ms
+[2018.06.26-16.31.14:832][819]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test7893CAA94AA8EC1E2CE35EBC3CA68D69.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.31.14:835][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.31.40:508][ 70]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.31.40:948][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.31.41:012][ 86]LogSavePackage: Save=41.05ms
+[2018.06.26-16.31.41:012][ 86]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestEE8F405F40E53956C69CD084ED2B9D28.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.31.41:015][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.32.17:930][857]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.32.18:635][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.32.18:700][883]LogSavePackage: Save=41.79ms
+[2018.06.26-16.32.18:700][883]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test9D5D02EC429AF09B59B9CFB7143FE445.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.32.18:703][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.32.37:058][132]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.32.37:610][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.32.37:678][152]LogSavePackage: Save=44.01ms
+[2018.06.26-16.32.37:678][152]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test4E2C0AB943823C8B0D8A3DB80622D3DD.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.32.37:681][152]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.32.39:095][209]LogHttp: Warning: 0000008AF2FE8A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.32.39:095][209]LogHttp: Warning: 0000008AF2FE8A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.32.39:095][209]LogHttp: Warning: 0000008AF2FE8A00: libcurl info message cache 1 (Closing connection 9)
+[2018.06.26-16.34.27:743][439]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.34.28:246][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.34.28:318][457]LogSavePackage: Save=45.69ms
+[2018.06.26-16.34.28:318][457]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestC06C51C8489C7444B1FC6DB92744DD34.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.34.28:321][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.34.39:126][887]LogHttp: Warning: 0000008AF2FE9180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.34.39:126][887]LogHttp: Warning: 0000008AF2FE9180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.34.39:126][887]LogHttp: Warning: 0000008AF2FE9180: libcurl info message cache 1 (Closing connection 10)
+[2018.06.26-16.35.15:472][677]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.35.16:054][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.35.16:126][698]LogSavePackage: Save=44.28ms
+[2018.06.26-16.35.16:126][698]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test789BA6C64C858D2146A1BEBF552F5020.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.35.16:129][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.35.28:891][483]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.35.29:346][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.35.29:419][499]LogSavePackage: Save=48.13ms
+[2018.06.26-16.35.29:419][499]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestB289991846DAC1F5A41F31BA97A9227F.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.35.29:421][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.35.53:187][661]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.35.53:623][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.35.53:694][676]LogSavePackage: Save=47.83ms
+[2018.06.26-16.35.53:694][676]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test6E97E56941E882FCB465BF9930DA6659.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.35.53:698][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.36.22:477][125]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.36.22:981][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.36.23:051][143]LogSavePackage: Save=45.88ms
+[2018.06.26-16.36.23:051][143]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestA33BF68643EB001064725DA8FDC8D2EE.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.36.23:054][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.36.39:143][886]LogHttp: Warning: 0000008B09D15780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.36.39:143][886]LogHttp: Warning: 0000008B09D15780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.36.39:143][886]LogHttp: Warning: 0000008B09D15780: libcurl info message cache 1 (Closing connection 11)
+[2018.06.26-16.38.39:208][321]LogHttp: Warning: 0000008B09AF1180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.38.39:208][321]LogHttp: Warning: 0000008B09AF1180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.38.39:208][321]LogHttp: Warning: 0000008B09AF1180: libcurl info message cache 1 (Closing connection 12)
+[2018.06.26-16.39.16:471][929]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.39.17:068][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.39.17:175][951]LogSavePackage: Save=83.49ms
+[2018.06.26-16.39.17:175][951]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test2AD0D8FF4071DD595A31A18568E9C833.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.39.17:178][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.40.31:809][959]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.40.32:381][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.40.32:464][980]LogSavePackage: Save=51.77ms
+[2018.06.26-16.40.32:464][980]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test453E62874B01BAEB7379D69FF21FCF0C.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.40.32:467][980]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.40.39:224][423]LogHttp: Warning: 0000008AF2FE9F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.40.39:224][423]LogHttp: Warning: 0000008AF2FE9F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.40.39:224][423]LogHttp: Warning: 0000008AF2FE9F00: libcurl info message cache 1 (Closing connection 13)
+[2018.06.26-16.41.35:755][817]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.41.36:282][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.41.36:363][836]LogSavePackage: Save=56.20ms
+[2018.06.26-16.41.36:363][836]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestF16AFF8348AB7FFD26FAD5A655E60B1C.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.41.36:366][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.41.46:349][466]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.41.46:898][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.41.46:975][485]LogSavePackage: Save=53.23ms
+[2018.06.26-16.41.46:975][485]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test1793631F42D3F86C05CC5B8E1DEC4FA9.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.41.46:978][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.42.10:339][652]BlueprintLog: New page: Compile Solenoid_Test
+[2018.06.26-16.42.10:854][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.06.26-16.42.10:930][671]LogSavePackage: Save=51.48ms
+[2018.06.26-16.42.10:930][671]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test230D8158475CA6C6D30C208F06DD69AD.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.06.26-16.42.10:932][671]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.06.26-16.42.35:561][914]BlueprintLog: New page: Compile Mode_Manager
+[2018.06.26-16.42.36:764][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint_Objects/Mode_Manager" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset" SILENT=true
+[2018.06.26-16.42.37:119][931]LogSavePackage: Save=317.19ms
+[2018.06.26-16.42.37:119][931]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Mode_Manager0E25ADAF45B692BF7C5971A6F234D935.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset'
+[2018.06.26-16.42.37:122][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset
+[2018.06.26-16.42.39:255][ 16]LogHttp: Warning: 0000008AC1C91F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.42.39:255][ 16]LogHttp: Warning: 0000008AC1C91F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.42.39:255][ 16]LogHttp: Warning: 0000008AC1C91F00: libcurl info message cache 1 (Closing connection 14)
+[2018.06.26-16.43.15:631][966]BlueprintLog: New page: Compile Mode_Manager
+[2018.06.26-16.43.16:702][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint_Objects/Mode_Manager" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset" SILENT=true
+[2018.06.26-16.43.17:046][981]LogSavePackage: Save=319.18ms
+[2018.06.26-16.43.17:046][981]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Mode_Manager804122C84E06A0A9C4AF1CB443125EDE.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset'
+[2018.06.26-16.43.17:049][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset
+[2018.06.26-16.44.04:806][645]BlueprintLog: New page: Compile Mode_Manager
+[2018.06.26-16.44.05:506][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint_Objects/Mode_Manager" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset" SILENT=true
+[2018.06.26-16.44.05:848][645]LogSavePackage: Save=319.77ms
+[2018.06.26-16.44.05:849][645]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Mode_ManagerDAF7B57A4EFC29211FF8E28ADB0C7359.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset'
+[2018.06.26-16.44.05:852][645]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset
+[2018.06.26-16.44.06:488][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint_Objects/Mode_Manager" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset" SILENT=true
+[2018.06.26-16.44.06:832][670]LogSavePackage: Save=320.67ms
+[2018.06.26-16.44.06:832][670]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Mode_ManagerCAAD29DA48DE126BA0C146AA575A9EE2.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset'
+[2018.06.26-16.44.06:833][670]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset
+[2018.06.26-16.44.13:924][997]LogSlate: Took 0.003681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.26-16.44.33:157][217]BlueprintLog: New page: Compile Mode_Manager
+[2018.06.26-16.44.34:198][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint_Objects/Mode_Manager" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset" SILENT=true
+[2018.06.26-16.44.34:548][231]LogSavePackage: Save=325.62ms
+[2018.06.26-16.44.34:548][231]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Mode_Manager0B7A10DB4560C2E8648AF79C2A62DB96.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset'
+[2018.06.26-16.44.34:551][231]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset
+[2018.06.26-16.44.39:318][452]LogHttp: Warning: 0000008A83D6A080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.44.39:318][452]LogHttp: Warning: 0000008A83D6A080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.44.39:318][452]LogHttp: Warning: 0000008A83D6A080: libcurl info message cache 1 (Closing connection 15)
+[2018.06.26-16.44.42:325][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkeeballMap" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.26-16.44.43:033][607]LogSavePackage: Save=679.95ms
+[2018.06.26-16.44.43:033][607]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/SkeeballMap_Auto17391FEE949EDAD910CA572A2F0E223E3.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto1.umap'
+[2018.06.26-16.44.43:035][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto1.umap
+[2018.06.26-16.44.43:037][607]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkeeballMap' took 0.733
+[2018.06.26-16.44.43:037][607]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.733
+[2018.06.26-16.45.57:734][632]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.45.58:276][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.45.58:422][648]LogSavePackage: Save=118.05ms
+[2018.06.26-16.45.58:422][648]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu6C0CFE1E4DD0E15A33FE0294C4A35D2A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.45.58:425][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.46.32:563][955]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.46.33:050][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.46.33:193][969]LogSavePackage: Save=119.52ms
+[2018.06.26-16.46.33:193][969]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuA70EC9F24FAE49036FCD24B32D76A7B1.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.46.33:196][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.46.39:385][210]LogHttp: Warning: 0000008B28D07700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.46.39:385][210]LogHttp: Warning: 0000008B28D07700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.46.39:385][210]LogHttp: Warning: 0000008B28D07700: libcurl info message cache 1 (Closing connection 16)
+[2018.06.26-16.48.01:480][442]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.48.01:991][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.48.02:134][457]LogSavePackage: Save=118.75ms
+[2018.06.26-16.48.02:134][457]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuA0C4B73346D196C0B7F005B39E21D9BF.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.48.02:137][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.48.10:641][866]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.48.11:205][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.48.11:345][884]LogSavePackage: Save=117.80ms
+[2018.06.26-16.48.11:345][884]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu99FBFB67492BB406DFF3519AA1C83E13.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.48.11:347][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.48.28:682][731]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.48.29:169][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.48.29:313][745]LogSavePackage: Save=119.78ms
+[2018.06.26-16.48.29:313][745]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuF41CD5174477FC21DF9160B4B3881A2A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.48.29:316][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.48.39:432][316]LogHttp: Warning: 0000008B2A0D3580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.48.39:432][316]LogHttp: Warning: 0000008B2A0D3580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.48.39:432][316]LogHttp: Warning: 0000008B2A0D3580: libcurl info message cache 1 (Closing connection 17)
+[2018.06.26-16.48.42:201][459]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.26-16.48.42:227][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.48.42:227][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.26-16.48.42:227][459]PIE: New page: PIE session: SkeeballMap (Jun 26, 2018, 2:48:42 AM)
+[2018.06.26-16.48.42:227][459]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.06.26-16.48.42:237][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010088s)
+[2018.06.26-16.48.42:238][459]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.06.26-16.48.42:238][459]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.06.26-16.48.42:238][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.011128s)
+[2018.06.26-16.48.42:261][459]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.26-16.48.42:268][459]LogInit: FAudioDevice initialized.
+[2018.06.26-16.48.42:308][459]LogLoad: Game class is 'GameModeBase'
+[2018.06.26-16.48.42:310][459]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.06.26-09.48.42
+[2018.06.26-16.48.42:310][459]LogWorld: Bringing up level for play took: 0.001332
+[2018.06.26-16.48.42:318][459]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap -0.76
+[2018.06.26-16.48.42:318][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.48.42:352][459]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 28.989956 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.06.26-16.48.56:622][729]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.26-16.48.56:635][729]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.26-16.48.56:645][729]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.26-16.48.56:648][729]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.48.56:660][729]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.48.56:666][729]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.26-16.48.56:667][729]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.26-16.49.09:064][964]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.26-16.49.09:076][964]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.26-16.49.09:084][964]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.26-16.49.09:086][964]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.49.09:092][964]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.49.09:099][964]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.26-16.49.09:100][964]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.26-16.49.18:235][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.49.18:318][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.06.26-16.49.20:894][251]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.49.21:342][266]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.26-16.49.21:355][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.49.21:495][266]LogSavePackage: Save=117.93ms
+[2018.06.26-16.49.21:496][266]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu4C5A5D0A4A480CED1178B4948590A9EF.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.49.21:497][266]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.50.39:502][633]LogHttp: Warning: 0000008B29310A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.50.39:502][633]LogHttp: Warning: 0000008B29310A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.50.39:502][633]LogHttp: Warning: 0000008B29310A00: libcurl info message cache 1 (Closing connection 18)
+[2018.06.26-16.50.40:895][703]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.50.41:464][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.50.41:605][721]LogSavePackage: Save=118.46ms
+[2018.06.26-16.50.41:605][721]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuD27B9EC54DDB03CE10223BAC84B7B256.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.50.41:608][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.51.31:653][697]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.51.32:217][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.51.32:363][715]LogSavePackage: Save=118.35ms
+[2018.06.26-16.51.32:363][715]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu5CF064D241602A898EA318ADA517C5AF.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.51.32:365][715]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.51.54:941][927]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.51.55:432][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.51.55:572][943]LogSavePackage: Save=118.29ms
+[2018.06.26-16.51.55:572][943]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu109D4A984E23B7EC8DB9FDBE25ABBB45.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.51.55:576][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.52.17:219][154]BlueprintLog: New page: Compile Mode_Manager
+[2018.06.26-16.52.18:355][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint_Objects/Mode_Manager" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset" SILENT=true
+[2018.06.26-16.52.18:707][170]LogSavePackage: Save=324.85ms
+[2018.06.26-16.52.18:708][170]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Mode_ManagerDF3BBEEB46A292864F76AD84CEFCA97F.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset'
+[2018.06.26-16.52.18:711][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset
+[2018.06.26-16.52.39:543][996]LogHttp: Warning: 0000008B33207D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.52.39:543][996]LogHttp: Warning: 0000008B33207D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.52.39:543][996]LogHttp: Warning: 0000008B33207D00: libcurl info message cache 1 (Closing connection 19)
+[2018.06.26-16.54.09:258][248]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.54.09:761][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.54.09:900][262]LogSavePackage: Save=116.20ms
+[2018.06.26-16.54.09:900][262]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuCE2B5F9644300824A3D5CE98B09089E8.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.54.09:903][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.54.20:025][804]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.54.20:595][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.54.20:736][823]LogSavePackage: Save=117.09ms
+[2018.06.26-16.54.20:736][823]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu871684CF4E40A948BE0454B4EED42BAE.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.54.20:739][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.54.38:110][717]LogEditorTransaction: Undo Move Node
+[2018.06.26-16.54.39:570][787]LogHttp: Warning: 0000008B340E4100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.54.39:570][787]LogHttp: Warning: 0000008B340E4100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.54.39:570][787]LogHttp: Warning: 0000008B340E4100: libcurl info message cache 1 (Closing connection 20)
+[2018.06.26-16.54.42:113][899]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.55.26:226][412]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.55.26:786][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.55.26:925][431]LogSavePackage: Save=115.75ms
+[2018.06.26-16.55.26:925][431]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu52BE25564BA39D18B02A8ABA6C6C83DE.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.55.26:928][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.55.55:703][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkeeballMap" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.26-16.55.56:416][697]LogSavePackage: Save=684.53ms
+[2018.06.26-16.55.56:416][697]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/SkeeballMap_Auto25AFE0C264F0208F004A4568CD627FB4A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto2.umap'
+[2018.06.26-16.55.56:417][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto2.umap
+[2018.06.26-16.55.56:419][697]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkeeballMap' took 0.742
+[2018.06.26-16.55.56:419][697]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.742
+[2018.06.26-16.56.01:234][947]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.56.01:256][947]LogBlueprint: Warning: [Mode_Manager] 'Board ID' variable not found. Base class was probably changed. /Game/Blueprint_Objects/Mode_Manager.Mode_Manager
+[2018.06.26-16.56.01:256][947]LogBlueprint: Warning: [Mode_Manager] 'Board ID' variable not found. Base class was probably changed. /Game/Blueprint_Objects/Mode_Manager.Mode_Manager
+[2018.06.26-16.56.01:759][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.56.01:908][964]LogSavePackage: Save=125.84ms
+[2018.06.26-16.56.01:908][964]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu152790404F9F939F264DEB95CFC6016B.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.56.01:911][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.56.22:816][936]BlueprintLog: New page: Compile Mode_Manager
+[2018.06.26-16.56.23:955][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint_Objects/Mode_Manager" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset" SILENT=true
+[2018.06.26-16.56.24:299][951]LogSavePackage: Save=319.78ms
+[2018.06.26-16.56.24:299][951]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Mode_Manager4C22819A43E45A20ACAA7AB087F600AA.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset'
+[2018.06.26-16.56.24:302][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprint_Objects/Mode_Manager.uasset
+[2018.06.26-16.56.39:602][661]LogHttp: Warning: 0000008B077C7100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.56.39:602][661]LogHttp: Warning: 0000008B077C7100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.56.39:602][661]LogHttp: Warning: 0000008B077C7100: libcurl info message cache 1 (Closing connection 21)
+[2018.06.26-16.57.46:769][628]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.57.47:318][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.57.47:460][644]LogSavePackage: Save=114.32ms
+[2018.06.26-16.57.47:460][644]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu5033E02048AF8D4D1506A7B04395229A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.57.47:464][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.58.39:643][ 62]LogHttp: Warning: 0000008B27B6E680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-16.58.39:643][ 62]LogHttp: Warning: 0000008B27B6E680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-16.58.39:643][ 62]LogHttp: Warning: 0000008B27B6E680: libcurl info message cache 1 (Closing connection 22)
+[2018.06.26-16.59.22:046][291]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.59.22:639][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.59.22:765][311]LogSavePackage: Save=103.33ms
+[2018.06.26-16.59.22:765][311]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu7CA906BA4241464EE97EBA919F328C3E.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.59.22:768][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.59.37:476][185]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.59.38:051][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.59.38:177][204]LogSavePackage: Save=103.92ms
+[2018.06.26-16.59.38:177][204]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu81FD77DF46B45AF46603AD84ADB97206.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.59.38:180][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-16.59.43:694][516]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-16.59.44:236][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-16.59.44:362][535]LogSavePackage: Save=104.44ms
+[2018.06.26-16.59.44:362][535]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuDFC8B18B4DA1477DEB3A5EB6E673364F.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-16.59.44:366][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-17.00.39:674][332]LogHttp: Warning: 0000008B39FF1780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-17.00.39:674][332]LogHttp: Warning: 0000008B39FF1780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-17.00.39:674][332]LogHttp: Warning: 0000008B39FF1780: libcurl info message cache 1 (Closing connection 23)
+[2018.06.26-17.01.00:158][478]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-17.01.00:695][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-17.01.00:822][495]LogSavePackage: Save=104.05ms
+[2018.06.26-17.01.00:822][495]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuD1DB1FDE4D32F83C495448B612CE3112.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-17.01.00:825][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-17.01.16:126][311]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-17.01.16:674][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-17.01.16:801][328]LogSavePackage: Save=104.20ms
+[2018.06.26-17.01.16:801][328]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_MenuCA1A309F4DA81670716C498BA205E706.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-17.01.16:804][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-17.02.19:944][235]BlueprintLog: New page: Compile Dev_Menu
+[2018.06.26-17.02.20:474][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dev_Menu" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset" SILENT=true
+[2018.06.26-17.02.20:605][252]LogSavePackage: Save=106.74ms
+[2018.06.26-17.02.20:605][252]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Dev_Menu081E6A50463B974BAB11CEB34093B898.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset'
+[2018.06.26-17.02.20:608][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Dev_Menu.uasset
+[2018.06.26-17.02.39:712][106]LogHttp: Warning: 0000008A80F9A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.26-17.02.39:712][106]LogHttp: Warning: 0000008A80F9A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.26-17.02.39:712][106]LogHttp: Warning: 0000008A80F9A200: libcurl info message cache 1 (Closing connection 24)
+[2018.06.26-17.03.20:191][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enums_Structs/GameModes" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Enums_Structs/GameModes.uasset" SILENT=true
+[2018.06.26-17.03.20:222][894]LogSavePackage: Save=6.04ms
+[2018.06.26-17.03.20:222][894]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/GameModesA1C5A25C4DDDD55CF65395B1AFC6D119.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Enums_Structs/GameModes.uasset'
+[2018.06.26-17.03.20:225][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Enums_Structs/GameModes.uasset
+[2018.06.26-17.03.24:017][ 49]LogWindows: Windows GetLastError: The operation completed successfully. (0)

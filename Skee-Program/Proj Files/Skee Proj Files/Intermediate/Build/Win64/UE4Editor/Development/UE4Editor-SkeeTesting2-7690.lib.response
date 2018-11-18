@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SkeeTesting2-7690.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\boardValues.cpp.obj"
+"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\FileIO.cpp.obj"
+"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\SkeeTesting2.cpp.obj"
+"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\FileIO.gen.cpp.obj"
+"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\SkeeTesting2.init.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-7690.lib"

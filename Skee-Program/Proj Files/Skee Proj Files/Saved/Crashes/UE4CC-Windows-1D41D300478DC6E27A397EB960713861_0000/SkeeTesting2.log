@@ -1,0 +1,561 @@
+﻿Log file open, 08/21/18 18:42:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine without a game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: C:/Users/Skeeball/Desktop/Skee Proj Files/SkeeTesting2.uproject
+LogInit: Display: RandInit(-50456649) SRandInit(-50456649).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236005
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Binaries/Win64/UE4Editor-SkeeTesting2-7144.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.22-01.42.26:797][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.22-01.42.26:797][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.22-01.42.26:904][  0]LogInit: Computer: DESKTOP-FRNA35L
+[2018.08.22-01.42.26:904][  0]LogInit: User: Skeeball
+[2018.08.22-01.42.26:904][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.22-01.42.26:904][  0]LogInit: High frequency timer resolution =3.312798 MHz
+[2018.08.22-01.42.26:904][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.08.22-01.42.26:904][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.22-01.42.26:904][  0]LogMemory: Process Physical Memory: 275.85 MB used, 275.85 MB peak
+[2018.08.22-01.42.26:904][  0]LogMemory: Process Virtual Memory: 269.96 MB used, 269.96 MB peak
+[2018.08.22-01.42.26:904][  0]LogMemory: Physical Memory: 2496.53 MB used,  5681.91 MB free, 8178.44 MB total
+[2018.08.22-01.42.26:904][  0]LogMemory: Virtual Memory: 641.27 MB used,  5681.91 MB free, 134217728.00 MB total
+[2018.08.22-01.42.27:353][  0]LogInit: Using OS detected language (en-US).
+[2018.08.22-01.42.27:353][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.22-01.42.27:530][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.22-01.42.28:147][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.22-01.42.30:776][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.22-01.42.30:784][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
+[2018.08.22-01.42.30:784][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.08.22-01.42.30:785][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.22-01.42.30:785][  0]LogD3D11RHI:       0/0/4089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.22-01.42.30:785][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.22-01.42.30:788][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.22-01.42.30:788][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.22-01.42.30:788][  0]LogWindows: EnumDisplayDevices:
+[2018.08.22-01.42.30:788][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
+[2018.08.22-01.42.30:788][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.08.22-01.42.30:788][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.08.22-01.42.30:788][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.08.22-01.42.30:788][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.08.22-01.42.30:788][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
+[2018.08.22-01.42.30:788][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2018.08.22-01.42.30:788][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2018.08.22-01.42.30:788][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2018.08.22-01.42.30:816][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.08.22-01.42.30:821][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.22-01.42.30:833][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.08.22-01.42.30:833][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Intermediate/Shaders/WorkingDirectory/2160/).
+[2018.08.22-01.42.30:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Skeeball/AppData/Local/Temp/UnrealShaderWorkingDir/DE42DEDF4E40F5BB104A40B6D3149663/'.
+[2018.08.22-01.42.30:834][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.22-01.42.34:581][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.22-01.42.34:634][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.22-01.42.34:687][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.22-01.42.34:741][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.22-01.42.34:828][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.22-01.42.34:893][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.22-01.42.34:945][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.22-01.42.34:999][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.22-01.42.35:044][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.22-01.42.35:095][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.22-01.42.35:147][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.22-01.42.35:198][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.22-01.42.35:250][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.22-01.42.35:301][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.22-01.42.35:403][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.22-01.42.35:403][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.22-01.42.35:480][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.22-01.42.35:520][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.22-01.42.35:635][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.22-01.42.35:674][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.22-01.42.35:725][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.22-01.42.35:776][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.22-01.42.35:826][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.22-01.42.35:881][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.22-01.42.35:881][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.22-01.42.36:530][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.22-01.42.37:260][  0]LogDerivedDataCache: Loaded boot cache 0.73s 74MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.22-01.42.37:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.08.22-01.42.37:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.22-01.42.37:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.22-01.42.37:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.22-01.42.37:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.22-01.42.37:311][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.22-01.42.37:323][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Skeeball/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.22-01.42.37:334][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.22-01.42.37:334][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.22-01.42.37:357][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.22-01.42.37:357][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.22-01.42.39:434][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.22-01.42.39:981][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.22-01.42.40:023][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.22-01.42.40:023][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.22-01.42.40:023][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.22-01.42.40:023][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.22-01.42.40:023][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.22-01.42.40:067][  0]LogNetVersion: SkeeTesting2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3365423841)
+[2018.08.22-01.42.40:380][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.08.22-01.42.41:376][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.174902 seconds
+[2018.08.22-01.42.41:382][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.08.22-01.42.41:382][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.08.22-01.42.41:382][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.22-01.42.41:442][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.22-01.43.01:734][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.22-01.43.01:794][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.22-01.43.02:852][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.22-01.43.03:363][  0]SourceControl: Source control is disabled
+[2018.08.22-01.43.03:363][  0]SourceControl: Source control is disabled
+[2018.08.22-01.43.03:417][  0]SourceControl: Source control is disabled
+[2018.08.22-01.43.03:475][  0]SourceControl: Source control is disabled
+[2018.08.22-01.43.04:420][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.22-01.43.04:692][  0]LogOcInput: OculusInput pre-init called
+[2018.08.22-01.43.05:055][  0]LogEngine: Initializing Engine...
+[2018.08.22-01.43.05:058][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.22-01.43.05:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.22-01.43.05:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.22-01.43.05:572][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.22-01.43.05:581][  0]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.22-01.43.05:615][  0]LogInit: FAudioDevice initialized.
+[2018.08.22-01.43.06:483][  0]LogDerivedDataCache: Saved boot cache 0.87s 74MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.22-01.43.06:507][  0]LogInit: Texture streaming: Enabled
+[2018.08.22-01.43.06:627][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.22-01.43.06:803][  0]LogInit: Transaction tracking system initialized
+[2018.08.22-01.43.07:140][  0]BlueprintLog: New page: Editor Load
+[2018.08.22-01.43.08:117][  0]LocalizationService: Localization service is disabled
+[2018.08.22-01.43.09:076][  0]LogConsoleResponse: Display: 
+[2018.08.22-01.43.10:064][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.22-01.43.10:064][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.22-01.43.10:064][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.22-01.43.10:146][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/' took 0.02s
+[2018.08.22-01.43.12:354][  0]SourceControl: Source control is disabled
+[2018.08.22-01.43.12:354][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/SkeeballMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.22-01.43.12:354][  0]LightingResults: New page: Lighting Build
+[2018.08.22-01.43.12:398][  0]MapCheck: New page: Map Check
+[2018.08.22-01.43.12:398][  0]LightingResults: New page: Lighting Build
+[2018.08.22-01.43.24:394][  0]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.08.22-01.43.24:435][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.22-01.43.24:510][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.22-01.43.24:568][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.752ms to complete.
+[2018.08.22-01.43.24:568][  0]LogFileHelpers: Loading map 'SkeeballMap' took 12.214
+[2018.08.22-01.43.24:919][  0]LogCollectionManager: Loaded 0 collections in 0.002264 seconds
+[2018.08.22-01.43.25:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Saved/Collections/' took 0.01s
+[2018.08.22-01.43.25:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/Developers/Skeeball/Collections/' took 0.01s
+[2018.08.22-01.43.25:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee Proj Files/Content/Collections/' took 0.01s
+[2018.08.22-01.43.25:000][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.22-01.43.25:009][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2364 classes and 521 folders.
+[2018.08.22-01.43.25:079][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.08.22-01.43.26:440][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.08.22-01.43.26:499][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.08.22-01.43.26:547][  0]LogSlate: Took 0.003973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.22-01.43.26:552][  0]LogSlate: Took 0.003496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.22-01.43.26:575][  0]LogSlate: Took 0.017460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.22-01.43.26:774][  0]LogRenderer: Reallocating scene render targets to support 740x276 Format 9 NumSamples 1 (Frame:1).
+[2018.08.22-01.43.26:924][  0]LogSlate: Took 0.022122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.22-01.43.27:092][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.08.22-01.43.27:092][  0]LogLoad: (Engine Initialization) Total time: 64.87 seconds
+[2018.08.22-01.43.27:092][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.22-01.43.27:092][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.22-01.43.27:142][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.08.22-01.43.27:255][  1]LogAssetRegistry: Asset discovery search completed in 46.8977 seconds
+[2018.08.22-01.43.27:256][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.22-01.43.27:256][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.08.22-01.43.28:154][ 16]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.22-01.43.30:212][168]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.22-01.43.31:141][168]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.22-01.43.31:217][168]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.08.22-01.43.32:279][168]LogSlate: Took 0.018728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.22-01.44.27:731][ 36]LogHttp: Warning: 000000F0EE74B880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.44.27:732][ 36]LogHttp: Warning: 000000F0EE74B880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.44.27:732][ 36]LogHttp: Warning: 000000F0EE74B880: libcurl info message cache 1 (Closing connection 0)
+[2018.08.22-01.45.49:129][335]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.46.28:354][445]LogHttp: Warning: 000000F0D2F81480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.46.28:354][445]LogHttp: Warning: 000000F0D2F81480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.46.28:354][445]LogHttp: Warning: 000000F0D2F81480: libcurl info message cache 1 (Closing connection 1)
+[2018.08.22-01.48.02:043][725]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.02:377][726]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.02:710][727]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.03:044][728]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.03:377][729]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.03:710][730]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.04:043][731]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.04:377][732]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.08.22-01.48.28:723][806]LogHttp: Warning: 000000F0F20BEB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.48.28:723][806]LogHttp: Warning: 000000F0F20BEB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.48.28:723][806]LogHttp: Warning: 000000F0F20BEB00: libcurl info message cache 1 (Closing connection 2)
+[2018.08.22-01.49.59:381][ 77]LogWindows: LaunchFileInExternalEditor C:/Users/Skeeball/Desktop/Skee Proj Files/Source/SkeeTesting2/FileIO.h 
+[2018.08.22-01.49.59:622][ 77]LogWindows: Launch application code for C:/Users/Skeeball/Desktop/Skee Proj Files/Source/SkeeTesting2/FileIO.h : 42
+[2018.08.22-01.49.59:622][ 77]LogWindows: LaunchFileInExternalEditor C:/Users/Skeeball/Desktop/Skee Proj Files/Source/SkeeTesting2/FileIO.cpp 
+[2018.08.22-01.49.59:690][ 77]LogWindows: Launch application code for C:/Users/Skeeball/Desktop/Skee Proj Files/Source/SkeeTesting2/FileIO.cpp : 42
+[2018.08.22-01.49.59:690][ 77]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:693][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:694][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:708][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:708][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:711][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:711][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:711][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.49.59:713][ 77]LogVSAccessor: Warning: Couldn't access module table
+[2018.08.22-01.50.29:120][167]LogHttp: Warning: 000000F0F20BF700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.50.29:120][167]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.50.29:120][167]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 1 (Closing connection 3)
+[2018.08.22-01.52.29:457][528]LogHttp: Warning: 000000F0F20BF700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.52.29:457][528]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.52.29:457][528]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 1 (Closing connection 4)
+[2018.08.22-01.54.29:791][889]LogHttp: Warning: 000000F0F20BF700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.54.29:791][889]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.54.29:791][889]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 1 (Closing connection 5)
+[2018.08.22-01.56.30:457][251]LogHttp: Warning: 000000F0F20BF100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.56.30:457][251]LogHttp: Warning: 000000F0F20BF100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.56.30:457][251]LogHttp: Warning: 000000F0F20BF100: libcurl info message cache 1 (Closing connection 6)
+[2018.08.22-01.58.30:790][612]LogHttp: Warning: 000000F0F20BF100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-01.58.30:790][612]LogHttp: Warning: 000000F0F20BF100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-01.58.30:790][612]LogHttp: Warning: 000000F0F20BF100: libcurl info message cache 1 (Closing connection 7)
+[2018.08.22-02.00.31:124][973]LogHttp: Warning: 000000F0F20BF100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.00.31:124][973]LogHttp: Warning: 000000F0F20BF100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.00.31:124][973]LogHttp: Warning: 000000F0F20BF100: libcurl info message cache 1 (Closing connection 8)
+[2018.08.22-02.02.31:791][335]LogHttp: Warning: 000000F0F20BF700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.02.31:791][335]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.02.31:791][335]LogHttp: Warning: 000000F0F20BF700: libcurl info message cache 1 (Closing connection 9)
+[2018.08.22-02.04.32:458][697]LogHttp: Warning: 000000F0F20BF400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.04.32:458][697]LogHttp: Warning: 000000F0F20BF400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.04.32:458][697]LogHttp: Warning: 000000F0F20BF400: libcurl info message cache 1 (Closing connection 10)
+[2018.08.22-02.06.22:779][145]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.22-02.06.22:822][145]Candidate modules for hot reload:
+[2018.08.22-02.06.22:822][145]  SkeeTesting2
+[2018.08.22-02.06.22:822][145]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SkeeTesting2 -ModuleWithSuffix SkeeTesting2 2986 Win64 Development -editorrecompile -canskiplink "C:/Users/Skeeball/Desktop/Skee Proj Files/SkeeTesting2.uproject" ]
+[2018.08.22-02.06.22:824][145]Warning: Starting HotReload took  0.1s.
+[2018.08.22-02.06.32:487][583]LogHttp: Warning: 000000F0F973CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.06.32:487][583]LogHttp: Warning: 000000F0F973CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.06.32:488][583]LogHttp: Warning: 000000F0F973CD00: libcurl info message cache 1 (Closing connection 11)
+[2018.08.22-02.07.16:064][568]LogSlate: Took 0.064899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.08.22-02.08.08:868][804]CompilerResultsLog: New page: Compilation - Aug 21, 2018, 12:08:08 PM
+[2018.08.22-02.08.08:923][804]CompilerResultsLog: Creating makefile for hot reloading SkeeTesting2 (ini files are newer than UBTMakefile)
+[2018.08.22-02.08.08:923][804]CompilerResultsLog: Compiling game modules for hot reload
+[2018.08.22-02.08.08:923][804]CompilerResultsLog: Parsing headers for SkeeTesting2Editor
+[2018.08.22-02.08.08:923][804]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Skeeball\Desktop\Skee Proj Files\SkeeTesting2.uproject" "C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2Editor\Development\SkeeTesting2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.08.22-02.08.08:924][804]CompilerResultsLog: Reflection code generated for SkeeTesting2Editor in 9.4465433 seconds
+[2018.08.22-02.08.08:924][804]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.08.22-02.08.08:924][804]CompilerResultsLog: SkeeTesting2.init.gen.cpp
+[2018.08.22-02.08.08:924][804]CompilerResultsLog: FileIO.cpp
+[2018.08.22-02.08.08:924][804]CompilerResultsLog: FileIO.gen.cpp
+[2018.08.22-02.08.08:924][804]LogMainFrame: MainFrame: Module compiling took 106.145 seconds
+[2018.08.22-02.08.08:924][804]Warning: HotReload failed, recompile failed
+[2018.08.22-02.08.32:861][432]LogHttp: Warning: 000000F0F7EFF580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.08.32:861][432]LogHttp: Warning: 000000F0F7EFF580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.08.32:861][432]LogHttp: Warning: 000000F0F7EFF580: libcurl info message cache 1 (Closing connection 12)
+[2018.08.22-02.10.33:195][793]LogHttp: Warning: 000000F0F7EFEF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.10.33:196][793]LogHttp: Warning: 000000F0F7EFEF80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.10.33:196][793]LogHttp: Warning: 000000F0F7EFEF80: libcurl info message cache 1 (Closing connection 13)
+[2018.08.22-02.12.33:862][155]LogHttp: Warning: 000000F0F7EFF580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.12.33:863][155]LogHttp: Warning: 000000F0F7EFF580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.12.33:863][155]LogHttp: Warning: 000000F0F7EFF580: libcurl info message cache 1 (Closing connection 14)
+[2018.08.22-02.14.34:528][517]LogHttp: Warning: 000000F0F7EFDD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.14.34:528][517]LogHttp: Warning: 000000F0F7EFDD80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.14.34:529][517]LogHttp: Warning: 000000F0F7EFDD80: libcurl info message cache 1 (Closing connection 15)
+[2018.08.22-02.15.24:163][904]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.08.22-02.15.24:165][904]Candidate modules for hot reload:
+[2018.08.22-02.15.24:165][904]  SkeeTesting2
+[2018.08.22-02.15.24:166][904]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SkeeTesting2 -ModuleWithSuffix SkeeTesting2 2484 Win64 Development -editorrecompile -canskiplink "C:/Users/Skeeball/Desktop/Skee Proj Files/SkeeTesting2.uproject" ]
+[2018.08.22-02.15.24:167][904]Warning: Starting HotReload took  0.0s.
+[2018.08.22-02.15.31:746][248]CompilerResultsLog: New page: Compilation - Aug 21, 2018, 12:15:31 PM
+[2018.08.22-02.15.31:747][248]CompilerResultsLog: Compiling game modules for hot reload
+[2018.08.22-02.15.31:747][248]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2018.08.22-02.15.31:747][248]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.08.22-02.15.31:747][248]CompilerResultsLog: FileIO.cpp
+[2018.08.22-02.15.31:747][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\winnt.h(536): warning C4005: 'TEXT': macro redefinition
+[2018.08.22-02.15.31:748][248]CompilerResultsLog: Error: c:\program files\epic games\ue_4.18\engine\source\runtime\core\public\HAL/Platform.h(848) : note: see previous definition of 'TEXT'
+[2018.08.22-02.15.31:748][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\winnt.h(17005): warning C4668: '_APISET_RTLSUPPORT_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.08.22-02.15.31:748][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\interlockedapi.h(73): warning C4668: '_APISET_INTERLOCKED_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.08.22-02.15.31:748][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\processthreadsapi.h(1170): warning C4668: '_WIN32_WINNT_WINTHRESHOLD' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.08.22-02.15.31:749][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\securitybaseapi.h(357): warning C4668: '_APISET_SECURITYBASE_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.08.22-02.15.31:749][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\securitybaseapi.h(472): warning C4668: '_APISET_SECURITYBASE_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.08.22-02.15.31:749][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\securitybaseapi.h(1302): warning C4668: '_APISET_SECURITYBASE_VER' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.08.22-02.15.31:749][248]CompilerResultsLog: C:\Program Files (x86)\Windows Kits\8.1\include\um\winbase.h(8618): warning C4668: 'NTDDI_WIN7SP1' is not defined as a preprocessor macro, replacing with '0' for '#if/#elif'
+[2018.08.22-02.15.31:750][248]CompilerResultsLog: [2/3] Link UE4Editor-SkeeTesting2-2484.dll
+[2018.08.22-02.15.31:750][248]CompilerResultsLog: [3/3] Link UE4Editor-SkeeTesting2-2484.lib
+[2018.08.22-02.15.31:750][248]CompilerResultsLog:    Creating library C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-2484.lib and object C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-2484.exp
+[2018.08.22-02.15.31:750][248]CompilerResultsLog:    Creating library C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-2484.suppressed.lib and object C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SkeeTesting2-2484.suppressed.exp
+[2018.08.22-02.15.31:750][248]CompilerResultsLog: Total build time: 7.40 seconds (Local executor: 3.11 seconds)
+[2018.08.22-02.15.31:751][248]LogMainFrame: MainFrame: Module compiling took 7.588 seconds
+[2018.08.22-02.15.31:939][248]LogClass: Could not find existing class FileIO in package /Script/SkeeTesting2 for HotReload, assuming new class
+[2018.08.22-02.15.31:939][248]LogClass: Function CloseSolenoid is new.
+[2018.08.22-02.15.31:939][248]LogClass: Function CopyFileTo is new.
+[2018.08.22-02.15.31:939][248]LogClass: Function CreateDirectory is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function DeleteFile is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function DoesDirectoryExist is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function DoesFileExist is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function FileLoadString is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function FileSaveString is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function GetBatteryStatus is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function OpenSolenoid is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function QueryArduino is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function QueryComplete is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function RandIntInRangeNoRepeat is new.
+[2018.08.22-02.15.31:940][248]LogClass: Function SetMonitorPower is new.
+[2018.08.22-02.15.31:941][248]LogClass: Function ShutdownPC is new.
+[2018.08.22-02.15.31:972][248]LogHotReload: Re-instancing FileIO after hot-reload.
+[2018.08.22-02.15.32:132][248]LogContentBrowser: Native class hierarchy updated for 'SkeeTesting2' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.08.22-02.15.32:135][248]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.08.22-02.15.32:641][248]LogContentBrowser: Native class hierarchy populated in 0.0235 seconds. Added 2366 classes and 525 folders.
+[2018.08.22-02.15.32:689][248]Display: HotReload took  8.5s.
+[2018.08.22-02.15.50:586][ 36]LogSlate: Took 0.019514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.22-02.16.02:954][611]BlueprintLog: New page: Compile SkeeballMap
+[2018.08.22-02.16.04:658][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SkeeballMap" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/SkeeballMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.22-02.16.05:519][658]LogSavePackage: Save=793.43ms
+[2018.08.22-02.16.05:519][658]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/SkeeballMap67563FD94A2571FE79B6E4B811E664E7.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.08.22-02.16.05:525][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/SkeeballMap.umap
+[2018.08.22-02.16.05:611][658]LogFileHelpers: Saving map 'SkeeballMap' took 1.014
+[2018.08.22-02.16.34:590][ 50]LogHttp: Warning: 000000F0D40FE200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.08.22-02.16.34:590][ 50]LogHttp: Warning: 000000F0D40FE200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.08.22-02.16.34:590][ 50]LogHttp: Warning: 000000F0D40FE200: libcurl info message cache 1 (Closing connection 16)
+[2018.08.22-02.16.50:905][ 15]BlueprintLog: New page: Compile Solenoid_Test
+[2018.08.22-02.16.51:751][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.08.22-02.16.51:837][ 44]LogSavePackage: Save=53.24ms
+[2018.08.22-02.16.51:837][ 44]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test9A678EBB4B9ADDB3EAFA089A66E5231A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.08.22-02.16.51:841][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.08.22-02.17.27:232][ 56]BlueprintLog: New page: Compile Solenoid_Test
+[2018.08.22-02.17.27:263][ 56]LogBlueprint: Error: [Compiler Solenoid_Test] This blueprint (self) is not a TextBlock, therefore ' Target ' must have a connection.
+[2018.08.22-02.17.27:296][ 56]LogBlueprint: Warning: [Compiler Solenoid_Test] [2105.07] Compile of Solenoid_Test failed. 1 Fatal Issue(s) 0 Warning(s) [in 64 ms] (/Game/Blueprints/Solenoid_Test.Solenoid_Test)
+[2018.08.22-02.17.28:210][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.08.22-02.17.28:287][ 88]LogSavePackage: Save=52.18ms
+[2018.08.22-02.17.28:288][ 88]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_Test97926AD74CD3F717567B56B4893046D8.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.08.22-02.17.28:291][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.08.22-02.17.39:947][786]BlueprintLog: New page: Compile Solenoid_Test
+[2018.08.22-02.17.40:491][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Solenoid_Test" FILE="../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset" SILENT=true
+[2018.08.22-02.17.40:574][804]LogSavePackage: Save=55.75ms
+[2018.08.22-02.17.40:574][804]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Saved/Solenoid_TestB7F38E0748B706A35BD79DA8BCBF83F6.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset'
+[2018.08.22-02.17.40:577][804]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee Proj Files/Content/Blueprints/Solenoid_Test.uasset
+[2018.08.22-02.17.41:950][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.22-02.17.42:117][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.08.22-02.17.42:117][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.22-02.17.42:118][857]PIE: New page: PIE session: SkeeballMap (Aug 21, 2018, 12:17:42 PM)
+[2018.08.22-02.17.42:118][857]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.08.22-02.17.42:132][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013366s)
+[2018.08.22-02.17.42:132][857]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.08.22-02.17.42:133][857]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.08.22-02.17.42:133][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.014950s)
+[2018.08.22-02.17.42:152][857]LogInit: XAudio2 using 'AMD HDMI Output (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.22-02.17.42:160][857]LogInit: FAudioDevice initialized.
+[2018.08.22-02.17.42:211][857]LogLoad: Game class is 'GameModeBase'
+[2018.08.22-02.17.42:213][857]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.08.21-19.17.42
+[2018.08.22-02.17.42:214][857]LogWorld: Bringing up level for play took: 0.002044
+[2018.08.22-02.17.42:428][857]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.08.22-02.17.42:436][857]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap -0.565
+[2018.08.22-02.17.42:437][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.08.22-02.17.42:540][857]LogRenderer: Reallocating scene render targets to support 1200x700 Format 9 NumSamples 1 (Frame:1).
