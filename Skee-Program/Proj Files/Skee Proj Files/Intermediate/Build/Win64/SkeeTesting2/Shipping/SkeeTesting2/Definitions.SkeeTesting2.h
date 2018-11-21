@@ -38,7 +38,7 @@
 #define PROJECT_PRODUCT_IDENTIFIER SkeeTesting2
 #define NDEBUG 1
 #define UE_BUILD_SHIPPING 1
-#define UE_ENGINE_DIRECTORY ../../../../../../Program Files/Epic Games/UE_4.18/Engine/
+#define UE_ENGINE_DIRECTORY ../../../../../../../../../../Program Files/Epic Games/UE_4.18/Engine/
 #define ORIGINAL_FILE_NAME "SkeeTesting2-Win64-Shipping.exe"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME 0

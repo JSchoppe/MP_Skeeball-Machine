@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Plugins\UE4Duino_2.2.1_4.18\UE4Duino\Intermediate\Build\Win64\UE4\Shipping\UE4Duino\Module.UE4Duino.cpp.obj"
+"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Plugins\UE4Duino_2.2.1_4.18\UE4Duino\Intermediate\Build\Win64\UE4\Shipping\UE4Duino\Module.UE4Duino.gen.cpp.obj"
+"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4\Shipping\UE4Duino\PCLaunch.rc.res"
+/OUT:"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Plugins\UE4Duino_2.2.1_4.18\UE4Duino\Binaries\Win64\UE4-UE4Duino-Win64-Shipping.lib"

@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I "C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Source"
-/I "C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Inc\SkeeTesting2"
-/I "C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Source\SkeeTesting2"
+/I "C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Source"
+/I "C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Inc\SkeeTesting2"
+/I "C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Source\SkeeTesting2"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -358,9 +358,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Inc\SkeeTesting2\FileIO.gen.cpp"
-/FI"C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\Definitions.SkeeTesting2.h"
-/Fo"C:\Users\Skeeball\Desktop\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\FileIO.gen.cpp.obj"
+"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Inc\SkeeTesting2\FileIO.gen.cpp"
+/FI"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\Definitions.SkeeTesting2.h"
+/Fo"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4Editor\Development\SkeeTesting2\FileIO.gen.cpp.obj"
 /TP
 /GR-
 /W4

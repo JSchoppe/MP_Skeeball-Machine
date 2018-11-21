@@ -1,6 +1,32 @@
 {
 	"Contents": [
 		{
+			"File": "../../../SkeeTesting2/Plugins/UE4Duino_2.2.1_4.18/UE4Duino/UE4Duino.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 2,
+				"VersionName": "2.2.1",
+				"FriendlyName": "UE4Duino",
+				"Description": "Enables communication between UE4 and COM ports",
+				"Category": "Input",
+				"CreatedBy": "Rodrigo Villani",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": true,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "UE4Duino",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{

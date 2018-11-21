@@ -23,11 +23,11 @@
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\PCH.UELinkerFixups.h"
-/Yu"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\PCH.UELinkerFixups.h"
-/Fp"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\PCH.UELinkerFixups.h.pch"
-"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\UE4\Shipping\UELinkerFixups.cpp"
-/Fo"C:\Users\Skeeball\Desktop\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\UELinkerFixups.cpp.obj"
+/FI"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\PCH.UELinkerFixups.h"
+/Yu"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\PCH.UELinkerFixups.h"
+/Fp"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\PCH.UELinkerFixups.h.pch"
+"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\UE4\Shipping\UELinkerFixups.cpp"
+/Fo"C:\Users\Skeeball\Desktop\Skee-Repository\MP_Skeeball-Machine\Skee-Program\Proj Files\Skee Proj Files\Intermediate\Build\Win64\SkeeTesting2\Shipping\UELinkerFixups\UELinkerFixups.cpp.obj"
 /TP
 /GR-
 /W4

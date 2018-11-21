@@ -24,6 +24,10 @@
 			"Type": "SymbolFile"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/UE4Duino_2.2.1_4.18/UE4Duino/Binaries/Win64/UE4-UE4Duino-Win64-Shipping.lib",
+			"Type": "StaticLibrary"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/2D/Paper2D/Binaries/Win64/UE4-Paper2D-Win64-Shipping.lib",
 			"Type": "StaticLibrary",
 			"IsPrecompiled": true
@@ -637,6 +641,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/SkeeTesting2.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/UE4Duino_2.2.1_4.18/UE4Duino/UE4Duino.uplugin",
 			"Type": "UFS"
 		},
 		{

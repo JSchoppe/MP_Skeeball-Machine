@@ -108,7 +108,7 @@
 	#define UE_BUILD_SHIPPING 1
 #endif
 #ifndef UE_ENGINE_DIRECTORY
-	#define UE_ENGINE_DIRECTORY ../../../../../../Program Files/Epic Games/UE_4.18/Engine/
+	#define UE_ENGINE_DIRECTORY ../../../../../../../../../../Program Files/Epic Games/UE_4.18/Engine/
 #endif
 #ifndef UE_IS_ENGINE_MODULE
 	#define UE_IS_ENGINE_MODULE 0
@@ -145,6 +145,9 @@
 #endif
 #ifndef CORE_API
 	#define CORE_API 
+#endif
+#ifndef UE4DUINO_API
+	#define UE4DUINO_API 
 #endif
 #ifndef PAPER2D_API
 	#define PAPER2D_API 
@@ -3366,6 +3369,10 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeSessionMessages_init();
     extern void EmptyLinkFunctionForGeneratedCodeSessionServiceMessages();
     EmptyLinkFunctionForGeneratedCodeSessionServiceMessages();
+    extern void EmptyLinkFunctionForGeneratedCodeSerial();
+    EmptyLinkFunctionForGeneratedCodeSerial();
+    extern void EmptyLinkFunctionForGeneratedCodeUE4Duino_init();
+    EmptyLinkFunctionForGeneratedCodeUE4Duino_init();
     extern void EmptyLinkFunctionForGeneratedCodeIntMargin();
     EmptyLinkFunctionForGeneratedCodeIntMargin();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionSpriteTextureSampler();
@@ -4256,6 +4263,8 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeVideoCaptureProtocol();
     extern void EmptyLinkFunctionForStaticInitializationLaunch();
     EmptyLinkFunctionForStaticInitializationLaunch();
+    extern void EmptyLinkFunctionForStaticInitializationUE4Duino();
+    EmptyLinkFunctionForStaticInitializationUE4Duino();
     extern void EmptyLinkFunctionForStaticInitializationPaper2D();
     EmptyLinkFunctionForStaticInitializationPaper2D();
     extern void EmptyLinkFunctionForStaticInitializationLightPropagationVolumeRuntime();
