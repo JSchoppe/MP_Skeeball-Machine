@@ -1,0 +1,1951 @@
+﻿Log file open, 12/18/18 17:22:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SkeeTesting2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(718659430) SRandInit(718659430).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192397
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UE4Duino
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Binaries/Win64/UE4Editor-SkeeTesting2-5306.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Plugins/UE4Duino_2.2.1_4.18/UE4Duino/Binaries/Win64/UE4Editor-UE4Duino.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.19-01.22.02:405][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.19-01.22.02:405][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.19-01.22.02:443][  0]LogInit: Computer: DESKTOP-FRNA35L
+[2018.12.19-01.22.02:443][  0]LogInit: User: Skeeball
+[2018.12.19-01.22.02:443][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.19-01.22.02:443][  0]LogInit: High frequency timer resolution =3.312788 MHz
+[2018.12.19-01.22.02:443][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.12.19-01.22.02:443][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.19-01.22.02:443][  0]LogMemory: Process Physical Memory: 277.93 MB used, 277.93 MB peak
+[2018.12.19-01.22.02:443][  0]LogMemory: Process Virtual Memory: 271.24 MB used, 271.24 MB peak
+[2018.12.19-01.22.02:443][  0]LogMemory: Physical Memory: 2273.29 MB used,  5905.16 MB free, 8178.44 MB total
+[2018.12.19-01.22.02:443][  0]LogMemory: Virtual Memory: 642.46 MB used,  5905.16 MB free, 134217728.00 MB total
+[2018.12.19-01.22.02:619][  0]LogInit: Using OS detected language (en-US).
+[2018.12.19-01.22.02:619][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.19-01.22.02:622][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.19-01.22.02:995][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.19-01.22.03:251][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.19-01.22.03:258][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7000 series' (Feature Level 11_0)
+[2018.12.19-01.22.03:258][  0]LogD3D11RHI:       1008/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.12.19-01.22.03:259][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.19-01.22.03:259][  0]LogD3D11RHI:       0/0/4089 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.19-01.22.03:259][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.19-01.22.03:262][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.19-01.22.03:262][  0]LogD3D11RHI:     GPU DeviceId: 0x6778 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.19-01.22.03:262][  0]LogWindows: EnumDisplayDevices:
+[2018.12.19-01.22.03:262][  0]LogWindows:    0. 'AMD Radeon HD 7000 series' (P:1 D:1)
+[2018.12.19-01.22.03:262][  0]LogWindows:    1. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.12.19-01.22.03:262][  0]LogWindows:    2. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.12.19-01.22.03:262][  0]LogWindows:    3. 'AMD Radeon HD 7000 series' (P:0 D:0)
+[2018.12.19-01.22.03:263][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.19-01.22.03:263][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7000 series
+[2018.12.19-01.22.03:263][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2018.12.19-01.22.03:263][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2018.12.19-01.22.03:263][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2018.12.19-01.22.03:277][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.12.19-01.22.03:282][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.19-01.22.03:294][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.12.19-01.22.03:294][  0]LogShaderCompilers: Guid format shader working directory is -67 characters bigger than the processId version (../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Intermediate/Shaders/WorkingDirectory/3744/).
+[2018.12.19-01.22.03:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Skeeball/AppData/Local/Temp/UnrealShaderWorkingDir/C5044A7F4B1F3AD5974CAF86F86145AD/'.
+[2018.12.19-01.22.03:295][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.19-01.22.04:569][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.19-01.22.04:632][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.19-01.22.04:693][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.19-01.22.04:755][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.19-01.22.04:818][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.19-01.22.04:880][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.19-01.22.04:943][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.19-01.22.05:005][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.19-01.22.05:059][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.19-01.22.05:119][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.12.19-01.22.05:179][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.12.19-01.22.05:239][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.12.19-01.22.05:299][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.12.19-01.22.05:361][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.12.19-01.22.05:482][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.12.19-01.22.05:482][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.12.19-01.22.05:542][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-01.22.05:590][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.19-01.22.05:696][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.19-01.22.05:729][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.19-01.22.05:789][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.19-01.22.05:848][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.19-01.22.05:907][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.19-01.22.05:967][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.19-01.22.05:967][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.19-01.22.06:554][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.19-01.22.06:626][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.12.19-01.22.06:626][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.12.19-01.22.06:626][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.19-01.22.06:626][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.19-01.22.06:626][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.19-01.22.06:626][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.19-01.22.06:643][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.19-01.22.06:655][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Skeeball/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.19-01.22.06:667][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.19-01.22.06:667][  0]LogSlate: Using Freetype 2.6.0
+[2018.12.19-01.22.06:667][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.19-01.22.06:668][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.19-01.22.07:980][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.19-01.22.08:360][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.19-01.22.08:411][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.19-01.22.08:411][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.19-01.22.08:411][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.19-01.22.08:411][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.12.19-01.22.08:411][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.12.19-01.22.08:442][  0]LogNetVersion: SkeeTesting2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3365423841)
+[2018.12.19-01.22.08:614][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.12.19-01.22.09:154][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.065182 seconds
+[2018.12.19-01.22.09:159][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.12.19-01.22.09:159][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.12.19-01.22.09:159][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.19-01.22.09:229][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.12.19-01.22.12:231][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.19-01.22.12:283][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.19-01.22.12:856][  0]UE4DuinoLog: Warning: UE4Duino: Log Started
+[2018.12.19-01.22.13:194][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.12.19-01.22.13:689][  0]SourceControl: Source control is disabled
+[2018.12.19-01.22.13:689][  0]SourceControl: Source control is disabled
+[2018.12.19-01.22.13:755][  0]SourceControl: Source control is disabled
+[2018.12.19-01.22.13:819][  0]SourceControl: Source control is disabled
+[2018.12.19-01.22.14:813][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.19-01.22.15:140][  0]LogOcInput: OculusInput pre-init called
+[2018.12.19-01.22.15:460][  0]LogEngine: Initializing Engine...
+[2018.12.19-01.22.15:463][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.19-01.22.15:664][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.19-01.22.15:664][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.19-01.22.15:817][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.19-01.22.15:821][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.22.15:864][  0]LogInit: FAudioDevice initialized.
+[2018.12.19-01.22.16:047][  0]LogDerivedDataCache: Saved boot cache 0.18s 74MB C:/Users/Skeeball/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.12.19-01.22.16:059][  0]LogInit: Texture streaming: Enabled
+[2018.12.19-01.22.16:187][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.19-01.22.16:342][  0]LogInit: Transaction tracking system initialized
+[2018.12.19-01.22.16:723][  0]BlueprintLog: New page: Editor Load
+[2018.12.19-01.22.17:803][  0]LocalizationService: Localization service is disabled
+[2018.12.19-01.22.18:702][  0]LogConsoleResponse: Display: 
+[2018.12.19-01.22.18:888][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.19-01.22.18:888][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.19-01.22.18:888][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.19-01.22.19:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/' took 0.01s
+[2018.12.19-01.22.20:349][  0]SourceControl: Source control is disabled
+[2018.12.19-01.22.20:349][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-01.22.20:349][  0]LightingResults: New page: Lighting Build
+[2018.12.19-01.22.20:399][  0]MapCheck: New page: Map Check
+[2018.12.19-01.22.20:399][  0]LightingResults: New page: Lighting Build
+[2018.12.19-01.22.25:544][  0]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.22.25:553][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-01.22.25:632][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-01.22.25:697][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.847ms to complete.
+[2018.12.19-01.22.25:697][  0]LogFileHelpers: Loading map 'SkeeballMap' took 5.349
+[2018.12.19-01.22.25:846][  0]LogCollectionManager: Loaded 0 collections in 0.002843 seconds
+[2018.12.19-01.22.25:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Collections/' took 0.01s
+[2018.12.19-01.22.25:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Developers/Skeeball/Collections/' took 0.01s
+[2018.12.19-01.22.25:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Collections/' took 0.01s
+[2018.12.19-01.22.25:934][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.19-01.22.25:944][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2365 classes and 524 folders.
+[2018.12.19-01.22.26:027][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.12.19-01.22.26:068][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.12.19-01.22.26:123][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.12.19-01.22.26:167][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.19-01.22.26:169][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.19-01.22.26:174][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.19-01.22.26:281][  0]LogRenderer: Reallocating scene render targets to support 744x300 Format 9 NumSamples 1 (Frame:1).
+[2018.12.19-01.22.26:392][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.12.19-01.22.26:535][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.12.19-01.22.26:535][  0]LogLoad: (Engine Initialization) Total time: 27.20 seconds
+[2018.12.19-01.22.26:535][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.19-01.22.26:535][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.12.19-01.22.26:601][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.12.19-01.22.26:635][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/' took 0.05s
+[2018.12.19-01.22.26:642][  1]LogAssetRegistry: Asset discovery search completed in 18.0499 seconds
+[2018.12.19-01.22.26:644][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.19-01.22.26:644][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.12.19-01.22.27:589][ 23]LogLinker: Warning: Can't resolve asset name
+[2018.12.19-01.22.27:592][ 23]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.12.19-01.22.27:967][ 23]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.12.19-01.22.36:543][363]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.22.36:600][363]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.22.36:600][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.22.36:600][363]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:22:36 AM)
+[2018.12.19-01.22.36:600][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.22.36:613][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012603s)
+[2018.12.19-01.22.36:614][363]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.22.36:614][363]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2018.12.19-01.22.36:614][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013654s)
+[2018.12.19-01.22.36:639][363]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.22.36:645][363]LogInit: FAudioDevice initialized.
+[2018.12.19-01.22.36:699][363]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.22.36:700][363]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.22.36
+[2018.12.19-01.22.36:701][363]LogWorld: Bringing up level for play took: 0.001537
+[2018.12.19-01.22.36:753][363]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.12.19-01.22.36:762][363]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 1.006
+[2018.12.19-01.22.36:762][363]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.22.36:764][363]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 16.666933 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.36:793][363]LogRenderer: Reallocating scene render targets to support 1200x700 Format 9 NumSamples 1 (Frame:1).
+[2018.12.19-01.22.36:861][364]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 633.449585 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.36:870][365]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 20.745672 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.36:920][366]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.561089 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.36:968][367]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 95.482117 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:011][368]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.868217 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:054][369]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.668991 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:098][370]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 88.014091 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:141][371]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.527115 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:184][372]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.440186 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:228][373]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.615257 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:271][374]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.668999 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:315][375]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 88.369675 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:358][376]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.431122 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:402][377]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.748688 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:445][378]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.306755 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:488][379]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.676842 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:532][380]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.831757 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:575][381]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.128059 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:619][382]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 88.178902 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:662][383]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.016373 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:705][384]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.131073 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:749][385]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.276337 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:791][386]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.748314 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:834][387]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.396347 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:877][388]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.285873 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:919][389]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.090858 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.37:962][390]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.081215 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:004][391]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.139763 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:047][392]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.040154 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:089][393]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.136147 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:133][394]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.568169 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:175][395]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.036530 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:218][396]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.621300 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:261][397]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.070946 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:304][398]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.980988 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:347][399]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.160294 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:390][400]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.205574 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:432][401]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.009361 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:474][402]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.200752 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:517][403]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.948380 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:560][404]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.687103 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:603][405]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.612244 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:646][406]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.929672 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:688][407]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.071541 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:731][408]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.175385 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:773][409]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.127693 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:816][410]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.109573 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:858][411]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.953819 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:901][412]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.138557 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:944][413]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.718498 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.38:988][414]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.638809 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:030][415]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.076981 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:073][416]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.996078 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:115][417]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.070343 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:158][418]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.150627 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:200][419]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.999107 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:242][420]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.067314 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:285][421]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.061882 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:328][422]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.710655 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:372][423]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.607414 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:414][424]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.133728 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:457][425]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.027473 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:499][426]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.067322 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:542][427]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.945976 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:584][428]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.082413 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:627][429]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.175995 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:669][430]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.964684 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:712][431]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.397560 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:755][432]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.013718 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:798][433]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.586517 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:842][434]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.592560 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:885][435]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.630585 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:927][436]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.824394 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.39:970][437]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.822578 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:013][438]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.776695 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:057][439]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.629509 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:100][440]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.087608 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:143][441]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.059837 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:186][442]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.106934 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:230][443]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.064667 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:273][444]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.225861 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:316][445]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.686264 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:359][446]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.130478 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:402][447]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.196274 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:445][448]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.248810 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:488][449]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.152809 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:531][450]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.343590 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:575][451]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.732155 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:619][452]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.366524 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:662][453]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.234314 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:705][454]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.227066 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:748][455]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.261482 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:791][456]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.314011 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:835][457]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.843834 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:878][458]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.339958 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:921][459]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.236130 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.40:964][460]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.210167 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:007][461]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.204124 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:051][462]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.152206 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:094][463]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.612007 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:137][464]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 86.027237 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:180][465]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.948761 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:223][466]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.939697 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:266][467]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.960831 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:309][468]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.796005 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:354][469]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.322220 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:397][470]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 87.174911 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:440][471]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.578674 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:483][472]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.387894 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:525][473]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 84.984619 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.41:568][474]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 85.098106 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.22.45:053][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.22.45:238][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.22.57:940][277]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.12.19-01.22.59:364][354]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.19-01.22.59:914][355]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.19-01.23.43:132][920]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.23.43:155][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.23.43:155][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.23.43:155][920]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:23:43 AM)
+[2018.12.19-01.23.43:155][920]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.23.43:168][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012860s)
+[2018.12.19-01.23.43:169][920]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.23.43:170][920]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2018.12.19-01.23.43:170][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.014361s)
+[2018.12.19-01.23.43:192][920]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.23.43:197][920]LogInit: FAudioDevice initialized.
+[2018.12.19-01.23.43:240][920]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.23.43:242][920]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.23.43
+[2018.12.19-01.23.43:243][920]LogWorld: Bringing up level for play took: 0.001640
+[2018.12.19-01.23.43:254][920]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap -0.501
+[2018.12.19-01.23.43:255][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.23.43:260][920]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 22.830322 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:326][921]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 387.909546 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:344][922]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 36.215416 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:415][923]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 140.273987 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:474][924]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 118.638443 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:528][925]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 108.876877 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:578][926]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 99.640541 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:627][927]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.177734 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:677][928]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 99.641754 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:727][929]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 99.776382 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:777][930]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 100.131973 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:827][931]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 99.607941 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:877][932]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.397476 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:926][933]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.222404 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.43:975][934]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.707191 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:024][935]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.787720 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:073][936]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.034050 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:122][937]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.578598 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:171][938]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.109512 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:220][939]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.991173 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:268][940]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.613846 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:317][941]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.266113 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:366][942]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.345802 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:415][943]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.357635 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:463][944]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.026436 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:512][945]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.305717 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:561][946]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.517494 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:609][947]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.439011 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:657][948]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.553711 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:705][949]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.384079 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:754][950]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.704643 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:802][951]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.830826 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:850][952]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.449883 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:899][953]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.935036 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:947][954]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.609261 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.44:996][955]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.106491 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:045][956]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.623146 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:093][957]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.271545 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:141][958]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.426331 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:190][959]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.593567 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:238][960]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.527153 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:286][961]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.457123 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:335][962]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.007477 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:385][963]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.087166 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:433][964]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.775284 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:483][965]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 98.120979 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:531][966]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.452896 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:579][967]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.487907 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:627][968]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.269371 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:675][969]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.482475 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:724][970]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.675674 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:772][971]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 96.419693 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:821][972]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 97.886131 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.23.45:821][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.23.45:982][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.08:385][  1]BlueprintLog: New page: Compile SkeeballMap
+[2018.12.19-01.24.10:207][ 12]LogSavePackage: Save=944.92ms
+[2018.12.19-01.24.10:207][ 12]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMapFAAC05564841AE9C88F2878F4BA8C935.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.12.19-01.24.10:213][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.12.19-01.24.10:259][ 12]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.19-01.24.10:260][ 12]LogFileHelpers: Saving map 'SkeeballMap' took 1.127
+[2018.12.19-01.24.10:670][ 26]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.24.10:693][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.10:693][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.24.10:693][ 26]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:24:10 AM)
+[2018.12.19-01.24.10:693][ 26]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.24.10:706][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012256s)
+[2018.12.19-01.24.10:706][ 26]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.24.10:706][ 26]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.12.19-01.24.10:707][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013218s)
+[2018.12.19-01.24.10:728][ 26]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.24.10:734][ 26]LogInit: FAudioDevice initialized.
+[2018.12.19-01.24.10:789][ 26]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.24.10:791][ 26]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.24.10
+[2018.12.19-01.24.10:791][ 26]LogWorld: Bringing up level for play took: 0.001315
+[2018.12.19-01.24.10:795][ 26]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets2' of length 0 in '/Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com'!
+[2018.12.19-01.24.10:795][ 26]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:01AA
+[2018.12.19-01.24.10:795][ 26]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_Arduino_Com' from node: Debug Log in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.12.19-01.24.10:809][ 26]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 1.053
+[2018.12.19-01.24.10:810][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.10:815][ 26]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 65.779633 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.24.10:987][ 27]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 626.277344 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.24.11:004][ 28]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 38.034424 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.24.13:418][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.13:580][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.46:101][385]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.24.46:124][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.46:124][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.24.46:124][385]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:24:46 AM)
+[2018.12.19-01.24.46:125][385]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.24.46:137][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012507s)
+[2018.12.19-01.24.46:138][385]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.24.46:138][385]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2018.12.19-01.24.46:138][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013473s)
+[2018.12.19-01.24.46:160][385]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.24.46:166][385]LogInit: FAudioDevice initialized.
+[2018.12.19-01.24.46:204][385]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.24.46:206][385]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.24.46
+[2018.12.19-01.24.46:206][385]LogWorld: Bringing up level for play took: 0.001354
+[2018.12.19-01.24.46:210][385]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets2' of length 0 in '/Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com'!
+[2018.12.19-01.24.46:210][385]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:01AA
+[2018.12.19-01.24.46:210][385]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_Arduino_Com' from node: Debug Log in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.12.19-01.24.46:216][385]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.459
+[2018.12.19-01.24.46:216][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.46:220][385]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 70.015350 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.24.46:368][386]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 527.418030 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.24.46:384][387]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 37.131264 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.24.53:280][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.24.53:436][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.25.12:307][142]BlueprintLog: New page: Compile Arduino_Com
+[2018.12.19-01.25.13:230][151]LogSavePackage: Save=50.00ms
+[2018.12.19-01.25.13:230][151]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Arduino_Com6A90220049AF79FE49232C92DB48EB82.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset'
+[2018.12.19-01.25.13:234][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset
+[2018.12.19-01.25.14:004][174]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.25.14:037][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.25.14:037][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.25.14:038][174]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:25:14 AM)
+[2018.12.19-01.25.14:038][174]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.25.14:051][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013270s)
+[2018.12.19-01.25.14:052][174]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.25.14:052][174]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.12.19-01.25.14:052][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.014287s)
+[2018.12.19-01.25.14:072][174]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.25.14:078][174]LogInit: FAudioDevice initialized.
+[2018.12.19-01.25.14:113][174]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.25.14:115][174]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.25.14
+[2018.12.19-01.25.14:115][174]LogWorld: Bringing up level for play took: 0.001367
+[2018.12.19-01.25.14:118][174]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets2' of length 0 in '/Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com'!
+[2018.12.19-01.25.14:118][174]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:01AA
+[2018.12.19-01.25.14:119][174]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_Arduino_Com' from node: Debug Log in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.12.19-01.25.14:123][174]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.367
+[2018.12.19-01.25.14:123][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.25.14:127][174]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 28.070621 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.25.14:319][175]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 622.720154 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.25.14:339][176]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 45.077435 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.25.16:621][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.25.16:734][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.25.21:354][383]BlueprintLog: New page: Compile Arduino_Com
+[2018.12.19-01.25.22:941][411]LogSavePackage: Save=49.55ms
+[2018.12.19-01.25.22:941][411]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Arduino_Com915441B0465B1961106BB0A62ECF9E6C.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset'
+[2018.12.19-01.25.22:944][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Blueprints/Arduino_Com.uasset
+[2018.12.19-01.25.42:725][237]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.25.42:757][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.25.42:757][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.25.42:757][237]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:25:42 AM)
+[2018.12.19-01.25.42:757][237]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.25.42:770][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012400s)
+[2018.12.19-01.25.42:770][237]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.25.42:770][237]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2018.12.19-01.25.42:771][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013363s)
+[2018.12.19-01.25.42:791][237]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.25.42:797][237]LogInit: FAudioDevice initialized.
+[2018.12.19-01.25.42:836][237]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.25.42:838][237]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.25.42
+[2018.12.19-01.25.42:838][237]LogWorld: Bringing up level for play took: 0.001371
+[2018.12.19-01.25.42:842][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets2' of length 0 in '/Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com'!
+[2018.12.19-01.25.42:842][237]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:01AA
+[2018.12.19-01.25.42:842][237]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_Arduino_Com' from node: Debug Log in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.12.19-01.25.42:847][237]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 1.09
+[2018.12.19-01.25.42:847][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.25.42:850][237]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 73.113640 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.25.43:039][238]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 620.848083 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.25.43:055][239]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 37.111343 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.25.54:444][456]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.19-01.25.54:449][456]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.19-01.25.54:455][456]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.19-01.25.54:456][456]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.12.19-01.25.54:466][456]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.19-01.26.21:230][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.26.21:344][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.26.21:438][975]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.19-01.26.35:304][494]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.12.19-01.26.36:329][494]LogSavePackage: Save=940.82ms
+[2018.12.19-01.26.36:329][494]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMapECC49E0140B3B12152E019A90887571F.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.12.19-01.26.36:333][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.12.19-01.26.36:427][494]LogSavePackage: Save=4.99ms
+[2018.12.19-01.26.36:427][494]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMap_BuiltData5BCA6E474DA75DC8926E0B9E84E80BAF.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap_BuiltData.uasset'
+[2018.12.19-01.26.36:429][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap_BuiltData.uasset
+[2018.12.19-01.29.48:609][393]LogEditorFactories: Performing atomic reimport of [C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program-Assets/Standard Board Assets/MPLogo.fbx]
+[2018.12.19-01.29.48:709][393]LogFbx: Loading FBX Scene from C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program-Assets/Standard Board Assets/MPLogo.fbx
+[2018.12.19-01.29.48:746][393]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.19-01.29.48:778][393]LogFbx: Warning: Triangulating static mesh mp
+[2018.12.19-01.29.48:867][393]LogStaticMesh: Building static mesh MPLogo...
+[2018.12.19-01.29.48:919][393]LogStaticMesh: Built static mesh [0.05s] /Game/Boards/Standard/Meshes/MPLogo.MPLogo
+[2018.12.19-01.29.48:959][393]LogEditorFactories: -- imported successfully
+[2018.12.19-01.29.48:962][393]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.19-01.29.48:974][393]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.12.19-01.29.51:892][501]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.12.19-01.29.51:947][501]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.19-01.30.54:907][ 11]LogEditorFactories: Performing atomic reimport of [C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program-Assets/Standard Board Assets/MPLogo.fbx]
+[2018.12.19-01.30.54:924][ 11]LogFbx: Loading FBX Scene from C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program-Assets/Standard Board Assets/MPLogo.fbx
+[2018.12.19-01.30.54:931][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.19-01.30.54:932][ 11]LogFbx: Warning: Triangulating static mesh mp
+[2018.12.19-01.30.54:948][ 11]LogStaticMesh: Building static mesh MPLogo...
+[2018.12.19-01.30.54:955][ 11]LogStaticMesh: Built static mesh [0.01s] /Game/Boards/Standard/Meshes/MPLogo.MPLogo
+[2018.12.19-01.30.54:959][ 11]LogEditorFactories: -- imported successfully
+[2018.12.19-01.30.54:962][ 11]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.19-01.31.09:468][328]LogSavePackage: Save=15.56ms
+[2018.12.19-01.31.09:468][328]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/MPLogo11ECF02D40976EA05D93BAA79BD1EB09.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Boards/Standard/Meshes/MPLogo.uasset'
+[2018.12.19-01.31.09:472][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Boards/Standard/Meshes/MPLogo.uasset
+[2018.12.19-01.31.13:043][545]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.31.13:065][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.31.13:065][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.31.13:066][545]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:31:13 AM)
+[2018.12.19-01.31.13:066][545]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.31.13:080][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013568s)
+[2018.12.19-01.31.13:080][545]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.31.13:080][545]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.12.19-01.31.13:080][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.014601s)
+[2018.12.19-01.31.13:110][545]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.31.13:117][545]LogInit: FAudioDevice initialized.
+[2018.12.19-01.31.13:156][545]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.31.13:158][545]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.31.13
+[2018.12.19-01.31.13:158][545]LogWorld: Bringing up level for play took: 0.001427
+[2018.12.19-01.31.13:162][545]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets2' of length 0 in '/Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com'!
+[2018.12.19-01.31.13:162][545]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:01AA
+[2018.12.19-01.31.13:162][545]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_Arduino_Com' from node: Debug Log in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.12.19-01.31.13:167][545]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap -0.59
+[2018.12.19-01.31.13:167][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.31.13:170][545]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 16.666933 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.31.13:256][546]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 421.551880 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.31.13:267][547]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 26.785894 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.31.37:116][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.31.37:220][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.36.56:815][147]LogSavePackage: Save=958.53ms
+[2018.12.19-01.36.56:815][147]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMap_Auto162BBA88F4AF8616C5A567EAC84FE48E7.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto1.umap'
+[2018.12.19-01.36.56:817][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Autosaves/Game/SkeeballMap_Auto1.umap
+[2018.12.19-01.36.56:821][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SkeeballMap' took 1.029
+[2018.12.19-01.36.56:821][147]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.029
+[2018.12.19-01.36.56:829][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint_Objects/Spinning_MP] ([1] browsable assets)...
+[2018.12.19-01.36.56:891][147]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint_Objects/Spinning_MP.Spinning_MP]
+[2018.12.19-01.36.56:891][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint_Objects/Spinning_MP]
+[2018.12.19-01.36.56:984][147]LogSavePackage: Save=54.59ms
+[2018.12.19-01.36.56:984][147]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Spinning_MP_Auto1A58C1D1644E0FF0D1426F78A60F0FE1C.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Autosaves/Game/Blueprint_Objects/Spinning_MP_Auto1.uasset'
+[2018.12.19-01.36.56:986][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Autosaves/Game/Blueprint_Objects/Spinning_MP_Auto1.uasset
+[2018.12.19-01.36.56:986][147]LogFileHelpers: Auto-saving content packages took 0.158
+[2018.12.19-01.39.10:273][797]BlueprintLog: New page: Compile SkeeballMap
+[2018.12.19-01.39.12:128][808]LogSavePackage: Save=942.08ms
+[2018.12.19-01.39.12:128][808]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMapE56BB7EC4832E466117DFF930A68262D.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.12.19-01.39.12:135][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.12.19-01.39.12:181][808]LogFileHelpers: Saving map 'SkeeballMap' took 1.117
+[2018.12.19-01.39.14:076][874]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.39.14:099][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.39.14:099][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.39.14:099][874]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:39:14 AM)
+[2018.12.19-01.39.14:099][874]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.39.14:113][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013167s)
+[2018.12.19-01.39.14:113][874]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.39.14:113][874]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.12.19-01.39.14:114][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.014223s)
+[2018.12.19-01.39.14:138][874]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.39.14:144][874]LogInit: FAudioDevice initialized.
+[2018.12.19-01.39.14:202][874]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.39.14:204][874]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.39.14
+[2018.12.19-01.39.14:204][874]LogWorld: Bringing up level for play took: 0.001358
+[2018.12.19-01.39.14:206][874]LogScript: Warning: Accessed None trying to read property Mode Manager
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:1B56
+[2018.12.19-01.39.14:206][874]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Mode Manager from function: 'ExecuteUbergraph_SkeeballMap' from node: Load Debug Widget in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Mode Manager
+[2018.12.19-01.39.14:208][874]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets2' of length 0 in '/Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com'!
+[2018.12.19-01.39.14:208][874]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:01AA
+[2018.12.19-01.39.14:208][874]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_Arduino_Com' from node: Debug Log in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.12.19-01.39.14:226][874]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.47
+[2018.12.19-01.39.14:226][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.39.14:234][874]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 29.791222 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.39.14:392][875]LogScript: Warning: Accessed None trying to read property Debug Widget
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:119A
+[2018.12.19-01.39.14:392][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_SkeeballMap' from node: Print Timestamped Event in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.39.14:392][875]LogScript: Warning: Accessed None trying to read property Debug Widget
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:0CCC
+[2018.12.19-01.39.14:392][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_SkeeballMap' from node: Print Timestamped Event in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.39.14:392][875]LogScript: Warning: Accessed None trying to read property Debug Widget
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:1259
+[2018.12.19-01.39.14:392][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_SkeeballMap' from node: Print Timestamped Event in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.39.14:424][875]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:2D50
+[2018.12.19-01.39.14:425][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Branch in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.39.14:425][875]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:2DA6
+[2018.12.19-01.39.14:425][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Set Visibility in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.39.14:425][875]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:183B
+[2018.12.19-01.39.14:425][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Branch in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.39.14:425][875]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:1A3C
+[2018.12.19-01.39.14:425][875]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Add to Viewport in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.39.17:063][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.39.17:239][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.00:248][534]BlueprintLog: New page: Compile SkeeballMap
+[2018.12.19-01.40.02:066][545]LogSavePackage: Save=939.35ms
+[2018.12.19-01.40.02:066][545]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMap3D9503664075EBF70E7463934BA1137C.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.12.19-01.40.02:070][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.12.19-01.40.02:115][545]LogFileHelpers: Saving map 'SkeeballMap' took 1.110
+[2018.12.19-01.40.02:563][559]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.40.02:585][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.02:585][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.40.02:585][559]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:40:02 AM)
+[2018.12.19-01.40.02:585][559]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.40.02:599][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013224s)
+[2018.12.19-01.40.02:599][559]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.40.02:599][559]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.12.19-01.40.02:600][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.014332s)
+[2018.12.19-01.40.02:622][559]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.40.02:628][559]LogInit: FAudioDevice initialized.
+[2018.12.19-01.40.02:691][559]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.40.02:693][559]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.40.02
+[2018.12.19-01.40.02:694][559]LogWorld: Bringing up level for play took: 0.001600
+[2018.12.19-01.40.02:695][559]LogScript: Warning: Accessed None trying to read property Mode Manager
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:1B5B
+[2018.12.19-01.40.02:695][559]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Mode Manager from function: 'ExecuteUbergraph_SkeeballMap' from node: Load Debug Widget in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Mode Manager
+[2018.12.19-01.40.02:697][559]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets2' of length 0 in '/Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com'!
+[2018.12.19-01.40.02:697][559]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	Arduino_Com_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Arduino_Com_56
+	Function /Game/Blueprints/Arduino_Com.Arduino_Com_C:ExecuteUbergraph_Arduino_Com:01AA
+[2018.12.19-01.40.02:697][559]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item2 from function: 'ExecuteUbergraph_Arduino_Com' from node: Debug Log in graph: EventGraph in object: Arduino_Com with description: Accessed None trying to read property CallFunc_Array_Get_Item2
+[2018.12.19-01.40.02:717][559]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.96
+[2018.12.19-01.40.02:717][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.02:723][559]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 73.376862 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.40.02:875][560]LogScript: Warning: Accessed None trying to read property Debug Widget
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:110E
+[2018.12.19-01.40.02:875][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_SkeeballMap' from node: Print Timestamped Event in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.40.02:875][560]LogScript: Warning: Accessed None trying to read property Debug Widget
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:0C40
+[2018.12.19-01.40.02:875][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_SkeeballMap' from node: Print Timestamped Event in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.40.02:875][560]LogScript: Warning: Accessed None trying to read property Debug Widget
+	SkeeballMap_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap_C_0
+	Function /Game/SkeeballMap.SkeeballMap_C:ExecuteUbergraph_SkeeballMap:11CD
+[2018.12.19-01.40.02:875][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_SkeeballMap' from node: Print Timestamped Event in graph: EventGraph in object: SkeeballMap with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.40.02:907][560]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:2D50
+[2018.12.19-01.40.02:908][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Branch in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.40.02:908][560]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:2DA6
+[2018.12.19-01.40.02:908][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Set Visibility in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.40.02:908][560]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:183B
+[2018.12.19-01.40.02:908][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Branch in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.40.02:908][560]LogScript: Warning: Accessed None trying to read property Debug Widget
+	Mode_Manager_C /Game/UEDPIE_0_SkeeballMap.SkeeballMap:PersistentLevel.Mode_Manager_124
+	Function /Game/Blueprint_Objects/Mode_Manager.Mode_Manager_C:ExecuteUbergraph_Mode_Manager:1A3C
+[2018.12.19-01.40.02:908][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Debug Widget from function: 'ExecuteUbergraph_Mode_Manager' from node: Add to Viewport in graph: EventGraph in object: Mode_Manager with description: Accessed None trying to read property Debug Widget
+[2018.12.19-01.40.05:325][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.05:481][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.29:789][535]BlueprintLog: New page: Compile SkeeballMap
+[2018.12.19-01.40.31:603][546]LogSavePackage: Save=939.22ms
+[2018.12.19-01.40.31:603][546]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMap479ADED74B5992DE9E7B8FA3C608CBA4.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.12.19-01.40.31:607][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.12.19-01.40.31:649][546]LogFileHelpers: Saving map 'SkeeballMap' took 1.105
+[2018.12.19-01.40.32:026][558]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.19-01.40.32:048][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.32:048][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-01.40.32:049][558]PIE: New page: PIE session: SkeeballMap (Dec 18, 2018, 9:40:32 AM)
+[2018.12.19-01.40.32:049][558]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SkeeballMap
+[2018.12.19-01.40.32:061][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012307s)
+[2018.12.19-01.40.32:062][558]LogAIModule: Creating AISystem for world SkeeballMap
+[2018.12.19-01.40.32:062][558]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2018.12.19-01.40.32:062][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkeeballMap.SkeeballMap to /Game/UEDPIE_0_SkeeballMap.SkeeballMap (0.013595s)
+[2018.12.19-01.40.32:086][558]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.19-01.40.32:091][558]LogInit: FAudioDevice initialized.
+[2018.12.19-01.40.32:154][558]LogLoad: Game class is 'GameModeBase'
+[2018.12.19-01.40.32:156][558]LogWorld: Bringing World /Game/UEDPIE_0_SkeeballMap.SkeeballMap up for play (max tick rate 0) at 2018.12.18-17.40.32
+[2018.12.19-01.40.32:156][558]LogWorld: Bringing up level for play took: 0.001421
+[2018.12.19-01.40.32:181][558]PIE: Play in editor start time for /Game/UEDPIE_0_SkeeballMap 0.426
+[2018.12.19-01.40.32:182][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.32:189][558]LogScriptCore: Warning: Script Msg: Modulo by zero detected: 70.258644 % 0
+Script call stack:
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ReceiveTick
+	Function /Game/Blueprint_Objects/Scrolling_Background.Scrolling_Background_C:ExecuteUbergraph_Scrolling_Background
+
+[2018.12.19-01.40.34:364][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.40.34:527][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkeeballMap.SkeeballMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap' with GeneratedClass '/Game/SkeeballMap.SkeeballMap_C' with ClassGeneratedBy '/Game/SkeeballMap.SkeeballMap:PersistentLevel.SkeeballMap'
+[2018.12.19-01.41.19:879][876]BlueprintLog: New page: Compile SkeeballMap
+[2018.12.19-01.41.21:693][886]LogSavePackage: Save=939.72ms
+[2018.12.19-01.41.21:693][886]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMap07B9104D44D747D6F64D519B37F61E38.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.12.19-01.41.21:696][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.12.19-01.41.21:742][886]LogFileHelpers: Saving map 'SkeeballMap' took 1.110
+[2018.12.19-01.41.27:873][ 50]LogSavePackage: Save=936.92ms
+[2018.12.19-01.41.27:873][ 50]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMapD9145685479D15B7C6A92F8E48ADB52A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap'
+[2018.12.19-01.41.27:876][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap.umap
+[2018.12.19-01.41.27:967][ 50]LogSavePackage: Save=4.48ms
+[2018.12.19-01.41.27:967][ 50]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/SkeeballMap_BuiltDataD20CC06C4229C414F8DFD5AA563C7B98.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap_BuiltData.uasset'
+[2018.12.19-01.41.27:968][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/SkeeballMap_BuiltData.uasset
+[2018.12.19-01.41.31:099][ 84]LogSavePackage: Save=46.85ms
+[2018.12.19-01.41.31:099][ 84]LogSavePackage: Moving '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Spinning_MP8528DD9343A5438656CA9680EEB0543A.tmp' to '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Blueprint_Objects/Spinning_MP.uasset'
+[2018.12.19-01.41.31:102][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Blueprint_Objects/Spinning_MP.uasset
+[2018.12.19-01.41.31:223][ 84]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-01.41.31:395][ 85]Cmd: QUIT_EDITOR
+[2018.12.19-01.41.32:269][ 85]LogExit: Preparing to exit.
+[2018.12.19-01.41.33:091][ 85]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/' was aborted.
+[2018.12.19-01.41.33:136][ 85]LogExit: Editor shut down
+[2018.12.19-01.41.33:140][ 85]LogExit: Transaction tracking system shut down
+[2018.12.19-01.41.33:280][ 85]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.12.19-01.41.33:280][ 85]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/' was aborted.
+[2018.12.19-01.41.33:280][ 85]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.12.19-01.41.33:280][ 85]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.12.19-01.41.33:280][ 85]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.12.19-01.41.33:280][ 85]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.12.19-01.41.33:280][ 85]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.12.19-01.41.33:373][ 85]LogExit: Object subsystem successfully closed.
+[2018.12.19-01.41.33:387][ 85]LogD3D11RHI: Shutdown
+[2018.12.19-01.41.33:387][ 85]LogD3D11RHI: CleanupD3DDevice
+[2018.12.19-01.41.33:390][ 85]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (562)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module DataTableEditor (558)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module SequencerWidgets (556)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.12.19-01.41.33:413][ 85]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.12.19-01.41.33:413][ 85]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.12.19-01.41.33:414][ 85]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.12.19-01.41.33:414][ 85]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.12.19-01.41.33:414][ 85]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.12.19-01.41.33:414][ 85]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Collections/' was aborted.
+[2018.12.19-01.41.33:415][ 85]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Content/Developers/Skeeball/Collections/' was aborted.
+[2018.12.19-01.41.33:415][ 85]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Saved/Collections/' was aborted.
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.12.19-01.41.33:415][ 85]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.12.19-01.41.33:416][ 85]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.12.19-01.41.33:417][ 85]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.12.19-01.41.33:417][ 85]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.12.19-01.41.33:417][ 85]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.12.19-01.41.33:417][ 85]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.12.19-01.41.33:417][ 85]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.12.19-01.41.34:034][ 85]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.12.19-01.41.34:035][ 85]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.12.19-01.41.34:035][ 85]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.12.19-01.41.34:035][ 85]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.12.19-01.41.34:035][ 85]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.12.19-01.41.34:035][ 85]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.12.19-01.41.34:090][ 85]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.12.19-01.41.34:103][ 85]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.12.19-01.41.34:191][ 85]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.12.19-01.41.34:192][ 85]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.12.19-01.41.34:193][ 85]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.12.19-01.41.34:193][ 85]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.12.19-01.41.34:193][ 85]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.12.19-01.41.34:193][ 85]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Binaries/Win64' was aborted.
+[2018.12.19-01.41.34:193][ 85]LogDirectoryWatcher: A directory notification for 'C:/Users/Skeeball/Desktop/Skee-Repository/MP_Skeeball-Machine/Skee-Program/Proj Files/Skee Proj Files/Plugins/UE4Duino_2.2.1_4.18/UE4Duino/Binaries/Win64' was aborted.
+[2018.12.19-01.41.34:193][ 85]LogModuleManager: Shutting down and abandoning module SkeeTesting2 (272)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module UE4Duino (270)
+[2018.12.19-01.41.34:194][ 85]UE4DuinoLog: Warning: UE4Duino: Log Ended
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.12.19-01.41.34:194][ 85]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.12.19-01.41.34:295][ 85]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.12.19-01.41.34:396][ 85]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.12.19-01.41.34:396][ 85]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.12.19-01.41.34:396][ 85]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.12.19-01.41.34:396][ 85]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.12.19-01.41.34:396][ 85]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.12.19-01.41.34:396][ 85]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.12.19-01.41.34:397][ 85]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.12.19-01.41.34:403][ 85]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.12.19-01.41.34:404][ 85]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.12.19-01.41.34:404][ 85]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.12.19-01.41.34:404][ 85]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.12.19-01.41.34:404][ 85]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.12.19-01.41.34:406][ 85]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.12.19-01.41.34:407][ 85]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.12.19-01.41.34:475][ 85]LogDerivedDataCache: Shutdown
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.12.19-01.41.34:475][ 85]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.12.19-01.41.34:476][ 85]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.12.19-01.41.34:476][ 85]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.19-01.41.34:476][ 85]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2457CBB-4859-9F39-B9E3-DD94D8D7A624%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=d1c7cfef4edaebcaa6f81295526d57ae%7C152590f763034d899c4c09f626823630%7C628643c5-6e25-4160-a9c0-d7b31b0b9151&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.19-01.41.34:502][ 85]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.12.19-01.41.34:504][ 85]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.19-01.41.34:504][ 85]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.19-01.41.34:504][ 85]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.19-01.41.34:504][ 85]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.19-01.41.34:504][ 85]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.19-01.41.34:504][ 85]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.19-01.41.34:504][ 85]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.19-01.41.34:506][ 85]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.19-01.41.34:508][ 85]LogExit: Exiting.
+[2018.12.19-01.41.34:530][ 85]Log file closed, 12/18/18 17:41:34
